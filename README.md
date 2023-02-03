@@ -1,0 +1,1 @@
+# stwgs-content-api
