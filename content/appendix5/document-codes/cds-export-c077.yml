@@ -1,0 +1,28 @@
+code: "C077"
+tradeType: "EXPORT"
+description: "Authorisation issued by competent authority (Annex II, Part VIII of\
+  \ Reg. (EU) 2017/1509) concerning restrictive measures against the Democratic People's\
+  \ Republic of Korea and repealing Regulation (EC) No 329/2007."
+detailsOnTheDeclaration: "Enter the reference number of the authorisation issued by\
+  \ competent authority (Reg. (EU) 2017/1509) concerning restrictive measures against\
+  \ the Democratic People's Republic of Korea. If using more than one authorisation\
+  \ then a separate C069 entry in DE 2/3 is required for each authorisation."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

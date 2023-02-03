@@ -1,0 +1,15 @@
+code: "C657"
+tradeType: "EXPORT"
+description: "Sanitary certificate for the prevention, control and eradication of\
+  \ certain transmissible spongiform encephalopathies"
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  If using\
+  \ more than one certificate then a separate C657 entry in DE 2/3 is required for\
+  \ each certificate."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AP"
+  - "GE"
+  - "LE"
+  - "LP"
+  - "UE"

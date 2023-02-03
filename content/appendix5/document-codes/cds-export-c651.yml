@@ -1,0 +1,14 @@
+code: "C651"
+tradeType: "EXPORT"
+description: "Electronic administrative document (e-AD), as referred to in Article\
+  \ 3(1) of Reg. (EC) No 684/2009."
+detailsOnTheDeclaration: "Enter the  ARC number of the e-AD.  A separate C651 entry\
+  \ in DE2/3 is required for each individual e-AD"
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AP"
+  - "GE"
+  - "LE"
+  - "LP"
+  - "UE"

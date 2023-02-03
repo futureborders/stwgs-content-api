@@ -1,0 +1,8 @@
+code: "C602"
+tradeType: "IMPORT"
+description: "Declaration of particulars relating to customs value (continuation sheet\
+  \ D.V.1BIS)."
+detailsOnTheDeclaration: "Enter “DV1 cont. sheet completed”"
+system: "CDS"
+statusCodes:
+- "AE"

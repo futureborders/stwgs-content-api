@@ -1,0 +1,17 @@
+code: "C673"
+tradeType: "EXPORT"
+description: "Illegal Unreported  and Unregulated  (IUU) Fishing Regulation Catch\
+  \ Certificate: Commission Regulation (EC) No 1010/2009 laying down detailed rules\
+  \ for the implementation of Council Regulation (EC) No 1005/2008  establishing a\
+  \ Community system to prevent, deter and eliminate illegal, unreported and unregulated\
+  \ fishing.\nCommission Regulation (EU) No 86/2010 amending Council\nRegulation No\
+  \ 1005/2008  and Commission Regulation (EC) No\n1010/2009"
+detailsOnTheDeclaration: "Use one of the following status codes: AE, AG, IE or IP\
+  \ (see document status codes for harmonised declarations for definitions).\nSee\
+  \ also code Y927 which is to be declared for exempt fish and fish products."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AG"
+- "IE"
+- "IP"

@@ -1,0 +1,10 @@
+code: "N852"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Feed and Food of Non-Animal Origin\
+  \ (CHED-D) Part 2, Section D of Annex II to Commission Implementing Regulation (EU)\
+  \ 2019/1715 (OJ L 261)) imposes special conditions on the import of certain foodstuffs\
+  \ from certain non-EU countries due to contamination risk by aflatoxins."
+detailsOnTheDeclaration: "AG"
+system: "CHIEF"
+statusCodes:
+- "AG"

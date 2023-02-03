@@ -1,0 +1,14 @@
+code: "Y017"
+tradeType: "IMPORT"
+description: "Wholly obtained in Jordan and transported directly from that country\
+  \ to the Community."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

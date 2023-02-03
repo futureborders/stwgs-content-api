@@ -1,0 +1,43 @@
+code: "D008"
+tradeType: "IMPORT"
+description: "Invoice with a signed declaration by a company official declaring that\
+  \ the goods were manufactured by a particular company (whose products do not attract\
+  \ the full (highest rate) of rate of Anti-Dumping duty payable).  COMMISSION IMPLEMENTING\
+  \ REGULATION (EU) 2015/1518 imposing a definitive anti-dumping duty on imports of\
+  \ biodiesel originating in the United States of America following an expiry review\
+  \ pursuant to Article 11(2) of Council Regulation (EC) No 1225/2009.  COMMISSION\
+  \ IMPLEMENTING REGULATION (EU) 2015/1519 imposing definitive countervailing duties\
+  \ on imports of biodiesel originating in the United States of America following\
+  \ an expiry review pursuant to Article 18 of Council Regulation (EC) No 597/2009.\
+  \  COMMISSION IMPLEMENTING REGULATION (EU) 2016/675 amending Implementing Regulation\
+  \ (EU) 2015/1519 imposing definitive countervailing duties on imports of biodiesel\
+  \ originating in the United States of America following an expiry review pursuant\
+  \ to Article 18 of Council Regulation (EC) No 597/2009.  COMMISSION IMPLEMENTING\
+  \ REGULATION (EU) 2016/676 amending Implementing Regulation (EU) 2015/1518 imposing\
+  \ a definitive anti-dumping duty on imports of biodiesel originating in the United\
+  \ States of America following an expiry review pursuant to Article 11(2) of Council\
+  \ Regulation (EC) No 1225/2009."
+detailsOnTheDeclaration: "Enter the reference number of the invoice.  Where a sequentially\
+  \ numbered range of invoices cover the goods enter the lowest to the highest reference\
+  \ numbers of the invoices concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where invoices are not sequentially numbered enter the reference number\
+  \ of each invoice concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

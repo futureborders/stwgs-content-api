@@ -1,0 +1,10 @@
+code: "Y041"
+tradeType: "IMPORT"
+description: "VAT registered customer in EU state of final destination."
+detailsOnTheDeclaration: "VAT identification number of the customer who is liable\
+  \ for the VAT on the intra-Community acquisition of goods in accordance with Article\
+  \ 200(1) of the VAT Directive.\nUsed for the customer in the Member State for which\
+  \ the goods are bound; it cannot be used by a non VAT registered person."
+system: "CHIEF"
+statusCodes:
+- "AT"

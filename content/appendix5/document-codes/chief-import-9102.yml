@@ -1,0 +1,17 @@
+code: "9102"
+tradeType: "IMPORT"
+description: "Standard Individual Transhipment Licence\nOpen General Transhipment\
+  \ Licence"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AF, AP, AT, GE, GP, LE, LP,\
+  \ XX."
+system: "CHIEF"
+statusCodes:
+- "AF"
+- "AP"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "XX"

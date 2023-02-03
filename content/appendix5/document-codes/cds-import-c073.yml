@@ -1,0 +1,10 @@
+code: "C073"
+tradeType: "IMPORT"
+description: "REACH Authorisation, according to Title VII of Regulation (EC) No 1907/2006\
+  \ \nRegistration, Evaluation, Authorisation and Restriction of Chemicals (REACH)\
+  \ requires authorisations to be issued for the importation and placing on the home\
+  \ market of potentially harmful chemical substances See also document codes Y105,\
+  \ Y109 and Y115"
+detailsOnTheDeclaration: "Provide the REACH authorisation decision number"
+system: "CDS"
+statusCodes:

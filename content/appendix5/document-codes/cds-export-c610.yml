@@ -1,0 +1,13 @@
+code: "C610"
+tradeType: "EXPORT"
+description: "Information sheet INF9 relating to Inward processing triangular traffic\
+  \ (IM/EX)."
+detailsOnTheDeclaration: "Enter the reference number of the INF9.  Where a sequentially\
+  \ numbered range of INF9s cover the goods enter the lowest to the highest reference\
+  \ numbers of the INF9s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INF9s are not sequentially numbered enter the reference number of each\
+  \ INF9 concerned. Faxed copy not acceptable."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"

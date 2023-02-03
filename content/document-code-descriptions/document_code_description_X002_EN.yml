@@ -1,0 +1,24 @@
+documentCode: X002
+overlay: |
+  If your goods are intended to be 
+  [used by both civilians and the military (‘dual use’)](https://www.gov.uk/guidance/export-controls-dual-use-items-software-and-technology-goods-for-torture-and-radioactive-sources)
+  then you may need a licence from the Export Control Joint Unit.
+  
+  See the [Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)
+  to check if your items are controlled and whether you need an export licence from the Export Control Joint Unit.
+
+  Types of licences for dual-use goods include:
+  - Open General Export Licence
+  - General Export Authorisation
+  - Standard Individual Export Licence
+  - Open Individual Export Licence
+  
+  You may be able to use one of the open general export licences which allows the export of dual use goods to specific
+  destinations and removes the need to apply for an individual licence. See the [list of Open General Licences and General Export Authorisations available here](https://www.gov.uk/government/collections/open-general-export-licences-ogels#retained-general-export-authorisations).
+  
+  If the goods are to a destination not covered by OGEL or you cannot meet the terms and conditions of the OGEL, then a
+  standard individual export licence (SIEL) or open individual export licence (OIEL) will be needed.
+  
+  Register for the OGEL or apply for an export licence on 
+  [SPIRE, the online export licensing system](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).
+locale: EN

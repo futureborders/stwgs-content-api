@@ -1,0 +1,14 @@
+code: "Y007"
+tradeType: "IMPORT"
+description: "Seal (fixed to each piece) and directly transported. Non-preferential\
+  \ Tariff Quota for silk or cotton handloom products. See also document codes A015\
+  \ and Y006"
+detailsOnTheDeclaration: "Complete statement: ‘Handloom products sealed.’ in the Document\
+  \ Identifier (Second Component). Document Reason (Fourth Component) must be left\
+  \ blank. Use of this code constitutes a legal declaration that the goods are eligible\
+  \ for the tariff quota. Sufficient evidence must be held in records to demonstrate\
+  \ eligibility which must be produced on demand."
+system: "CDS"
+statusCodes:
+- "XA"
+- "XB"

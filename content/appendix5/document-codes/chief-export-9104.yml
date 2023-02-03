@@ -1,0 +1,30 @@
+code: "9104"
+tradeType: "EXPORT"
+description: "Standard Individual Export Licence: Military Goods and dual use goods\
+  \ subject to UK export controls Global Project Licence\nStandard Individual Transhipment\
+  \ Licence\nOpen Individual Export Licence: military or dual use goods\n subject\
+  \ to national control\nOpen General Export Licence (Military Goods) or dual use\
+  \ goods\n subject to national control\nOpen General Transhipment Licence"
+detailsOnTheDeclaration: "With the exception of AG, AS, EL, IE, IS, JE, JS, UE, UP,\
+  \ US, XB, XF, XU, enter appropriate status code listed in document status codes\
+  \ for harmonised declarations.\nFor supplementary declarations use EA, IA, JA or\
+  \ UA as appropriate (see document status codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AS"
+- "EA"
+- "EL"
+- "IA"
+- "IE"
+- "IS"
+- "JA"
+- "JE"
+- "JS"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"
+- "XF"
+- "XU"

@@ -1,0 +1,38 @@
+code: "C046"
+tradeType: "IMPORT"
+description: "Banana weighing certificate."
+detailsOnTheDeclaration: "Enter the reference number of the Banana weighing Certificate,\
+  \ if held.  Where a sequentially numbered range of certificates cover the goods\
+  \ enter the lowest to the highest reference numbers of the certificates concerned\
+  \ i.e. document code + 0054037-0054047: status code.  Where certificates are not\
+  \ sequentially numbered enter the reference number of each certificate concerned.\
+  \ Where a banana weighing certificate is not held enter “Not held” and produce weighing\
+  \ certificate within 10 days of import."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XU\nPleasenote:XUisonlypermittedwhenAdditionalProcedureCode‘1BN’isused–PleaseseethedetailednotesinCDSVolume3"
+- "Imports"
+- "Appendix2Bforfurtherdetails"

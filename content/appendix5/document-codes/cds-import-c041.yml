@@ -1,0 +1,17 @@
+code: "C041"
+tradeType: "IMPORT"
+description: "ICCAT bluefin tuna re-export certificate (Reg 640/2010, L 194).  REGULATION\
+  \ (EU) No 640/2010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL establishing a\
+  \ catch documentation programme for bluefin tuna Thunnus thynnus and amending Council\
+  \ Regulation (EC) No 1984/2003."
+detailsOnTheDeclaration: "Enter the reference number of the ICCAT bluefin tuna re-export\
+  \ Certificate.  Where a sequentially numbered range of certificates cover the goods\
+  \ enter the lowest to the highest reference numbers of the certificates concerned\
+  \ i.e. document code + 0054037-0054047: status code.  Where certificates are not\
+  \ sequentially numbered enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AF"
+- "AT"
+- "GE"
+- "XX"

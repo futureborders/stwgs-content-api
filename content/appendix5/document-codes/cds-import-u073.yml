@@ -1,0 +1,30 @@
+code: "U073"
+tradeType: "IMPORT"
+description: "Origin declaration containing the following statement \"Derogation -\
+  \ Commission Implementing Decision 2014/461/EU\" or \"Dérogation - Décision d'exé\
+  cution 2014/461/UE de la Commission\" as regards the rules of origin for prepared\
+  \ and preserved shrimps and prawns from Greenland. See also document code U031"
+detailsOnTheDeclaration: "Enter the reference number of the Origin declaration.  Where\
+  \ a sequentially numbered range of declarations cover the goods enter the lowest\
+  \ to the highest reference numbers of the declarations concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where declarations are not sequentially numbered\
+  \ enter the reference number of each declaration concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

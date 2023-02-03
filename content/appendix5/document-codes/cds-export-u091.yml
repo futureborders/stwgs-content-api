@@ -1,0 +1,30 @@
+code: "U091"
+tradeType: "EXPORT"
+description: "Invoice declaration - Invoice declaration EUR-MED (under the condition\
+  \ the declaration contains the remark \"no cumulation applied\"), stating European\
+  \ Union origin, in the context of the agreement between the European Union and the\
+  \ Swiss Confederation."
+detailsOnTheDeclaration: "Enter the reference number of the invoice.  Where a sequentially\
+  \ numbered range of invoices cover the goods enter the lowest to the highest reference\
+  \ numbers of the invoices concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where invoices are not sequentially numbered enter the reference number\
+  \ of each invoice concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

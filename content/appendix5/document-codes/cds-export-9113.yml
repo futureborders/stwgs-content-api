@@ -1,0 +1,16 @@
+code: "9113"
+tradeType: "EXPORT"
+description: "Controlled Drugs Individual Licence."
+detailsOnTheDeclaration: "Enter GBHCA or GBHCB followed by the licence number. If\
+  \ using more than one licence then a separate 9113 entry in\_DE\_is required for\
+  \ each licence."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "IA"
+  - "JA"
+  - "XW"
+  - "XX"

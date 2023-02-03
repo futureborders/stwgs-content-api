@@ -1,0 +1,21 @@
+code: "N787"
+tradeType: "IMPORT"
+description: "Bordereau (cargo load list)."
+detailsOnTheDeclaration: "Enter the reference number of the List.  Where a sequentially\
+  \ numbered range of Lists cover the goods enter the lowest to the highest reference\
+  \ numbers of the Lists concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where Lists are not sequentially numbered enter the reference number of each\
+  \ List concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

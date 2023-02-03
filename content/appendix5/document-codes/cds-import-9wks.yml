@@ -1,0 +1,21 @@
+code: "9WKS"
+tradeType: "IMPORT"
+description: "Worksheet to support calculation of the customs value and/or revenue\
+  \ calculations (for example: C&E 1154 for Outward Processing Relief).\nManual calculations\
+  \ required if the goods have been invoiced in more than one currency or a fixed\
+  \ rate of exchange has been stipulated in the contract of sale.\nIf a fixed rate\
+  \ of exchange has been used this is also to be declared on the attached document\
+  \ and rate declared in\_DE\_4/15"
+detailsOnTheDeclaration: "Enter ‘See attached worksheet’ as appropriate."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "JA"
+- "JE"
+- "JP"

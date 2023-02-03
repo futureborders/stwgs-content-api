@@ -1,0 +1,27 @@
+code: "U067"
+tradeType: "IMPORT"
+description: "Certificate EUR 1.  bearing the endorsement \"Derogation-Decision No\
+  \ 1/2012 of the ESA-EU Customs Cooperation Committee of 29/11/2012\" or \"Dérogation\
+  \ - Décision No 1/2012 du Comité de Coopération Douanière AfOA-UE du 29/11/2012\"\
+  ."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

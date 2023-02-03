@@ -1,0 +1,9 @@
+code: "C600"
+tradeType: "IMPORT"
+description: "Authorisation to operate a Free Zone"
+detailsOnTheDeclaration: "Provide the authorisation decision number for the Free Zone\
+  \ in the following format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB \n• 2 digit code indicating that a Free Zone authorisation is held, i.e.,\
+  \ FZ \n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

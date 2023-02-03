@@ -1,0 +1,8 @@
+code: "N955"
+tradeType: "IMPORT"
+description: "ATA carnet"
+detailsOnTheDeclaration: "Use status code AC (see document status codes for harmonised\
+  \ declarations for definition), also insert the Carnet number."
+system: "CHIEF"
+statusCodes:
+- "AC"

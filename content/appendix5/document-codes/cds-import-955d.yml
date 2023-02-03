@@ -1,0 +1,12 @@
+code: "955D"
+tradeType: "IMPORT"
+description: "When codes M or N are inserted, a deposit slip (form C&E955) must be\
+  \ attached to the declaration.\nWhen code R is used, deposit slip (form C&E955D)\
+  \ must be attached.\nFailure to attach forms C&E955 and C&E955D could result in\
+  \ a delay in any future repayment."
+detailsOnTheDeclaration: "Complete statement ‘Form C&E955 completed’ or ‘Form C&E955D\
+  \ completed’ in document identifier (second component). Document reason (fourth\
+  \ component) must be left blank."
+system: "CDS"
+statusCodes:
+- "AE"

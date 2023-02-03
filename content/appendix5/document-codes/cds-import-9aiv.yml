@@ -1,0 +1,11 @@
+code: "9AIV"
+tradeType: "IMPORT"
+description: "Evidence required by Procedure or Additional Procedure Code (DE\_1/10\
+  \ and\_DE\_1/11) instructions or claiming relief from VAT."
+detailsOnTheDeclaration: "Reference details: enter the reference number of the document\
+  \ supporting the claim to relief.\n– JP – Evidence required is available from trader\n\
+  – UP – Evidence required is unavailable."
+system: "CDS"
+statusCodes:
+- "JP"
+- "UP"

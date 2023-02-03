@@ -1,0 +1,12 @@
+code: "C519"
+tradeType: "EXPORT"
+description: "CW2 - Authorisation for the operation of storage facilities for the\
+  \ customs warehousing of goods in a public customs warehouse type II (Column 8e,\
+  \ Annex A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the customs\
+  \ warehouse in the format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB\n• 3 digit code indicating the type of warehouse, i.e., CW2\nalpha numeric\
+  \ code issued by the authorising member state for the warehouse.  In the UK this\
+  \ will be the warehouse ID No. as declared in DE 2/7 (ex-box 49 on a SAD/ C88)"
+system: "CDS"
+statusCodes:

@@ -1,0 +1,28 @@
+code: "U037"
+tradeType: "IMPORT"
+description: "Certificate of origin Form A (Regulation (EC) No 1964/2003) imposing\
+  \ provisional safeguard measures against imports of certain prepared or preserved\
+  \ citrus fruits (namely mandarins, etc.)"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

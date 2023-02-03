@@ -1,0 +1,22 @@
+code: "N704"
+tradeType: "IMPORT"
+description: "Master bill of lading."
+detailsOnTheDeclaration: "Enter the reference number of the master bill of lading.\
+  \  Where a sequentially numbered range of master bill of lading cover the goods\
+  \ enter the lowest to the highest reference numbers of the master bill of lading\
+  \ concerned i.e. document code + 0054037-0054047: status code.  Where master bill\
+  \ of lading are not sequentially numbered enter the reference number of each master\
+  \ bill of lading concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

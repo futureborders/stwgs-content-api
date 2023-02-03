@@ -1,0 +1,11 @@
+code: "C001"
+tradeType: "IMPORT"
+description: "Attestation of Equivalence / control  attestation Commission Regulation\
+  \ (EEC) No 3076/78 of 21 December 1978 on the importation  of hops from non-member\
+  \ countries"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC or XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "XX"

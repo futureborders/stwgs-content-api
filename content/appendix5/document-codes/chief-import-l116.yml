@@ -1,0 +1,8 @@
+code: "L116"
+tradeType: "IMPORT"
+description: "Kimberley Process Diamond Certificate"
+detailsOnTheDeclaration: "Only status codes AF is permitted (see\ndocument status\
+  \ codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AF"

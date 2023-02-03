@@ -1,0 +1,9 @@
+code: "C710"
+tradeType: "IMPORT"
+description: "Electronic INF's"
+detailsOnTheDeclaration: "If you have an electronic INF submitted on the EU Central\
+  \ Trader Portal, enter document code C710 and status code AC, as well as the INF\
+  \ reference number"
+system: "CHIEF"
+statusCodes:
+- "AC"

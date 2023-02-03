@@ -1,0 +1,15 @@
+code: "9107"
+tradeType: "EXPORT"
+description: "UK Standard Individual Export Licence (Form C). Objects of cultural\
+  \ interest (Control) Order\nUK Open General Export Licence\nUK Open Individual Export\
+  \ Licence"
+detailsOnTheDeclaration: "With the exception of EA, EE, EL, EP, ES, XB enter appropriate\
+  \ status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "XB"

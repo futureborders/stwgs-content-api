@@ -1,0 +1,21 @@
+code: "C618"
+tradeType: "IMPORT"
+description: "Air manifest (T2F)."
+detailsOnTheDeclaration: "Enter the reference number of the Air Manifest.  Where a\
+  \ sequentially numbered range of Air Manifests cover the goods enter the lowest\
+  \ to the highest reference numbers of the Air Manifests concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where Air Manifests are not sequentially\
+  \ numbered enter the reference number of each Air Manifest concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

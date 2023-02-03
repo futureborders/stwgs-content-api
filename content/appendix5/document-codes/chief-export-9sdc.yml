@@ -1,0 +1,10 @@
+code: "9SDC"
+tradeType: "EXPORT"
+description: "RPA Supplementary Declaration (SD) codes and (where appropriate) associated\
+  \ percentages.\nNote: This is not a separate document but may be included on\nCAP\
+  \ Export declarations for certain commodities."
+detailsOnTheDeclaration: "Document Reference: the Supplementary Declaration code;\
+  \ Quantity: the (optional) percentage to 2 decimal places.\nNote: No status code\
+  \ (as contained in\ndocument status codes for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:

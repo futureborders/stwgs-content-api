@@ -1,0 +1,1702 @@
+{
+  "documentCodeDescriptions": [
+    {
+      "documentCode": "N853",
+      "descriptionOverlay": "If you're [importing animal products from non-EU countries into Great Britain](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries), you need a common health entry document for products (CHED-P).\n\nAnimal products include:\n\n- products of animal origin\n- germinal products\n- animal by-products\n- hay and straw\n- foodstuffs containing both products of plant origin and processed products of animal origin (‘composite products’)\n\nYou must [register and login to the IPAFFS service](https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system) to:\n\n- complete part 1 of the CHED-A and notify the border control posts that your goods are arriving\n- track any controls or decisions by the authorities relating to the goods\n\n[See the collection of guidance and forms for importing living animals or animal products](https://www.gov.uk/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "N853",
+      "descriptionOverlay": "If you're [importing animal products from non-EU countries into Great Britain](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries), you need a common health entry document for products (CHED-P).\n\nAnimal products include:\n\n- products of animal origin\n- germinal products\n- animal by-products\n- hay and straw\n- foodstuffs containing both products of plant origin and processed products of animal origin (‘composite products’)\n\nYou must [register and login to the IPAFFS service](https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system) to:\n\n- complete part 1 of the CHED-A and notify the border control posts that your goods are arriving\n- track any controls or decisions by the authorities relating to the goods\n\n[See the collection of guidance and forms for importing living animals or animal products](https://www.gov.uk/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y966",
+      "descriptionOverlay": "goods from category 1C010, 2B350c, 8A002a, 8C001, 1A001a, 1A001c, 2B350a, 9C110, 1A006b from the dual use list.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y966",
+      "descriptionOverlay": "goods from category 1C010, 2B350c, 8A002a, 8C001, 1A001a, 1A001c, 2B350a, 9C110, 1A006b from the dual use list.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9106",
+      "descriptionOverlay": "Goods that could be used for the purpose of torture or capital punishment or other cruel, inhuman or degrading \ntreatment or punishment are [subject to export prohibitions or require an export\nlicence](https://www.gov.uk/guidance/controls-on-torture-goods). \n\nSee the [Goods \nChecker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire) to check if\nyou need a licence from the Export Control Joint Unit to export your goods.\n\nTypes of licences for torture goods:\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nApply for an export licence on [SPIRE, the online export licensing \nsystem](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9106",
+      "descriptionOverlay": "Goods that could be used for the purpose of torture or capital punishment or other cruel, inhuman or degrading \ntreatment or punishment are [subject to export prohibitions or require an export\nlicence](https://www.gov.uk/guidance/controls-on-torture-goods). \n\nSee the [Goods \nChecker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire) to check if\nyou need a licence from the Export Control Joint Unit to export your goods.\n\nTypes of licences for torture goods:\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nApply for an export licence on [SPIRE, the online export licensing \nsystem](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y258",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of seeds which are not for growing (other than\nwheat, meslin, rye and triticale) from these countries:\n\n- Afghanistan\n- India\n- Iran\n- Mexico\n- Nepal\n- Pakistan \n- South Africa\n- USA\n- Argentina\n- Australia\n- Bolivia\n- Brazil\n- Chile\n- New Zealand\n- Uruguay\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y258",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of seeds which are not for growing (other than\nwheat, meslin, rye and triticale) from these countries:\n\n- Afghanistan\n- India\n- Iran\n- Mexico\n- Nepal\n- Pakistan \n- South Africa\n- USA\n- Argentina\n- Australia\n- Bolivia\n- Brazil\n- Chile\n- New Zealand\n- Uruguay\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y920",
+      "descriptionOverlay": "You must have an import licence to bring these goods from restricted countries into the UK.\n\n[Read the guidance on import controls](https://www.gov.uk/guidance/import-controls)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y920",
+      "descriptionOverlay": "You must have an import licence to bring these goods from restricted countries into the UK.\n\n[Read the guidance on import controls](https://www.gov.uk/guidance/import-controls)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C679",
+      "descriptionOverlay": "There is a ban on importing seal products into the UK, except for items:\n\n- derived from hunts by Inuit or other indigenous communities for their subsistence\n- exclusively for personal use by travellers and their families (worn or contained in luggage, or imported at a later \ndate)\n\nYou must provide an attesting document issued by a recognised body to import under the exemption for Inuit or other \nindigenous communities for their subsistence.\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C679",
+      "descriptionOverlay": "There is a ban on importing seal products into the UK, except for items:\n\n- derived from hunts by Inuit or other indigenous communities for their subsistence\n- exclusively for personal use by travellers and their families (worn or contained in luggage, or imported at a later \ndate)\n\nYou must provide an attesting document issued by a recognised body to import under the exemption for Inuit or other \nindigenous communities for their subsistence.\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9111",
+      "descriptionOverlay": "Home Office open individual licence for drugs precursor chemicals\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9111",
+      "descriptionOverlay": "Home Office open individual licence for drugs precursor chemicals\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C055",
+      "descriptionOverlay": "If you import plastic infant feeding bottles, the goods must be accompanied by the following documentation to confirm that they do not contain bisphenol A (BPA):\n\n- a [declaration of compliance](https://www.legislation.gov.uk/eur/2011/10/annex/IV)\n- test results carried out by an accredited laboratory\n\n[Read the Food Standard Agency’s overview of rules on food contact materials](https://www.food.gov.uk/business-guidance/food-contact-materials-regulations) \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C055",
+      "descriptionOverlay": "If you import plastic infant feeding bottles, the goods must be accompanied by the following documentation to confirm that they do not contain bisphenol A (BPA):\n\n- a [declaration of compliance](https://www.legislation.gov.uk/eur/2011/10/annex/IV)\n- test results carried out by an accredited laboratory\n\n[Read the Food Standard Agency’s overview of rules on food contact materials](https://www.food.gov.uk/business-guidance/food-contact-materials-regulations) \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C018",
+      "descriptionOverlay": "a VI2 document with annotated compliance and regulation notes where the quantity or price per unit declared is more than 100.00l and your consignment is split before entry into free circulation \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C018",
+      "descriptionOverlay": "a VI2 document with annotated compliance and regulation notes where the quantity or price per unit declared is more than 100.00l and your consignment is split before entry into free circulation \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y501",
+      "descriptionOverlay": "You do not need a Phytosanitary Certificate for imports of trees that are under 3 metres.\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y501",
+      "descriptionOverlay": "You do not need a Phytosanitary Certificate for imports of trees that are under 3 metres.\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C670",
+      "descriptionOverlay": "A waste movement form must accompany any import of notifiable wastes.\n\n[Find out how to comply with notification controls when you move waste goods](https://www.gov.uk/guidance/importing-and-exporting-waste#notification-controls-how-to-comply)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C670",
+      "descriptionOverlay": "A waste movement form must accompany any import of notifiable wastes.\n\n[Find out how to comply with notification controls when you move waste goods](https://www.gov.uk/guidance/importing-and-exporting-waste#notification-controls-how-to-comply)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C693",
+      "descriptionOverlay": "a [certificate issued by the USA wet milling industry](https://www.legislation.gov.uk/eur/2017/337/images/eur_20170337_2017-02-27_en_001?view=extent)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C693",
+      "descriptionOverlay": "a [certificate issued by the USA wet milling industry](https://www.legislation.gov.uk/eur/2017/337/images/eur_20170337_2017-02-27_en_001?view=extent)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y067",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for your agricultural and forestry machinery if it's new and\nhas not been used. For further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y067",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for your agricultural and forestry machinery if it's new and\nhas not been used. For further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9027",
+      "descriptionOverlay": "Goods exported to Belarus before 5 July 2022 are exempt from the regulations.\n\nYou must be able to provide proof if requested.\n\nConsult the guidance on [trading with Russia under sanctions](https://www.gov.uk/guidance/trading-under-sanctions-with-russia) for up to date information on import and export restrictions that apply due to sanctions.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y072",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Andorra\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y072",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Andorra\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y929",
+      "descriptionOverlay": "If your goods are not organic, you may need to show proof.\n\nMake sure there are no organic references on the packaging.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y929",
+      "descriptionOverlay": "If your goods are not organic, you may need to show proof.\n\nMake sure there are no organic references on the packaging.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C400",
+      "descriptionOverlay": "If your goods are on the [CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)](https://www.gov.uk/guidance/cites-imports-and-exports) list, you need a CITES permit or certificate to move the goods into or out of Great Britain. \n\nYou must make sure that the goods are:\n\n- accompanied by the CITES permit or certificate\n- imported through a [designated air, land or sea port](https://www.gov.uk/guidance/trading-cites-listed-specimens-through-uk-ports-and-airports), where UK Border Force will check and endorse the CITES permit or certificate\n\n[Find out if your goods are CITES listed and how to apply for a CITES permit or certificate to trade endangered species](https://www.gov.uk/guidance/apply-for-cites-permits-and-certificates-to-trade-endangered-species)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C400",
+      "descriptionOverlay": "If your goods are on the [CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora)](https://www.gov.uk/guidance/cites-imports-and-exports) list, you need a CITES permit or certificate to move the goods into or out of Great Britain. \n\nYou must make sure that the goods are:\n\n- accompanied by the CITES permit or certificate\n- imported through a [designated air, land or sea port](https://www.gov.uk/guidance/trading-cites-listed-specimens-through-uk-ports-and-airports), where UK Border Force will check and endorse the CITES permit or certificate\n\n[Find out if your goods are CITES listed and how to apply for a CITES permit or certificate to trade endangered species](https://www.gov.uk/guidance/apply-for-cites-permits-and-certificates-to-trade-endangered-species)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C041",
+      "descriptionOverlay": "If you're importing your goods following re-export, you must have an ICCAT bluefin tuna re-export certificate for your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C041",
+      "descriptionOverlay": "If you're importing your goods following re-export, you must have an ICCAT bluefin tuna re-export certificate for your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C669",
+      "descriptionOverlay": "If your waste goods are subject to notification controls, you must make sure that the person who arranges the export of the waste:\n\n  - gets consent from the relevant authority in the country importing or exporting the goods\n  - has the correct waste notification documents and movement tracking form for your goods\n  \n  You must:\n    - get consent from the relevant UK environmental regulator in England, Scotland, Wales or Northern Ireland to import export the waste\n    - pay the relevant fees\n\nFurther guidance:\n  - [Find out whether waste rules apply to your goods](https://www.gov.uk/government/publications/legal-definition-of-waste-guidance).\n  - [Find out rules that apply to the import and export of waste]( https://www.gov.uk/guidance/importing-and-exporting-waste).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C669",
+      "descriptionOverlay": "If your waste goods are subject to notification controls, you must make sure that the person who arranges the export of the waste:\n\n  - gets consent from the relevant authority in the country importing the goods\n  - has the correct waste notification documents and movement tracking form for your goods\n\nYou must:\n\n  - get consent from the relevant environmental regulator in England, Scotland, Wales or Northern Ireland to export the waste\n  - pay the relevant fees\n  \n  [Find out if waste rules apply to your goods](https://www.gov.uk/government/publications/legal-definition-of-waste-guidance).\n  \n  [Find out the rules that apply to the import and export of waste](https://www.gov.uk/guidance/importing-and-exporting-waste).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y999",
+      "descriptionOverlay": "If your goods are not controlled by any of the export control regulations, UK sanctions regulations or end use\ncontrols or if they meet certain requirements then they may be exempt from requiring a licence from the\n[Export Control Joint Unit](https://www.gov.uk/government/organisations/export-control-organisation).\n\nCheck the [Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nand [UK sanctions regulations](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y999",
+      "descriptionOverlay": "If your goods are not controlled by any of the export control regulations, UK sanctions regulations or end use\ncontrols or if they meet certain requirements then they may be exempt from requiring a licence from the\n[Export Control Joint Unit](https://www.gov.uk/government/organisations/export-control-organisation).\n\nCheck the [Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nand [UK sanctions regulations](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "X001",
+      "descriptionOverlay": "Agricultural goods are classified as 'restricted' so you will need to complete an AGREX licence application form, \nunless the quantity does not exceed that as stated in Annex part II of EU Regulation 2016/1237. The export licence \nrequirement only applies to NI exports of rice to third countries.\n\nTo apply please use the [Export licence application form.](https://www.gov.uk/government/publications/agrex-export-licence-application-form-for-agricultural-products)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "X001",
+      "descriptionOverlay": "Agricultural goods are classified as 'restricted' so you will need to complete an AGREX licence application form, \nunless the quantity does not exceed that as stated in Annex part II of EU Regulation 2016/1237. The export licence \nrequirement only applies to NI exports of rice to third countries.\n\nTo apply please use the [Export licence application form.](https://www.gov.uk/government/publications/agrex-export-licence-application-form-for-agricultural-products)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y053",
+      "descriptionOverlay": "You must be registered on the GB HFC Registry.\n\nYou must have sufficient quota or quota authorisation to cover the amount of HFC you’re importing.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y053",
+      "descriptionOverlay": "You must be registered on the GB HFC Registry.\n\nYou must have sufficient quota or quota authorisation to cover the amount of HFC you’re importing.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y076",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Iceland \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y076",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Iceland \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y948",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be exported to DPRK under an exception or under the \nauthority of a licence. Consult the \n[DPRK Sanctions Guidance](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act) for \nup to date information on any exceptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y948",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be exported to DPRK under an exception or under the \nauthority of a licence. Consult the \n[DPRK Sanctions Guidance](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act) for \nup to date information on any exceptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C017",
+      "descriptionOverlay": "a VI1 document with annotated compliance and regulation notes where the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C017",
+      "descriptionOverlay": "a VI1 document with annotated compliance and regulation notes where the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C060",
+      "descriptionOverlay": "If your polyamide or melamine plastic kitchenware is from China or Hong Kong, you must:\n\n- find a [Border Control Post (BCP)](https://www.gov.uk/government/publications/uk-border-control-posts-animal-and-animal-product-imports) that’s approved to check the goods\n- Contact the Port Health Authority at that BCP to identify which documents to upload and steps to take\n- Tell/pre-notify the BCP when your consignment is due, at least 2 working days before the estimated arrival date\n- have a [declaration](https://www.legislation.gov.uk/eur/2011/284/annex) and laboratory report showing the goods do not release primary aromatic amines and formaldehyde into food\n\nThe BCP may also carry out laboratory analysis on your goods.\n\n[Read the Food Standards Agency guidance on importing plastic kitchenware from China and Hong Kong](https://www.food.gov.uk/business-guidance/importing-plastic-kitchenware-from-china-and-hong-kong)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C060",
+      "descriptionOverlay": "If your polyamide or melamine plastic kitchenware is from China or Hong Kong, you must:\n\n- find a [Border Control Post (BCP)](https://www.gov.uk/government/publications/uk-border-control-posts-animal-and-animal-product-imports) that’s approved to check the goods\n- Contact the Port Health Authority at that BCP to identify which documents to upload and steps to take\n- Tell/pre-notify the BCP when your consignment is due, at least 2 working days before the estimated arrival date\n- have a [declaration](https://www.legislation.gov.uk/eur/2011/284/annex) and laboratory report showing the goods do not release primary aromatic amines and formaldehyde into food\n\nThe BCP may also carry out laboratory analysis on your goods.\n\n[Read the Food Standards Agency guidance on importing plastic kitchenware from China and Hong Kong](https://www.food.gov.uk/business-guidance/importing-plastic-kitchenware-from-china-and-hong-kong)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "E020",
+      "descriptionOverlay": "Export of firearms, ammunition and related equipment are controlled goods and \n[require an export licence](https://www.gov.uk/guidance/firearms-and-export-control-forms). \n\nSee the [Goods Checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nto check if you need a licence from the Export Control Joint Unit.\n\nTypes of licences for torture goods:\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nApply for an export licence on [SPIRE, the online export licensing system](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "E020",
+      "descriptionOverlay": "Export of firearms, ammunition and related equipment are controlled goods and \n[require an export licence](https://www.gov.uk/guidance/firearms-and-export-control-forms). \n\nSee the [Goods Checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nto check if you need a licence from the Export Control Joint Unit.\n\nTypes of licences for torture goods:\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nApply for an export licence on [SPIRE, the online export licensing system](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9120",
+      "descriptionOverlay": "You need a licence to import animal pathogens and products\n\n[Apply for a licence to import animal pathogens and products](https://www.gov.uk/government/publications/animal-products-and-pathogens-application-for-import-licence)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9120",
+      "descriptionOverlay": "You need a licence to import animal pathogens and products\n\n[Apply for a licence to import animal pathogens and products](https://www.gov.uk/government/publications/animal-products-and-pathogens-application-for-import-licence)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y253",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of passion fruit.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y253",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for exports of passion fruit.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9115",
+      "descriptionOverlay": "If you import [controlled wood, wood products or isolated bark](https://www.gov.uk/guidance/import-wood-wood-products-or-bark), your goods may be quarantined and inspected at the border.\n\nYou must:\n\n- [register with the Forestry Commission](https://www.gov.uk/guidance/register-as-a-professional-operator-to-issue-plant-passports)\n- present a [phytosanitary certificate](https://www.gov.uk/guidance/import-wood-wood-products-or-bark#meet-phytosanitary-requirements) for your goods\n- [notify the Forestry Commision](https://www.gov.uk/government/publications/notice-of-landing-form) before your goods arrive\n\nWhen your consignment passes inspection at the border you'll get a quarantine release certificate for the goods.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9115",
+      "descriptionOverlay": "If you import [controlled wood, wood products or isolated bark](https://www.gov.uk/guidance/import-wood-wood-products-or-bark), your goods may be quarantined and inspected at the border.\n\nYou must:\n\n- [register with the Forestry Commission](https://www.gov.uk/guidance/register-as-a-professional-operator-to-issue-plant-passports)\n- present a [phytosanitary certificate](https://www.gov.uk/guidance/import-wood-wood-products-or-bark#meet-phytosanitary-requirements) for your goods\n- [notify the Forestry Commision](https://www.gov.uk/government/publications/notice-of-landing-form) before your goods arrive\n\nWhen your consignment passes inspection at the border you'll get a quarantine release certificate for the goods.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y930",
+      "descriptionOverlay": "Some composite products are not subject to veterinary checks at the border if they:\n- do not contain meat\n- contain less than half of their substance of any other processed product\n\nThe products must also be:\n- shelf-stable at room temperature or cooked/heat treated\n- clearly identified as intended for human consumption\n- securely packaged or sealed in clean containers\n- accompanied by a commercial document and labelled to show the nature, quantity and number of packages of the composite products, country of origin, manufacturer, and ingredients\n\n[Read the Food Standard Agency guidance on importing composite products](https://www.food.gov.uk/business-guidance/importing-composite-products)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y930",
+      "descriptionOverlay": "Some composite products are not subject to veterinary checks at the border if they:\n- do not contain meat\n- contain less than half of their substance of any other processed product\n\nThe products must also be:\n- shelf-stable at room temperature or cooked/heat treated\n- clearly identified as intended for human consumption\n- securely packaged or sealed in clean containers\n- accompanied by a commercial document and labelled to show the nature, quantity and number of packages of the composite products, country of origin, manufacturer, and ingredients\n\n[Read the Food Standard Agency guidance on importing composite products](https://www.food.gov.uk/business-guidance/importing-composite-products)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y057",
+      "descriptionOverlay": "If your timber products originate from Vietnam, you do not need a FLEGT licence.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y057",
+      "descriptionOverlay": "If your timber products originate from Vietnam, you do not need a FLEGT licence.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C064",
+      "descriptionOverlay": "If your goods are intended for the exclusive purpose of public display in a museum in view of their historic significance, you can bring them into the UK.  You must have an import licence.\n\n[Apply for an import licence](https://www.gov.uk/guidance/import-controls)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C064",
+      "descriptionOverlay": "If your goods are intended for the exclusive purpose of public display in a museum in view of their historic significance, you can bring them into the UK.  You must have an import licence.\n\n[Apply for an import licence](https://www.gov.uk/guidance/import-controls)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y229",
+      "descriptionOverlay": "The re-importation of certain tiered-priced medicines is illegal in order to prevent trade diversion from a number of low and middle-income countries.\n\nGoods subject to this import control are listed in:\n- GB: Annex I of the retained domestic version of [Regulation (EU) 2016/793](https://www.legislation.gov.uk/eur/2016/793/contents), as amended by the [Prevention of Trade Diversion (Key Medicines) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1354/contents/made).\n- NI: Annex I of [Regulation (EU) 2016/793](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0793).\n\nCountries from which the import of these products is restricted are listed in:\n- GB: Annex II of the retained domestic version of [Regulation (EU) 2016/793](https://www.legislation.gov.uk/eur/2016/793/contents), as amended by the  [Prevention of Trade Diversion (Key Medicines) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1354/contents/made).\n- NI: Annex II of [Regulation (EU) 2016/793](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0793).\n\nFor more information see the [GOV.UK guidance on import controls](https://www.gov.uk/guidance/import-controls).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y229",
+      "descriptionOverlay": "The re-importation of certain tiered-priced medicines is illegal in order to prevent trade diversion from a number of low and middle-income countries.\n\nGoods subject to this import control are listed in:\n- GB: Annex I of the retained domestic version of [Regulation (EU) 2016/793](https://www.legislation.gov.uk/eur/2016/793/contents), as amended by the [Prevention of Trade Diversion (Key Medicines) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1354/contents/made).\n- NI: Annex I of [Regulation (EU) 2016/793](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0793).\n\nCountries from which the import of these products is restricted are listed in:\n- GB: Annex II of the retained domestic version of [Regulation (EU) 2016/793](https://www.legislation.gov.uk/eur/2016/793/contents), as amended by the  [Prevention of Trade Diversion (Key Medicines) (EU Exit) Regulations 2020](https://www.legislation.gov.uk/uksi/2020/1354/contents/made).\n- NI: Annex II of [Regulation (EU) 2016/793](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0793).\n\nFor more information see the [GOV.UK guidance on import controls](https://www.gov.uk/guidance/import-controls).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y902",
+      "descriptionOverlay": "You must show proof that goods you're importing are not on the list of ozone-depleting substances.\n\n[Read the guidance on ozone depleting substances](https://www.gov.uk/government/collections/ozone-depleting-substances-guidance-for-users-producers-and-traders)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y902",
+      "descriptionOverlay": "You must show proof that goods you're importing are not on the list of ozone-depleting substances.\n\n[Read the guidance on ozone depleting substances](https://www.gov.uk/government/collections/ozone-depleting-substances-guidance-for-users-producers-and-traders)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C052",
+      "descriptionOverlay": "The import of these goods is controlled under the UK Sanctions Regulations. Please consult the UK Sanctions \nRegulations to determine whether your items are controlled. There are certain circumstances under which sanctioned \ngoods can be imported under an exception or an authority of a licence. Refer to the [Statutory Guidance published for\nindividual sanctions regimes](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act)\nfor up to date information on any exemptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C052",
+      "descriptionOverlay": "The export of these goods is controlled under the UK Sanctions Regulations. Please consult the UK Sanctions \nRegulations to determine whether your items are controlled. There are certain circumstances under which sanctioned \ngoods can be exported under an exception or an authority of a licence. Refer to the [Statutory Guidance published for\nindividual sanctions regimes](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act)\nfor up to date information on any exemptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9112",
+      "descriptionOverlay": "Drugs precursor chemicals individual licence\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9112",
+      "descriptionOverlay": "Drugs precursor chemicals individual licence\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C047",
+      "descriptionOverlay": "You must have an ICCAT bluefin tuna catch document for your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C047",
+      "descriptionOverlay": "You must have an ICCAT bluefin tuna catch document for your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9107",
+      "descriptionOverlay": "Goods that are more than 50 years old need an Export Licence. Exporters should check first if their export is \npermitted under the Open General Export Licence (OGEL), which is a bulk licence based on value thresholds. If not, \nthe exporter should check whether they hold an Open Individual Export Licence (OIEL). If neither of these apply, then\nthe exporter should [apply for a Standard Individual Export Licence from the Arts Council's Export Licensing \nUnit.](https://www.artscouncil.org.uk/export-controls/export-licensing#section-1)\n\nIf the object you are exporting incorporates certain species of animals and plants and their derivatives (e.g. works \nof art incorporating ivory or plumage) their export is also covered by the Convention on International Trade in \nEndangered Species (CITES). For advice as to whether CITES export permits are required and how to apply, [contact the\nAnimal Health CITES Team](https://www.gov.uk/guidance/apply-for-cites-permits-and-certificates-to-trade-endangered-species).\nAn export licence may also be required from the Department for International Trade (DIT) for cultural goods \nclassified as firearms, military or paramilitary equipment, regardless of monetary value. For advice, [contact the \nExport Control Joint Unit within DIT.](https://www.gov.uk/government/organisations/export-control-joint-unit)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9107",
+      "descriptionOverlay": "Goods that are more than 50 years old need an Export Licence. Exporters should check first if their export is \npermitted under the Open General Export Licence (OGEL), which is a bulk licence based on value thresholds. If not, \nthe exporter should check whether they hold an Open Individual Export Licence (OIEL). If neither of these apply, then\nthe exporter should [apply for a Standard Individual Export Licence from the Arts Council's Export Licensing \nUnit.](https://www.artscouncil.org.uk/export-controls/export-licensing#section-1)\n\nIf the object you are exporting incorporates certain species of animals and plants and their derivatives (e.g. works \nof art incorporating ivory or plumage) their export is also covered by the Convention on International Trade in \nEndangered Species (CITES). For advice as to whether CITES export permits are required and how to apply, [contact the\nAnimal Health CITES Team](https://www.gov.uk/guidance/apply-for-cites-permits-and-certificates-to-trade-endangered-species).\nAn export licence may also be required from the Department for International Trade (DIT) for cultural goods \nclassified as firearms, military or paramilitary equipment, regardless of monetary value. For advice, [contact the \nExport Control Joint Unit within DIT.](https://www.gov.uk/government/organisations/export-control-joint-unit)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y800",
+      "descriptionOverlay": "You must declare that goods have not been sent from Bangladesh.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y800",
+      "descriptionOverlay": "You must declare that goods have not been sent from Bangladesh.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y257",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of seeds which are not intended for growing \n(other than barley, oats, maize, sorghum and millet) from these countries: \n\n- Argentina \n- Australia \n- Bolivia \n- Brazil \n- Chile \n- New Zealand\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y257",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of seeds which are not intended for growing \n(other than barley, oats, maize, sorghum and millet) from these countries: \n\n- Argentina \n- Australia \n- Bolivia \n- Brazil \n- Chile \n- New Zealand\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y015",
+      "descriptionOverlay": "If you're importing rough diamonds into the UK, the goods must be:\n\n- accompanied by a Kimberley Process certificate that clearly identifies your goods \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y015",
+      "descriptionOverlay": "If you're importing rough diamonds into the UK, the goods must be:\n\n- accompanied by a Kimberley Process certificate that clearly identifies your goods \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C690",
+      "descriptionOverlay": "Import control of timber and timber products subject to the FLEGT licensing scheme-Indonesia.\n\n[Find out more about FLEGT licences](https://www.gov.uk/guidance/regulations-timber-and-flegt-licences#complying-with-the-flegt-licensing-regulations)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C690",
+      "descriptionOverlay": "Import control of timber and timber products subject to the FLEGT licensing scheme-Indonesia.\n\n[Find out more about FLEGT licences](https://www.gov.uk/guidance/regulations-timber-and-flegt-licences#complying-with-the-flegt-licensing-regulations)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C071",
+      "descriptionOverlay": "You cannot import mercury or mixtures of mercury listed in Annex I (including mercury waste) into the UK from the following industries: \n- chlor-alkali industry\n- cleaning of natural gas\n- non-ferrous mining and smelting operations\n- extraction from cinnabar ore in the EU\n\nunless the mercury or mixtures of mercury are destined for disposal.\n\nIf you need to import mercury or mixtures of mercury listed in Annex I you must get written consent from the relevant environmental regulator.\n\n[Contact the regulator for consent to move mercury or products containing mercury](https://www.gov.uk/guidance/moving-mercury-and-products-containing-mercury)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C071",
+      "descriptionOverlay": "You cannot import mercury or mixtures of mercury listed in Annex I (including mercury waste) into the UK from the following industries: \n- chlor-alkali industry\n- cleaning of natural gas\n- non-ferrous mining and smelting operations\n- extraction from cinnabar ore in the EU\n\nunless the mercury or mixtures of mercury are destined for disposal.\n\nIf you need to import mercury or mixtures of mercury listed in Annex I you must get written consent from the relevant environmental regulator.\n\n[Contact the regulator for consent to move mercury or products containing mercury](https://www.gov.uk/guidance/moving-mercury-and-products-containing-mercury)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y066",
+      "descriptionOverlay": "You must not import any food containing betel leaves (Piper Betle) from Bangladesh.\n\nBetel leaves (also known as 'paan leaf' or 'betel liquid') from Bangladesh can carry salmonella strains.\n\nYou must declare that your products do not contain betel leaves.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y066",
+      "descriptionOverlay": "You must not import any food containing betel leaves (Piper Betle) from Bangladesh.\n\nBetel leaves (also known as 'paan leaf' or 'betel liquid') from Bangladesh can carry salmonella strains.\n\nYou must declare that your products do not contain betel leaves.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9028",
+      "descriptionOverlay": "Goods made of or containing ivory for sale or hire are prohibited from being exported from or imported into the UK. You may be exempt from the prohibition against exporting or importing ivory.\n\nIf you believe the goods are exempt, you will need to provide a registration number or exemption certificate reference as evidence. This must be entered in Box 44 of your customs declaration.\n\n[Find out more about dealing in items containing ivory or made of ivory](https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9028",
+      "descriptionOverlay": "Goods made of or containing ivory for sale or hire are prohibited from being exported from or imported into the UK. You may be exempt from the prohibition against exporting or importing ivory.\n\nIf you believe the goods are exempt, you will need to provide a registration number or exemption certificate reference as evidence. This must be entered in Box 44 of your customs declaration.\n\n[Find out more about dealing in items containing ivory or made of ivory](https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C001",
+      "descriptionOverlay": "Imports of hops and hop products entering GB must be accompanied by an Attestation of Equivalence issued by an authorised agency in the country of origin. The Attestation of Equivalence provides assurance that the hops or hop products being imported meet GB minimum marketing standards for hops.\n\n[Find out how to apply for Attestations of Equivalence for hops and hops products.](https://www.gov.uk/government/publications/eu-attestation-of-equivalence-application-guidance)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C001",
+      "descriptionOverlay": "Imports of hops and hop products entering GB must be accompanied by an Attestation of Equivalence issued by an authorised agency in the country of origin. The Attestation of Equivalence provides assurance that the hops or hop products being imported meet GB minimum marketing standards for hops.\n\n[Find out how to apply for Attestations of Equivalence for hops and hops products.](https://www.gov.uk/government/publications/eu-attestation-of-equivalence-application-guidance)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y071",
+      "descriptionOverlay": "Goods that have originated from or shipped from Belarus, subject to a contract signed before 9 August 2021: Import \nallowed under licence.\n\nFor further information, \n[see Republic of Belarus sanctions guidance](https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance/the-republic-of-belarus-sanctions-guidance).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y071",
+      "descriptionOverlay": "Goods that have originated from or shipped from Belarus, subject to a contract signed before 9 August 2021: Import \nallowed under licence.\n\nFor further information, \n[see Republic of Belarus sanctions guidance](https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance/the-republic-of-belarus-sanctions-guidance).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "U004",
+      "descriptionOverlay": "You must have a [‘certificate of origin for imports of products subject to special non-preferential import arrangements’](https://www.gov.uk/guidance/check-your-goods-meet-the-rules-of-origin) to import your goods.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "U004",
+      "descriptionOverlay": "You must have a [‘certificate of origin for imports of products subject to special non-preferential import arrangements’](https://www.gov.uk/guidance/check-your-goods-meet-the-rules-of-origin) to import your goods.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9005",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be exported to Russia. Consult the \n[Russia Sanctions Guidance](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance) \nfor up to date information on any exemptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9005",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be exported to Russia. Consult the \n[Russia Sanctions Guidance](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance) \nfor up to date information on any exemptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C666",
+      "descriptionOverlay": "If you import residues from the manufacture of starch from maize from the USA, your goods will be subject to random sampling at the UK border if they’re accompanied by a [certificate issued by the Federal Grain Inspection Service](https://www.legislation.gov.uk/eur/2007/1375/annex/I)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C666",
+      "descriptionOverlay": "If you import residues from the manufacture of starch from maize from the USA, your goods will be subject to random sampling at the UK border if they’re accompanied by a [certificate issued by the Federal Grain Inspection Service](https://www.legislation.gov.uk/eur/2007/1375/annex/I)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C080",
+      "descriptionOverlay": "a simplified VI1 document where the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C080",
+      "descriptionOverlay": "a simplified VI1 document where the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9103",
+      "descriptionOverlay": "If you’re importing ammonium nitrate for use as a fertiliser, you need a detonation resistance test certificate issued by a UK-based laboratory accredited to standard ISO 17025.  \n\n[Read the guidance on manufacturing and marketing fertilisers](https://www.gov.uk/guidance/manufacturing-and-marketing-fertilisers)\n\nIf the ammonium nitrate is not intended for use as a fertiliser, you can apply to the Health and Safety Executive for an exemption from the requirement for a detonation resistance test certificate.  \n\nEmail enquiries to the Health and Safety Executive at explosive.enquiries@hse.gov.uk\n\n[Read the HSE guidance on ammonium nitrate](https://www.hse.gov.uk/explosives/ammonium/high-nitrogen-content.htm)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9103",
+      "descriptionOverlay": "If you’re importing ammonium nitrate for use as a fertiliser, you need a detonation resistance test certificate issued by a UK-based laboratory accredited to standard ISO 17025.  \n\n[Read the guidance on manufacturing and marketing fertilisers](https://www.gov.uk/guidance/manufacturing-and-marketing-fertilisers)\n\nIf the ammonium nitrate is not intended for use as a fertiliser, you can apply to the Health and Safety Executive for an exemption from the requirement for a detonation resistance test certificate.  \n\nEmail enquiries to the Health and Safety Executive at explosive.enquiries@hse.gov.uk\n\n[Read the HSE guidance on ammonium nitrate](https://www.hse.gov.uk/explosives/ammonium/high-nitrogen-content.htm)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C084",
+      "descriptionOverlay": "Your goods are intended for scientific purposes, research or diagnostic samples\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C084",
+      "descriptionOverlay": "Your goods are intended for scientific purposes, research or diagnostic samples\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C652",
+      "descriptionOverlay": "accompanying documents for the carriage of wine into Switzerland when the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C652",
+      "descriptionOverlay": "accompanying documents for the carriage of wine into Switzerland when the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C079",
+      "descriptionOverlay": "A Declaration of Conformity is required as the goods contain hydrofluorocarbons. You must include a declaration of \nconformity to certify you have enough quota authorisations from a quota holder for the hydrofluorocarbons in the \nequipment. \n\nThe importer must declare that the goods are not a 'direct supply for import or export' and are subject to \n[EU Regulation 517/2014](https://www.legislation.gov.uk/eur/2014/517).\n\nThe goods must comply with Option B in [EU Regulation 2016/879](https://www.legislation.gov.uk/eur/2016/879).\n\n+++ What is a Declaration of Conformity?\nA Declaration of Conformity certifies that you have enough quota authorisations from a quota holder for the HFCs in \nthe equipment.\n+++\n\nFor further information, \n[see transferring and authorising F gas quota to another business](https://www.gov.uk/guidance/transferring-and-authorising-f-gas-quota-to-another-business).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C079",
+      "descriptionOverlay": "A Declaration of Conformity is required as the goods contain hydrofluorocarbons. You must include a declaration of \nconformity to certify you have enough quota authorisations from a quota holder for the hydrofluorocarbons in the \nequipment. \n\nThe importer must declare that the goods are not a 'direct supply for import or export' and are subject to \n[EU Regulation 517/2014](https://www.legislation.gov.uk/eur/2014/517).\n\nThe goods must comply with Option B in [EU Regulation 2016/879](https://www.legislation.gov.uk/eur/2016/879).\n\n+++ What is a Declaration of Conformity?\nA Declaration of Conformity certifies that you have enough quota authorisations from a quota holder for the HFCs in \nthe equipment.\n+++\n\nFor further information, \n[see transferring and authorising F gas quota to another business](https://www.gov.uk/guidance/transferring-and-authorising-f-gas-quota-to-another-business).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y080",
+      "descriptionOverlay": "If your goods meet certain requirements, they may be exempt from requiring a licence.\n\nFurther information on Russian sanctions and exemptions can be found in\n[(EU Exit) (Amendment) (No. 3) Regulations 2022.](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y080",
+      "descriptionOverlay": "If your goods meet certain requirements, they may be exempt from requiring a licence.\n\nFurther information on Russian sanctions and exemptions can be found in\n[(EU Exit) (Amendment) (No. 3) Regulations 2022.](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y931",
+      "descriptionOverlay": "The following composite products and food are not subject to veterinary checks at the border:\n- confectionery (including sweets) and chocolate, containing less than 50% of processed dairy and egg products\n- pasta and noodles not mixed or filled with processed meat product; containing less than 50 % of processed dairy and egg products\n- bread, cakes, biscuits, waffles and wafers, rusks, toasted bread and similar toasted products; containing less than 20 % of processed dairy and egg products\n- olives stuffed with fish\n- soup stocks and flavourings packaged for the final consumer, containing less than 50% of fish oils, fish powders or fish extracts\n- food supplements packaged for the final consumer, containing small amounts (in total less than 20%) of processed animal products other than meat products\n\n[Read the Food Standard Agency guidance on importing composite products](https://www.food.gov.uk/business-guidance/importing-composite-products)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y931",
+      "descriptionOverlay": "The following composite products and food are not subject to veterinary checks at the border:\n- confectionery (including sweets) and chocolate, containing less than 50% of processed dairy and egg products\n- pasta and noodles not mixed or filled with processed meat product; containing less than 50 % of processed dairy and egg products\n- bread, cakes, biscuits, waffles and wafers, rusks, toasted bread and similar toasted products; containing less than 20 % of processed dairy and egg products\n- olives stuffed with fish\n- soup stocks and flavourings packaged for the final consumer, containing less than 50% of fish oils, fish powders or fish extracts\n- food supplements packaged for the final consumer, containing small amounts (in total less than 20%) of processed animal products other than meat products\n\n[Read the Food Standard Agency guidance on importing composite products](https://www.food.gov.uk/business-guidance/importing-composite-products)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y252",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of seeds which are not for growing (other than \nwheat, meslin, rye and triticale) from these countries:\n\n- Afghanistan\n- India\n- Iran\n- Mexico\n- Nepal\n- Pakistan \n- South Africa\n- USA\n- Argentina\n- Australia\n- Bolivia\n- Brazil\n- Chile\n- New Zealand\n- Uruguay\n\nFor further information [please visit the guidance page on importing and exporting plants and plant \nproducts](https://www.gov.uk/government/collections/importing-and-exporting-plants-and-plant-products).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y252",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of seeds which are not for growing (other than \nwheat, meslin, rye and triticale) from these countries:\n\n- Afghanistan\n- India\n- Iran\n- Mexico\n- Nepal\n- Pakistan \n- South Africa\n- USA\n- Argentina\n- Australia\n- Bolivia\n- Brazil\n- Chile\n- New Zealand\n- Uruguay\n\nFor further information [please visit the guidance page on importing and exporting plants and plant \nproducts](https://www.gov.uk/government/collections/importing-and-exporting-plants-and-plant-products).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y926",
+      "descriptionOverlay": "You must be registered on the GB F Gas Service. You must have sufficient quota or quota authorisation to cover the \namount of HFC you’re importing.\n\nFor further information, \n[see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y926",
+      "descriptionOverlay": "You must be registered on the GB F Gas Service. You must have sufficient quota or quota authorisation to cover the \namount of HFC you’re importing.\n\nFor further information, \n[see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C056",
+      "descriptionOverlay": "You must have a certificate to show the goods originate from a country that either:\n\n- has rules in force to forbidding the use of leghold traps\n- meets international humane trapping standards for certain wild animals\n\n[Read the guidance on importing animal furs and skins](https://www.gov.uk/guidance/importing-animal-furs-skins-and-fish)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C056",
+      "descriptionOverlay": "You must have a certificate to show the goods originate from a country that either:\n\n- has rules in force to forbidding the use of leghold traps\n- meets international humane trapping standards for certain wild animals\n\n[Read the guidance on importing animal furs and skins](https://www.gov.uk/guidance/importing-animal-furs-skins-and-fish)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y949",
+      "descriptionOverlay": "[Read the Iran (nuclear) sanction guidance](https://www.gov.uk/government/publications/iran-nuclear-sanctions-guidance/iran-nuclear-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y949",
+      "descriptionOverlay": "[Read the Iran (nuclear) sanction guidance](https://www.gov.uk/government/publications/iran-nuclear-sanctions-guidance/iran-nuclear-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "L116",
+      "descriptionOverlay": "- imported in tamper-resistant containers with the seals applied at export intact\n\nThe Government Diamond Office and UK Border Force may physically inspect the goods to ensure they comply with the Kimberley Process.\n\n[Read the rules on trading in rough diamonds](https://www.gov.uk/guidance/export-diamonds-special-rules)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "L116",
+      "descriptionOverlay": "- imported in tamper-resistant containers with the seals applied at export intact\n\nThe Government Diamond Office and UK Border Force may physically inspect the goods to ensure they comply with the Kimberley Process.\n\n[Read the rules on trading in rough diamonds](https://www.gov.uk/guidance/export-diamonds-special-rules)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y903",
+      "descriptionOverlay": "The goods qualify for a document waiver exemption because they were manufactured or produced less than 50 years ago \nor fall within one of the exceptions in Schedule 1 of the Export of Objects of Cultural Interest (Control) Order 2003.\n\nFor more information, [visit the Arts Council's export licensing guidance.](https://www.artscouncil.org.uk/export-controls/export-licensing#section-1)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y903",
+      "descriptionOverlay": "The goods qualify for a document waiver exemption because they were manufactured or produced less than 50 years ago \nor fall within one of the exceptions in Schedule 1 of the Export of Objects of Cultural Interest (Control) Order 2003.\n\nFor more information, [visit the Arts Council's export licensing guidance.](https://www.artscouncil.org.uk/export-controls/export-licensing#section-1)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C065",
+      "descriptionOverlay": "You must apply for an 'invasive alien species' (IAS) permit from the Animal and Plant Health Agency (APHA).\n\n[Apply for a permit to import invasive alien species.](https://www.gov.uk/government/publications/invasive-alien-species-permit-application)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C065",
+      "descriptionOverlay": "You must apply for an 'invasive alien species' (IAS) permit from the Animal and Plant Health Agency (APHA).\n\n[Apply for a permit to import invasive alien species.](https://www.gov.uk/government/publications/invasive-alien-species-permit-application)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y945",
+      "descriptionOverlay": "if your goods are for non-commercial or personal use and travel in a passenger's luggage you will need to apply for an import control on luxury goods\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y945",
+      "descriptionOverlay": "if your goods are for non-commercial or personal use and travel in a passenger's luggage you will need to apply for an import control on luxury goods\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C042",
+      "descriptionOverlay": "If you're bringing swordfish into the UK following re-export, you must include an ICCAT swordfish re-export certificate with your goods.\n\n[Check what documents you need to import fish to the UK.](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C042",
+      "descriptionOverlay": "If you're bringing swordfish into the UK following re-export, you must include an ICCAT swordfish re-export certificate with your goods.\n\n[Check what documents you need to import fish to the UK.](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y079",
+      "descriptionOverlay": "your goods are of EU origin and are returning from San Marino\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y079",
+      "descriptionOverlay": "your goods are of EU origin and are returning from San Marino\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y084",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be imported from the DPRK under an exception or under\nthe authority of a licence. Consult the \n[DPRK Sanctions Guidance](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act) \nfor up to date information on any exceptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y084",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be imported from the DPRK under an exception or under\nthe authority of a licence. Consult the \n[DPRK Sanctions Guidance](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act) \nfor up to date information on any exceptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "L135",
+      "descriptionOverlay": "You must have a licence from the Home Office to import precursor chemicals.\n\n[Apply for a licence to import precursor chemicals](https://www.gov.uk/guidance/precursor-chemical-licensing)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "L135",
+      "descriptionOverlay": "You must have a licence from the Home Office to import precursor chemicals.\n\n[Apply for a licence to import precursor chemicals](https://www.gov.uk/guidance/precursor-chemical-licensing)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C014",
+      "descriptionOverlay": "a VI-1 document when the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C014",
+      "descriptionOverlay": "a VI-1 document when the quantity or price per unit declared is more than 100.00l \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y950",
+      "descriptionOverlay": "You must provide evidence that the goods do not contain hydrofluorocarbons.\n\nFor further information, \n[see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y950",
+      "descriptionOverlay": "You must provide evidence that the goods do not contain hydrofluorocarbons.\n\nFor further information, \n[see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C680",
+      "descriptionOverlay": "You must provide:\n\n- written notification of import\n- evidence of where you acquired your seal products\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C680",
+      "descriptionOverlay": "You must provide:\n\n- written notification of import\n- evidence of where you acquired your seal products\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y256",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of mangoes and guavas.\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y256",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of mangoes and guavas.\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C640",
+      "descriptionOverlay": "If you're [importing live animals from non-EU countries into Great Britain](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries), you need a common health entry document for animals (CHED-A).\n\nYou must [register and login to the IPAFFS service](https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system) to:\n\n- complete part 1 of the CHED-A and notify the border control posts that your goods are arriving\n- track any controls or decisions by the authorities relating to the goods\n\n[See the collection of guidance and forms for importing living animals or animal products](https://www.gov.uk/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C640",
+      "descriptionOverlay": "If you're [importing live animals from non-EU countries into Great Britain](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries), you need a common health entry document for animals (CHED-A).\n\nYou must [register and login to the IPAFFS service](https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system) to:\n\n- complete part 1 of the CHED-A and notify the border control posts that your goods are arriving\n- track any controls or decisions by the authorities relating to the goods\n\n[See the collection of guidance and forms for importing living animals or animal products](https://www.gov.uk/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9113",
+      "descriptionOverlay": "Controlled drugs individual licence\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9113",
+      "descriptionOverlay": "Controlled drugs individual licence\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y922",
+      "descriptionOverlay": "You cannot buy, sell, import or export cat and dog fur (or cat or dog fur products) in the UK.  \n\n[Read the notice to importers for the UK’s position on the trade in cat and dog fur](https://www.gov.uk/guidance/import-controls#notices-to-importers)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y922",
+      "descriptionOverlay": "You cannot buy, sell, import or export cat and dog fur (or cat or dog fur products) in the UK.  \n\n[Read the notice to importers for the UK’s position on the trade in cat and dog fur](https://www.gov.uk/guidance/import-controls#notices-to-importers)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9011",
+      "descriptionOverlay": "These goods are sanctioned unless you have a licence for import or export from DIT.\n\nYou must be able to provide proof if requested.\n\nConsult the guidance on [trading with Russia under sanctions](https://www.gov.uk/guidance/trading-under-sanctions-with-russia) for up to date information on import and export restrictions that apply due to sanctions.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9011",
+      "descriptionOverlay": "These goods are sanctioned unless you have a licence for import or export from DIT.\n\nYou must be able to provide proof if requested.\n\nConsult the guidance on [trading with Russia under sanctions](https://www.gov.uk/guidance/trading-under-sanctions-with-russia) for up to date information on import and export restrictions that apply due to sanctions.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y070",
+      "descriptionOverlay": "You do not need a FLEGT import licence if you have a [CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) permit or certificate](https://www.gov.uk/guidance/apply-for-cites-permits-and-certificates-to-trade-endangered-species) to bring CITES specimens into or out of the UK (GB). \n\nYou must travel with the relevant documentation and use a CITES designated Point of Entry/Exit. Documentation must be presented and endorsed by the UK Border Force on entry and exit. \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y070",
+      "descriptionOverlay": "You do not need a FLEGT import licence if you have a [CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) permit or certificate](https://www.gov.uk/guidance/apply-for-cites-permits-and-certificates-to-trade-endangered-species) to bring CITES specimens into or out of the UK (GB). \n\nYou must travel with the relevant documentation and use a CITES designated Point of Entry/Exit. Documentation must be presented and endorsed by the UK Border Force on entry and exit. \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C067",
+      "descriptionOverlay": "[Read the Iran (nuclear) sanction guidance](https://www.gov.uk/government/publications/iran-nuclear-sanctions-guidance/iran-nuclear-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C067",
+      "descriptionOverlay": "[Read the Iran (nuclear) sanction guidance](https://www.gov.uk/government/publications/iran-nuclear-sanctions-guidance/iran-nuclear-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9029",
+      "descriptionOverlay": "Goods made of or containing ivory for sale or hire are prohibited from being exported from or imported into the UK. You may be exempt from the prohibition against exporting or importing ivory.\n\nIf you believe the goods are exempt, you will need to provide a registration number or exemption certificate reference as evidence. This must be entered in Box 44 of your customs declaration.\n\n[Find out more about dealing in items containing ivory or made of ivory](https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9029",
+      "descriptionOverlay": "Goods made of or containing ivory for sale or hire are prohibited from being exported from or imported into the UK. You may be exempt from the prohibition against exporting or importing ivory.\n\nIf you believe the goods are exempt, you will need to provide a registration number or exemption certificate reference as evidence. This must be entered in Box 44 of your customs declaration.\n\n[Find out more about dealing in items containing ivory or made of ivory](https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9104",
+      "descriptionOverlay": "If you are exporting military or dual-use goods, then you will need to obtain a standard individual export licence or an open general export licences. A standard individual export licence (SIEL), issued by the Export Control Joint Unit (ECJU), permits the export of certain strategic controlled items.\n\nA SIEL is specific to an exporter and allows shipments of a stated quantity of specified items to a named consignee or end-user. A consignee is an entity who first receives the items. The end-user is the entity which uses the items or incorporates them into another product or a higher-level system. You will need appropriate supporting documentation to get a SIEL.\n\nOpen general export licences (OGELs) are also issued by the Export Control Joint Unit (ECJU), part of the Department for International Trade. Check if you can comply with the terms and conditions of an OGEL and register for it on SPIRE. If you cannot comply with the terms and conditions of an OGEL you must apply for a standard individual export licence or open individual export licence (OIEL) on SPIRE.\n\nFor further information see [export licences](https://www.gov.uk/guidance/standard-individual-export-licences#:~:text=A%20standard%20individual%20export%20licence,named%20consignee%20or%20end%2Duser).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9006",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be exported to or imported from Russia and Belarus.\n\nConsult the [Russia Sanctions Guidance](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance) or [Belarus Sanctions Guidance](https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance/the-republic-of-belarus-sanctions-guidance) for up to date information on any exemptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9006",
+      "descriptionOverlay": "There are certain circumstances in which sanctioned goods can be exported to or imported from Russia and Belarus.\n\nConsult the [Russia Sanctions Guidance](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance) or [Belarus Sanctions Guidance](https://www.gov.uk/government/publications/republic-of-belarus-sanctions-guidance/the-republic-of-belarus-sanctions-guidance) for up to date information on any exemptions or any licensing grounds that may apply.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C081",
+      "descriptionOverlay": "a self certified simplified VI 1 document where the quantity or price per unit declared is more than 100.00l\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C081",
+      "descriptionOverlay": "a self certified simplified VI 1 document where the quantity or price per unit declared is more than 100.00l\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C644",
+      "descriptionOverlay": "You need to register with a [UK-approved organic control body](https://www.gov.uk/guidance/organic-food-uk-approved-control-bodies) to import organic products.\n\nYou must also:\n\n- get a certificate of inspection (COI), signed or stamped by the exporter’s control body, for each consignment of organic goods\n- notify the Port Health Authority (PHA) or Local Authority (LA) that an organic consignment is arriving and must be checked\n- show your certificate of inspection to the PHA or LA when your goods arrive at the port. They will check and stamp the certificate before your goods go to customs for clearance\n\n[Read the guidance on importing organic food](https://www.gov.uk/guidance/importing-and-exporting-organic-food)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C644",
+      "descriptionOverlay": "You need to register with a [UK-approved organic control body](https://www.gov.uk/guidance/organic-food-uk-approved-control-bodies) to import organic products.\n\nYou must also:\n\n- get a certificate of inspection (COI), signed or stamped by the exporter’s control body, for each consignment of organic goods\n- notify the Port Health Authority (PHA) or Local Authority (LA) that an organic consignment is arriving and must be checked\n- show your certificate of inspection to the PHA or LA when your goods arrive at the port. They will check and stamp the certificate before your goods go to customs for clearance\n\n[Read the guidance on importing organic food](https://www.gov.uk/guidance/importing-and-exporting-organic-food)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y978",
+      "descriptionOverlay": "You do not need to complete a CHED-D if the net weight of your goods is 30kg or less, and your goods are in one of the following categories:\n\n- consignments of food and feed sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market\n- consignments of food and feed which form part of passengers' personal luggage and are intended for personal consumption or use\n- non-commercial consignments of food and feed sent to a person (not a business) which are not intended to be placed on the market\n- consignments of food and feed intended for scientific purposes \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y978",
+      "descriptionOverlay": "You do not need to complete a CHED-D if the net weight of your goods is 30kg or less, and your goods are in one of the following categories:\n\n- consignments of food and feed sent as trade samples, laboratory samples or as display items for exhibitions, which are not intended to be placed on the market\n- consignments of food and feed which form part of passengers' personal luggage and are intended for personal consumption or use\n- non-commercial consignments of food and feed sent to a person (not a business) which are not intended to be placed on the market\n- consignments of food and feed intended for scientific purposes \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y046",
+      "descriptionOverlay": "If your goods are not from China or Hong Kong, and do not contain polyamide or melamine, you do not need to follow these steps.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y046",
+      "descriptionOverlay": "If your goods are not from China or Hong Kong, and do not contain polyamide or melamine, you do not need to follow these steps.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9030",
+      "descriptionOverlay": "Goods made of or containing ivory are prohibited from being imported into the UK for sale or hire.\n\nGoods brought into the UK for non-commercial use do not require a registration number or an exemption certificate.\n\nWhen bringing goods into the UK for non-commercial use only, you should enter “N/A” in Box 44 of your customs declaration.\n\n[Find out more about dealing in items containing ivory or made of ivory](https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9030",
+      "descriptionOverlay": "Goods made of or containing ivory are prohibited from being imported into the UK for sale or hire.\n\nGoods brought into the UK for non-commercial use do not require a registration number or an exemption certificate.\n\nWhen bringing goods into the UK for non-commercial use only, you should enter “N/A” in Box 44 of your customs declaration.\n\n[Find out more about dealing in items containing ivory or made of ivory](https://www.gov.uk/guidance/dealing-in-items-containing-ivory-or-made-of-ivory).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y983",
+      "descriptionOverlay": "Goods originating in non-government controlled Ukrainian territory with a certificate of origin issued by the\nUkrainian authorities: Import allowed after checks.\n\nFor further information, [please read the guidance on Russian \nSanctions](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y983",
+      "descriptionOverlay": "Goods originating in non-government controlled Ukrainian territory with a certificate of origin issued by the\nUkrainian authorities: Import allowed after checks.\n\nFor further information, [please read the guidance on Russian \nSanctions](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C015",
+      "descriptionOverlay": "a VI-2 document where the quantity or price per unit declared is more than 100.00l and your consignment is split before entry into free circulation \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C015",
+      "descriptionOverlay": "a VI-2 document where the quantity or price per unit declared is more than 100.00l and your consignment is split before entry into free circulation \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y251",
+      "descriptionOverlay": "Fresh vegetable materials used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, \ncleaned, bleached or dyed cereal straw, and lime bark) from all third countries require a phytosanitary certificate \n(EU, Switzerland and Liechtenstein are currently exempt).\n\nFresh vegetable materials used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, \ncleaned, bleached or dyed cereal straw, and lime bark) from the USA require a phytosanitary certificate, \nprenotification and may be subject to inspection at the border.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y251",
+      "descriptionOverlay": "Fresh vegetable materials used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, \ncleaned, bleached or dyed cereal straw, and lime bark) from all third countries require a phytosanitary certificate \n(EU, Switzerland and Liechtenstein are currently exempt).\n\nFresh vegetable materials used primarily for plaiting (for example, bamboos, rattans, reeds, rushes, osier, raffia, \ncleaned, bleached or dyed cereal straw, and lime bark) from the USA require a phytosanitary certificate, \nprenotification and may be subject to inspection at the border.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C057",
+      "descriptionOverlay": "A Declaration of Conformity is required as the goods contain hydrofluorocarbons. You must include a declaration of \nconformity to certify you have enough quota authorisations from a quota holder for the hydrofluorocarbons in the \nequipment. \n\nThe goods must comply with Option A in EU Regulation 2016/879.\n\n+++ What is a Declaration of Conformity?\nA Declaration of Conformity certifies that you have enough quota authorisations from a quota holder for the HFCs in \nthe equipment.\n+++\n\nFor further information, \n[see transferring and authorising F gas quota to another business](https://www.gov.uk/guidance/transferring-and-authorising-f-gas-quota-to-another-business).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C057",
+      "descriptionOverlay": "A Declaration of Conformity is required as the goods contain hydrofluorocarbons. You must include a declaration of \nconformity to certify you have enough quota authorisations from a quota holder for the hydrofluorocarbons in the \nequipment. \n\nThe goods must comply with Option A in EU Regulation 2016/879.\n\n+++ What is a Declaration of Conformity?\nA Declaration of Conformity certifies that you have enough quota authorisations from a quota holder for the HFCs in \nthe equipment.\n+++\n\nFor further information, \n[see transferring and authorising F gas quota to another business](https://www.gov.uk/guidance/transferring-and-authorising-f-gas-quota-to-another-business).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "L001",
+      "descriptionOverlay": "AGRIM (Agricultural Import) licences are needed for the import of:\n\n- rice, if the quantity is over 1000kg\n- hemp \n- hemp seeds\n- ethyl alcohol of agricultural origin, if the quantity is over 100 hectolitres\n\nPrint or [download the import license application form for agricultural products.](https://www.gov.uk/government/publications/agrim-import-licence-application-form-for-agricultural-products) \n\nFind out [more about importing agricultural goods.](https://www.gov.uk/guidance/the-trader-s-guide-to-importing-and-exporting-certain-agricultural-goods)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "L001",
+      "descriptionOverlay": "AGRIM (Agricultural Import) licences are needed for the import of:\n\n- rice, if the quantity is over 1000kg\n- hemp \n- hemp seeds\n- ethyl alcohol of agricultural origin, if the quantity is over 100 hectolitres\n\nPrint or [download the import license application form for agricultural products.](https://www.gov.uk/government/publications/agrim-import-licence-application-form-for-agricultural-products) \n\nFind out [more about importing agricultural goods.](https://www.gov.uk/guidance/the-trader-s-guide-to-importing-and-exporting-certain-agricultural-goods)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C672",
+      "descriptionOverlay": "If your goods are non-hazardous waste and weigh more than 20kg, you must have a completed and signed 'Annex VII document' (information accompanying shipments of waste). This document must travel with the waste at all times.\n\n[Read about shipping non-hazardous waste](https://www.gov.uk/guidance/importing-and-exporting-waste#import-or-export-article-18-controls)\n\n\n[Annex VII document](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:079:0019:0023:EN:PDF)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C672",
+      "descriptionOverlay": "If your goods are non-hazardous waste and weigh more than 20kg, you must have a completed and signed 'Annex VII document' (information accompanying shipments of waste). This document must travel with the waste at all times.\n\n[Read about shipping non-hazardous waste](https://www.gov.uk/guidance/importing-and-exporting-waste#import-or-export-article-18-controls)\n\n\n[Annex VII document](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2013:079:0019:0023:EN:PDF)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y032",
+      "descriptionOverlay": "You must provide evidence that your goods do not contain seal products.\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y032",
+      "descriptionOverlay": "You must provide evidence that your goods do not contain seal products.\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C667",
+      "descriptionOverlay": "If you do not have a [certificate issued by the Federal Grain Inspection Service](https://www.legislation.gov.uk/eur/2007/1375/annex/I) and a [certificate issued by the USA wet milling industry](https://www.legislation.gov.uk/eur/2017/337/images/eur_20170337_2017-02-27_en_001?view=extent), your goods must go for laboratory analysis in the UK.\n\nIf you import residues from the manufacture of starch from maize from the USA, your goods will be subject to random sampling at the UK border if they’re accompanied by a [certificate issued by the Federal Grain Inspection Service](https://www.legislation.gov.uk/eur/2007/1375/annex/I). Enter C666 on your declaration.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C667",
+      "descriptionOverlay": "If you do not have a [certificate issued by the Federal Grain Inspection Service](https://www.legislation.gov.uk/eur/2007/1375/annex/I) and a [certificate issued by the USA wet milling industry](https://www.legislation.gov.uk/eur/2017/337/images/eur_20170337_2017-02-27_en_001?view=extent), your goods must go for laboratory analysis in the UK.\n\nIf you import residues from the manufacture of starch from maize from the USA, your goods will be subject to random sampling at the UK border if they’re accompanied by a [certificate issued by the Federal Grain Inspection Service](https://www.legislation.gov.uk/eur/2007/1375/annex/I). Enter C666 on your declaration.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y904",
+      "descriptionOverlay": "You cannot bring these goods into the country unless they are intended for the exclusive purpose of public display in a museum in view of their historic significance.\n\n[Read the guidance on import controls](https://www.gov.uk/guidance/import-controls)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y904",
+      "descriptionOverlay": "You cannot bring these goods into the country unless they are intended for the exclusive purpose of public display in a museum in view of their historic significance.\n\n[Read the guidance on import controls](https://www.gov.uk/guidance/import-controls)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y927",
+      "descriptionOverlay": "You cannot import fishery products caught by fishing vessels flying the flag of these countries:\n\n- Kingdom of Cambodia\n- Saint Vincent and the Grenadines \n- Union of Comoros\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y951",
+      "descriptionOverlay": "If you import less than 100 tonnes of hydrofluorocarbons a year as stated in Article 15.2 of EU Regulation No 517 / 2014 \nyou must show proof.\n\nFor further information, \n[see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y951",
+      "descriptionOverlay": "If you import less than 100 tonnes of hydrofluorocarbons a year as stated in Article 15.2 of EU Regulation No 517 / 2014 \nyou must show proof.\n\nFor further information, \n[see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y078",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Norway\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y078",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Norway\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y969",
+      "descriptionOverlay": "You are allowed to import mercury products if they are:\n\n  - essential for civil protection and military uses\n  - for research, calibration of instrumentation or use as a reference standard\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y969",
+      "descriptionOverlay": "You are allowed to export mercury products if they are:\n\n  - essential for civil protection and military uses\n  - for research, calibration of instrumentation or use as a reference standard\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C043",
+      "descriptionOverlay": "If you're bringing bigeye tuna into the UK following re-export, you must include an ICCAT bigeye tuna re-export certificate or IOTC bigeye tuna re-export certificate with your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C043",
+      "descriptionOverlay": "If you're bringing bigeye tuna into the UK following re-export, you must include an ICCAT bigeye tuna re-export certificate or IOTC bigeye tuna re-export certificate with your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "L136",
+      "descriptionOverlay": "You must have a licence to import ozone-depleting substances for either feedstock or laboratory and analytical uses into the UK.\n\n[Applying for a licence to import or export ozone-depleting substances](https://www.gov.uk/guidance/applying-for-a-licence-to-import-or-export-ozone-depleting-substances)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "L136",
+      "descriptionOverlay": "You must have a licence to import ozone-depleting substances for either feedstock or laboratory and analytical uses into the UK.\n\n[Applying for a licence to import or export ozone-depleting substances](https://www.gov.uk/guidance/applying-for-a-licence-to-import-or-export-ozone-depleting-substances)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y923",
+      "descriptionOverlay": "If waste shipment rules do not apply to the goods being imported, you must be able to provide evidence of why they are not waste.\n\n[Find out how to decide whether waste rules apply to your goods.](https://www.gov.uk/government/publications/legal-definition-of-waste-guidance)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y923",
+      "descriptionOverlay": "If waste shipment rules do not apply to the goods being imported, you must be able to provide evidence of why they are not waste.\n\n[Find out how to decide whether waste rules apply to your goods.](https://www.gov.uk/government/publications/legal-definition-of-waste-guidance)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "N851",
+      "descriptionOverlay": "You need a [phytosanitary certificate (PC)](https://www.gov.uk/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk#get-a-phytosanitary-certificate-pc) to import most plants and plant products from non-EU countries into the UK. \n\nThis includes: plants and trees, seeds, cut flowers, fruit, vegetables, wood and wood products.\n\nDepending on what you are importing, you may also need to:\n- [pre-notify the plant health authority](https://www.gov.uk/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk#making-a-pre-notification) before your goods arrive\n- pay for plant health inspections\n\nRead the guidance on [importing plants and plant products from non-EU countries](https://www.gov.uk/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk)\n\nPlant health controls are different if you’re [importing from EU countries](https://www.gov.uk/guidance/import-plants-and-plant-products-from-the-eu-to-great-britain-and-northern-ireland)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "N851",
+      "descriptionOverlay": "You need a [phytosanitary certificate (PC)](https://www.gov.uk/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk#get-a-phytosanitary-certificate-pc) to import most plants and plant products from non-EU countries into the UK. \n\nThis includes: plants and trees, seeds, cut flowers, fruit, vegetables, wood and wood products.\n\nDepending on what you are importing, you may also need to:\n- [pre-notify the plant health authority](https://www.gov.uk/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk#making-a-pre-notification) before your goods arrive\n- pay for plant health inspections\n\nRead the guidance on [importing plants and plant products from non-EU countries](https://www.gov.uk/guidance/importing-plants-fruit-vegetables-or-plant-material-to-the-uk)\n\nPlant health controls are different if you’re [importing from EU countries](https://www.gov.uk/guidance/import-plants-and-plant-products-from-the-eu-to-great-britain-and-northern-ireland)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y255",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of nuts which are not for growing. \n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y255",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of nuts which are not for growing. \n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y946",
+      "descriptionOverlay": "if your goods are for the official purposes of diplomatic or consular missions of Member States in the DPRK or international organisations enjoying immunities in accordance with international law, or to the personal effects of their staff\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y946",
+      "descriptionOverlay": "if your goods are for the official purposes of diplomatic or consular missions of Member States in the DPRK or international organisations enjoying immunities in accordance with international law, or to the personal effects of their staff\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C676",
+      "descriptionOverlay": "[Read the Russia sanction guidance](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C676",
+      "descriptionOverlay": "[Read the Russia sanction guidance](https://www.gov.uk/government/publications/russia-sanctions-guidance/russia-sanctions-guidance)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y036",
+      "descriptionOverlay": "AGRIM licences are not needed for:\n\n- rice, if the quantity is 1000kg or less\n- ethyl alcohol of agricultural origin, if the quantity is 100 hectolitres or less\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y036",
+      "descriptionOverlay": "AGRIM licences are not needed for:\n\n- rice, if the quantity is 1000kg or less\n- ethyl alcohol of agricultural origin, if the quantity is 100 hectolitres or less\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "E012",
+      "descriptionOverlay": "Export If the goods are cultural goods and listed in Annex 1 of Regulation (EC) No. 116/2009, an EU export licence is\nrequired.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C641",
+      "descriptionOverlay": "You must have a Dissostichus catch document report for your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C641",
+      "descriptionOverlay": "You must have a Dissostichus catch document report for your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y900",
+      "descriptionOverlay": "If the declared goods are not on the CITES list, you do not need a permit or certificate.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y900",
+      "descriptionOverlay": "If the declared goods are not on the CITES list, you do not need a permit or certificate.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y942",
+      "descriptionOverlay": "You must check if your goods are on the list of 'invasive alien species' whether they are [animals](https://www.gov.uk/guidance/invasive-non-native-alien-animal-species-rules-in-england-and-wales#non-native) or [plants.](https://www.gov.uk/guidance/invasive-non-native-alien-plant-species-rules-in-england-and-wales#list-of-invasive-plant-species)\n\nIf they are not on the list, you must have a document identifying the species of your goods.\n\nIf they are on the list, you cannot import these goods unless you're importing them for either:\n\n- research, ex-situ conservation, or scientific production \n-  other activities for reasons of compelling public interest, including social and economic reasons\n\nYou must also have an 'invasive alien species' (IAS) permit from the Animal and Plant Health Agency (APHA). \n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y942",
+      "descriptionOverlay": "You must check if your goods are on the list of 'invasive alien species' whether they are [animals](https://www.gov.uk/guidance/invasive-non-native-alien-animal-species-rules-in-england-and-wales#non-native) or [plants.](https://www.gov.uk/guidance/invasive-non-native-alien-plant-species-rules-in-england-and-wales#list-of-invasive-plant-species)\n\nIf they are not on the list, you must have a document identifying the species of your goods.\n\nIf they are on the list, you cannot import these goods unless you're importing them for either:\n\n- research, ex-situ conservation, or scientific production \n-  other activities for reasons of compelling public interest, including social and economic reasons\n\nYou must also have an 'invasive alien species' (IAS) permit from the Animal and Plant Health Agency (APHA). \n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C683",
+      "descriptionOverlay": "You must provide an attesting document for any seal products obtained under the Inuit or other indigenous communities \nhunting exemption to place on the UK market.\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C683",
+      "descriptionOverlay": "You must provide an attesting document for any seal products obtained under the Inuit or other indigenous communities \nhunting exemption to place on the UK market.\n\nFor further information please visit [the guidance on bringing seal products into Great \nBritain](https://www.gov.uk/guidance/bringing-seal-products-into-great-britain).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C050",
+      "descriptionOverlay": "You must have a hops quality certificate issued by an authorised agency in the country your goods come from.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C050",
+      "descriptionOverlay": "You must have a hops quality certificate issued by an authorised agency in the country your goods come from.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C678",
+      "descriptionOverlay": "If you're [importing high-risk food of non-animal origin (HRFNAO) from non-EU countries into Great Britain](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries), you need a common health entry document called CHED-D.\n\nExamples of HRFNAO include:\n\n- peanuts from Bolivia\n- raisins from Turkey\n- coriander from Vietnam\n\nYou must [register and login to IPAFFS](https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system) to:\n\n- complete part 1 of the CHED-D and notify the border control posts that your goods are arriving\n- track any controls or decisions by the authorities relating to the goods\n\n[See the collection of guidance and forms for importing HRFNAO](https://www.gov.uk/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products)\n\n[Read the Food Standards Agency HFRNAO guidance for Northern Ireland](https://www.food.gov.uk/business-guidance/high-risk-food-of-non-animal-origin)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C678",
+      "descriptionOverlay": "If you're [importing high-risk food of non-animal origin (HRFNAO) from non-EU countries into Great Britain](https://www.gov.uk/guidance/importing-live-animals-or-animal-products-from-non-eu-countries), you need a common health entry document called CHED-D.\n\nExamples of HRFNAO include:\n\n- peanuts from Bolivia\n- raisins from Turkey\n- coriander from Vietnam\n\nYou must [register and login to IPAFFS](https://www.gov.uk/guidance/import-of-products-animals-food-and-feed-system) to:\n\n- complete part 1 of the CHED-D and notify the border control posts that your goods are arriving\n- track any controls or decisions by the authorities relating to the goods\n\n[See the collection of guidance and forms for importing HRFNAO](https://www.gov.uk/government/collections/guidance-on-importing-and-exporting-live-animals-or-animal-products)\n\n[Read the Food Standards Agency HFRNAO guidance for Northern Ireland](https://www.food.gov.uk/business-guidance/high-risk-food-of-non-animal-origin)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y937",
+      "descriptionOverlay": "Most goods that fall under any of the following commodity code groups do not require a CHED-D:\n\n- 1704 90: Sugar confectionery (including white chocolate), not containing cocoa, other than chewing gum, whether or not sugar-coated\n- 1806:  Chocolate and other food preparations containing cocoa\n- 1905: Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products\n\nIf your product contains more than 20 percent nuts, you may need a CHED-D. Before you import the goods you should [check with an HRFNAO approved border control post](https://www.gov.uk/government/publications/uk-border-control-posts-animal-and-animal-product-imports).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y937",
+      "descriptionOverlay": "Most goods that fall under any of the following commodity code groups do not require a CHED-D:\n\n- 1704 90: Sugar confectionery (including white chocolate), not containing cocoa, other than chewing gum, whether or not sugar-coated\n- 1806:  Chocolate and other food preparations containing cocoa\n- 1905: Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products\n\nIf your product contains more than 20 percent nuts, you may need a CHED-D. Before you import the goods you should [check with an HRFNAO approved border control post](https://www.gov.uk/government/publications/uk-border-control-posts-animal-and-animal-product-imports).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "A022",
+      "descriptionOverlay": "You must have a basmati rice certificate of authenticity from India or Pakistan, issued by either:\n\n- Export Inspection Council, Ministry of Commerce, India\n- Trading Corporation of Pakistan (Pvt) Ltd \n\n[Get help classifying rice](https://www.gov.uk/guidance/classifying-rice)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "A022",
+      "descriptionOverlay": "You must have a basmati rice certificate of authenticity from India or Pakistan, issued by either:\n\n- Export Inspection Council, Ministry of Commerce, India\n- Trading Corporation of Pakistan (Pvt) Ltd \n\n[Get help classifying rice](https://www.gov.uk/guidance/classifying-rice)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y259",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of grains of rye, triticale and wheat from all \nthird countries other than:\n\n- Afghanistan\n- India\n- Iran\n- Iraq\n- Mexico\n- Nepal\n- Pakistan\n- South Africa\n- USA\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y259",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of grains of rye, triticale and wheat from all \nthird countries other than:\n\n- Afghanistan\n- India\n- Iran\n- Iraq\n- Mexico\n- Nepal\n- Pakistan\n- South Africa\n- USA\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9007",
+      "descriptionOverlay": "These goods are exempt from sanctions because they belong to the person accompanying them to Russia or Belarus, contained in luggage and for personal use.\n\nConsult the guidance on [trading with Russia under sanctions](https://www.gov.uk/guidance/trading-under-sanctions-with-russia) for up to date information on import and export restrictions that apply due to sanctions.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y984",
+      "descriptionOverlay": "Goods not originating from or not destined for the areas of the Donetsk and Luhansk oblasts.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y984",
+      "descriptionOverlay": "Goods not originating from or not destined for the areas of the Donetsk and Luhansk oblasts.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9105",
+      "descriptionOverlay": "The exporting of radioactive sources is controlled and needs an export licence.\n\nUse the [Goods Checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nto check if you need a licence from the Export Control Joint Unit.\n\nThe types of licences needed for radioactive sources are:\n- Open General Export Licence\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nYou may be able to use the Open General Export Licence (OGEL): radioactive sources which allows the export of some\ngoods from radioactive sources to specific destinations. This also removes the need to apply for an individual licence.\n\nA Standard Individual Export Licence (SIEL) or Open Individual Export Licence (OIEL) will be needed if:\n  - the goods are to a destination not covered by OGEL\n  - the terms and conditions of the OGEL cannot be met\n\nRegister for the OGEL or [apply for an export licence on SPIRE](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login),\nthe online export licensing system.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9105",
+      "descriptionOverlay": "The exporting of radioactive sources is controlled and needs an export licence.\n\nUse the [Goods Checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nto check if you need a licence from the Export Control Joint Unit.\n\nThe types of licences needed for radioactive sources are:\n- Open General Export Licence\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nYou may be able to use the Open General Export Licence (OGEL): radioactive sources which allows the export of some\ngoods from radioactive sources to specific destinations. This also removes the need to apply for an individual licence.\n\nA Standard Individual Export Licence (SIEL) or Open Individual Export Licence (OIEL) will be needed if:\n  - the goods are to a destination not covered by OGEL\n  - the terms and conditions of the OGEL cannot be met\n\nRegister for the OGEL or [apply for an export licence on SPIRE](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login),\nthe online export licensing system.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "N002",
+      "descriptionOverlay": "If you import fresh fruit or vegetables, you need a [certificate of conformity](https://www.gov.uk/guidance/import-and-export-plants-and-fresh-produce#produce-which-must-have-a-certificate-of-conformity) for goods that are:\n- apples\n- citrus fruit\n- kiwi fruit\n- peaches and nectarines\n- pears\n- strawberries\n- table grapes\n- lettuces, curled-leaved and broad-leaved endives\n- sweet peppers\n- tomatoes\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "N002",
+      "descriptionOverlay": "If you export fresh fruit or vegetables, you need a [certificate of conformity](https://www.gov.uk/guidance/import-and-export-plants-and-fresh-produce#produce-which-must-have-a-certificate-of-conformity) for goods that are:\n\n- apples\n- citrus fruit\n- kiwi fruit\n- peaches and nectarines\n- pears\n- strawberries\n- table grapes\n- lettuces, curled-leaved and broad-leaved endives\n- sweet peppers\n- tomatoes\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y073",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Switzerland\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y073",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Switzerland\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y250",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of grains of rye, triticale and wheat from all\nthird countries other than:\n\n- Afghanistan\n- India\n- Iran\n- Iraq\n- Mexico\n- Nepal\n- Pakistan\n- South Africa\n- USA\n\nFor further information [please visit the guidance page on importing and exporting plants and plant \nproducts](https://www.gov.uk/government/collections/importing-and-exporting-plants-and-plant-products).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y250",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of grains of rye, triticale and wheat from all\nthird countries other than:\n\n- Afghanistan\n- India\n- Iran\n- Iraq\n- Mexico\n- Nepal\n- Pakistan\n- South Africa\n- USA\n\nFor further information [please visit the guidance page on importing and exporting plants and plant \nproducts](https://www.gov.uk/government/collections/importing-and-exporting-plants-and-plant-products).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y928",
+      "descriptionOverlay": "If you import food or feed goods from Japan, check if they are affected by [additional import controls due to the Fukushima accident](https://www.food.gov.uk/business-guidance/importing-high-risk-food-and-feed-into-gb#importing-produce-from-japan).\n\nYou must:\n\n- ensure goods are tested before leaving Japan\n- provide a signed declaration and analysis results with the goods\n- notify the UK port of entry 2 working days before the consignment arrives\n\nGoods can be randomly tested at the UK border.\n\n[See the full list of affected food and feed products](https://www.legislation.gov.uk/eur/2016/6/annex/II)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y928",
+      "descriptionOverlay": "If you import food or feed goods from Japan, check if they are affected by [additional import controls due to the Fukushima accident](https://www.food.gov.uk/business-guidance/importing-high-risk-food-and-feed-into-gb#importing-produce-from-japan).\n\nYou must:\n\n- ensure goods are tested before leaving Japan\n- provide a signed declaration and analysis results with the goods\n- notify the UK port of entry 2 working days before the consignment arrives\n\nGoods can be randomly tested at the UK border.\n\n[See the full list of affected food and feed products](https://www.legislation.gov.uk/eur/2016/6/annex/II)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C058",
+      "descriptionOverlay": "\nYou must have a document called a ‘statement of conformity’. This shows that your goods meet all the [EU’s end of waste criteria for scrap.](https://www.legislation.gov.uk/eur/2011/333/introduction) You only need this document if your material is no longer considered to be waste.\n\nIf you do not meet all the criteria, or do not have a statement of conformity, your material must be viewed as waste and follow laws around waste. \n\n[Check if your material is waste.](https://www.gov.uk/guidance/check-if-your-material-is-waste)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C058",
+      "descriptionOverlay": "\nYou must have a document called a ‘statement of conformity’. This shows that your goods meet all the [EU’s end of waste criteria for scrap.](https://www.legislation.gov.uk/eur/2011/333/introduction) You only need this document if your material is no longer considered to be waste.\n\nIf you do not meet all the criteria, or do not have a statement of conformity, your material must be viewed as waste and follow laws around waste. \n\n[Check if your material is waste.](https://www.gov.uk/guidance/check-if-your-material-is-waste)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y910",
+      "descriptionOverlay": "If your tuna is taken from the Indian Ocean by seiners or baitboats and intended mainly for the canning industry, you do not need a ICCAT or IOTC statistical certificate to import the goods into the UK.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y910",
+      "descriptionOverlay": "If your tuna is taken from the Indian Ocean by seiners or baitboats and intended mainly for the canning industry, you do not need a ICCAT or IOTC statistical certificate to import the goods into the UK.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C673",
+      "descriptionOverlay": "You need a [catch certificate](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk#import-documents) to import most fish and fishery products into the UK. \nThis must be validated by the authority of the country where the fishing vessel is registered or licenced.  You may also need a processing statement or storage document if the product was processed or stored.  \n \nForeign vessels landing catch directly into the UK (except for EU vessels landing into Northern Ireland) will also need to complete a:\n- prior notification form\n- pre-landing declaration\n\n[Read the guidance on importing fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C673",
+      "descriptionOverlay": "You need a [catch certificate](https://www.gov.uk/guidance/exporting-or-moving-fish-from-the-uk#catch-certificate) to export most fish and fishery products out of the UK. \n  If you land fish directly into EU ports, you’ll also need to complete a:\n  - prior notification form \n  - pre-landing declaration\n  - the NEAFC Port-State Control forms\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "X002",
+      "descriptionOverlay": "If your goods are intended to be \n[used by both civilians and the military (‘dual use’)](https://www.gov.uk/guidance/export-controls-dual-use-items-software-and-technology-goods-for-torture-and-radioactive-sources)\nthen you may need a licence from the Export Control Joint Unit.\n\nSee the [Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nto check if your items are controlled and whether you need an export licence from the Export Control Joint Unit.\n\nTypes of licences for dual-use goods include:\n- Open General Export Licence\n- General Export Authorisation\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nYou may be able to use one of the open general export licences which allows the export of dual use goods to specific\ndestinations and removes the need to apply for an individual licence. See the [list of Open General Licences and General Export Authorisations available here](https://www.gov.uk/government/collections/open-general-export-licences-ogels#retained-general-export-authorisations).\n\nIf the goods are to a destination not covered by OGEL or you cannot meet the terms and conditions of the OGEL, then a\nstandard individual export licence (SIEL) or open individual export licence (OIEL) will be needed.\n\nRegister for the OGEL or apply for an export licence on \n[SPIRE, the online export licensing system](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "X002",
+      "descriptionOverlay": "If your goods are intended to be \n[used by both civilians and the military (‘dual use’)](https://www.gov.uk/guidance/export-controls-dual-use-items-software-and-technology-goods-for-torture-and-radioactive-sources)\nthen you may need a licence from the Export Control Joint Unit.\n\nSee the [Goods Checker tool](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)\nto check if your items are controlled and whether you need an export licence from the Export Control Joint Unit.\n\nTypes of licences for dual-use goods include:\n- Open General Export Licence\n- General Export Authorisation\n- Standard Individual Export Licence\n- Open Individual Export Licence\n\nYou may be able to use one of the open general export licences which allows the export of dual use goods to specific\ndestinations and removes the need to apply for an individual licence. See the [list of Open General Licences and General Export Authorisations available here](https://www.gov.uk/government/collections/open-general-export-licences-ogels#retained-general-export-authorisations).\n\nIf the goods are to a destination not covered by OGEL or you cannot meet the terms and conditions of the OGEL, then a\nstandard individual export licence (SIEL) or open individual export licence (OIEL) will be needed.\n\nRegister for the OGEL or apply for an export licence on \n[SPIRE, the online export licensing system](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C040",
+      "descriptionOverlay": "If you're importing bigeye tuna into the UK, You must include an ICCAT bigeye tuna statistical document or IOTC bigeye tuna statistical document with your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C040",
+      "descriptionOverlay": "If you're importing bigeye tuna into the UK, You must include an ICCAT bigeye tuna statistical document or IOTC bigeye tuna statistical document with your goods.\n\n[Check what documents you need to import fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9002",
+      "descriptionOverlay": "Movement certificate EUR-MED\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9002",
+      "descriptionOverlay": "Movement certificate EUR-MED\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y054",
+      "descriptionOverlay": "You must be registered on the GB HFC Registry.\n\nYou must have sufficient quota or quota authorisation to cover the amount of HFC you’re importing.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y054",
+      "descriptionOverlay": "You must be registered on the GB HFC Registry.\n\nYou must have sufficient quota or quota authorisation to cover the amount of HFC you’re importing.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "L100",
+      "descriptionOverlay": "You must have a licence to import ozone-depleting substances into the UK.\n\n[Applying for a licence to import or export ozone-depleting substances](https://www.gov.uk/guidance/applying-for-a-licence-to-import-or-export-ozone-depleting-substances)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "L100",
+      "descriptionOverlay": "You must have a licence to import ozone-depleting substances into the UK.\n\n[Applying for a licence to import or export ozone-depleting substances](https://www.gov.uk/guidance/applying-for-a-licence-to-import-or-export-ozone-depleting-substances)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C668",
+      "descriptionOverlay": "You must include a [certificate issued by the USA wet milling industry](https://www.legislation.gov.uk/eur/2017/337/images/eur_20170337_2017-02-27_en_001?view=extent) when you import these goods.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C668",
+      "descriptionOverlay": "You must include a [certificate issued by the USA wet milling industry](https://www.legislation.gov.uk/eur/2017/337/images/eur_20170337_2017-02-27_en_001?view=extent) when you import these goods.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9100",
+      "descriptionOverlay": "You need an import licence if your **firearms and ammunition** are:\n- within either chapter 93 (arms and ammunition) or chapter 97 (works of art, collectors' pieces and antiques) of the UK tariff\n- made after 31 December 1899\n\nContact the Department of International Trade's Import Controls Policy and Licencing team for further guidance.\n\nEmail: enquiries.ilb@trade.gov.uk\n\nYou need an import licence if your **nuclear material** falls under sub-chapters 2612 and 2844 of the UK Trade Tariff.\n\nYou should allow 2 months for your licence application to be processed.\n\n[Apply for a licence](https://www.gov.uk/guidance/importing-relevant-nuclear-materials-from-the-eu-licensing-requirements) from the Office for Nuclear Regulation (ONR).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9100",
+      "descriptionOverlay": "You need an import licence if your **firearms and ammunition** are:\n- within either chapter 93 (arms and ammunition) or chapter 97 (works of art, collectors' pieces and antiques) of the UK tariff\n- made after 31 December 1899\n\nContact the Department of International Trade's Import Controls Policy and Licencing team for further guidance.\n\nEmail: enquiries.ilb@trade.gov.uk\n\nYou need an import licence if your **nuclear material** falls under sub-chapters 2612 and 2844 of the UK Trade Tariff.\n\nYou should allow 2 months for your licence application to be processed.\n\n[Apply for a licence](https://www.gov.uk/guidance/importing-relevant-nuclear-materials-from-the-eu-licensing-requirements) from the Office for Nuclear Regulation (ONR).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C082",
+      "descriptionOverlay": "A Declaration of Conformity is required as the goods contain hydrofluorocarbons. You must include a declaration of \nconformity to certify you have enough quota authorisations from a quota holder for the hydrofluorocarbons in the\nequipment.\n\nThe manufacturer must declare that the hydrofluorocarbons were placed on the market by a producer or importer subject\nto [Article 15 to EU Regulation 517/2014](https://www.legislation.gov.uk/eur/2014/517).\n\nThe goods must comply with Option C in [EU Regulation 2016/879](https://www.legislation.gov.uk/eur/2016/879).\n\n+++ What is a Declaration of Conformity?\nA Declaration of Conformity certifies that you have enough quota authorisations from a quota holder for the HFCs in\nthe equipment.\n+++\n\nFor further information, \n[see transferring and authorising F gas quota to another business](https://www.gov.uk/guidance/transferring-and-authorising-f-gas-quota-to-another-business).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C082",
+      "descriptionOverlay": "A Declaration of Conformity is required as the goods contain hydrofluorocarbons. You must include a declaration of \nconformity to certify you have enough quota authorisations from a quota holder for the hydrofluorocarbons in the\nequipment.\n\nThe manufacturer must declare that the hydrofluorocarbons were placed on the market by a producer or importer subject\nto [Article 15 to EU Regulation 517/2014](https://www.legislation.gov.uk/eur/2014/517).\n\nThe goods must comply with Option C in [EU Regulation 2016/879](https://www.legislation.gov.uk/eur/2016/879).\n\n+++ What is a Declaration of Conformity?\nA Declaration of Conformity certifies that you have enough quota authorisations from a quota holder for the HFCs in\nthe equipment.\n+++\n\nFor further information, \n[see transferring and authorising F gas quota to another business](https://www.gov.uk/guidance/transferring-and-authorising-f-gas-quota-to-another-business).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y077",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Lichtenstein\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y077",
+      "descriptionOverlay": "your goods are of EU origin and are returning from Lichtenstein\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C039",
+      "descriptionOverlay": "If you're importing swordfish into the UK, you must include an ICCAT swordfish statistical document with your goods.\n\n[Check what documents you need to import fish to the UK.](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C039",
+      "descriptionOverlay": "If you're importing swordfish into the UK, you must include an ICCAT swordfish statistical document with your goods.\n\n[Check what documents you need to import fish to the UK.](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y254",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of nuts, for example, almonds, walnuts and\ncashews, if they are not intended for growing.\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y254",
+      "descriptionOverlay": "You are exempt from providing a Phytosanitary Certificate for imports of nuts, for example, almonds, walnuts and\ncashews, if they are not intended for growing.\n\nFor further guidance please visit [the UK Plant Health Information Portal](https://planthealthportal.defra.gov.uk/).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "C631",
+      "descriptionOverlay": "To import non-wooden or recycled materials for paper products from Indonesia you will need to provide a formal\nnotification letter issued by the Indonesian Directorate General for Foreign Trade which validates the use of those\nmaterials.\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "C631",
+      "descriptionOverlay": "To import non-wooden or recycled materials for paper products from Indonesia you will need to provide a formal\nnotification letter issued by the Indonesian Directorate General for Foreign Trade which validates the use of those\nmaterials.\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y924",
+      "descriptionOverlay": "You are allowed to import products containing mercury if your goods are:\n- not listed in Annex II of  the mercury regulation (for example, special cases of cosmetics or eye products which contain mixtures of mercurial compounds)\n\n[Contact the relevant environmental regulator for further guidance.](https://www.gov.uk/guidance/moving-mercury-and-products-containing-mercury)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y924",
+      "descriptionOverlay": "You are allowed to export products containing mercury if your goods are not listed in Annex II of the mercury regulation, for example special cases of cosmetics or eye products which contain mixtures of mercury compounds.\n\nBefore you can export metallic mercury or mixtures of mercury, you must get written consent from the country you are exporting to.\n\nFurther guidance:\n  - [Contact the environmental regulator for advice on how to get consent](https://www.gov.uk/guidance/moving-mercury-and-products-containing-mercury).\n  - [Find out the rules that apply to the export of mercury, mixtures of mercury, mercury compounds and products containing mercury](https://www.gov.uk/guidance/controls-on-mercury).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "Y058",
+      "descriptionOverlay": "Your goods are for personal consumption or use\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "Y058",
+      "descriptionOverlay": "Your goods are for personal consumption or use\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "documentCode": "9114",
+      "descriptionOverlay": "Controlled drugs open individual licence\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "documentCode": "9114",
+      "descriptionOverlay": "Controlled drugs open individual licence\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    }
+  ]
+}

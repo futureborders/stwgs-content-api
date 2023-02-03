@@ -1,0 +1,18 @@
+code: "N853"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Products (CHED-P) (as set out in Part\
+  \ 2, Section B of Annex II to Commission Implementing Regulation (EU) 2019/1715\
+  \ (OJ L 261)) for products referred to in point (b) of Article 47(1) of Regulation\
+  \ (EU) 2017/625)  "
+detailsOnTheDeclaration: "Enter GBCHDyyyy. and the reference number of the CHED-P.\
+  \ A separate N853 entry in DE 2/3 is required for each individual CHED-P\nNote yyyy.\
+  \ represents the year in which the licence was issued, for example GBCHD2021.\n\
+  The ‘.’  after the year is part of the licence completion requirements"
+system: "CDS"
+statusCodes:
+- "AE"
+- "JA"
+- "JE"
+- "LE"
+- "LP"
+- "XX"

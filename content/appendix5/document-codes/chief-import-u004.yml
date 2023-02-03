@@ -1,0 +1,31 @@
+code: "U004"
+tradeType: "IMPORT"
+description: "Certificate of (for certain agricultural products) origin meeting the\
+  \ conditions laid down in article 55 of Regulation (EEC) No\n2454/93 to support\
+  \ claims to first come, first served tariff quotas or to accompany imports under\
+  \ licence based quotas or other special arrangements."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the serial number of the Certificate.\
+  \ Where more than one certificate covers the goods insert the highest and lowest\
+  \ serial numbers of the certificates (if they fall within a sequentially numbered\
+  \ range). Where certificates are not sequentially numbered insert the serial number\
+  \ of each certificate concerned."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

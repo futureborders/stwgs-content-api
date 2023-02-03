@@ -1,0 +1,24 @@
+code: "X018"
+tradeType: "EXPORT"
+description: "UK Standard Individual Export Licence issued by UK licencing authority\
+  \ (MLA) or : (Council  Regulation (EEC) No 3911/92)\nEU Standard Individual Export\
+  \ Licence issued in another\nMember State (Council Regulation (EEC) No 3911/92)"
+detailsOnTheDeclaration: "With the exception of EA, EE, EL, EP, ES, FP, IA, IE, IP,\
+  \ LE, SP, XA, XB, XU, enter appropriate status code listed in document status codes\
+  \ for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "FP"
+- "IA"
+- "IE"
+- "IP"
+- "LE"
+- "SP"
+- "XA"
+- "XB"
+- "XU"

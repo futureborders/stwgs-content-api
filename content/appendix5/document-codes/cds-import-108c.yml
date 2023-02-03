@@ -1,0 +1,9 @@
+code: "108C"
+tradeType: "IMPORT"
+description: "To declare an HMRC C108 form for Temporary Admissions Oral Declarations\
+  \ on a C21i only. See Additional Procedure Codes (DE\_1/11) 50A, 50M and 51P"
+detailsOnTheDeclaration: "Enter the date as completed on the HMRC C108 form in the\
+  \ format yymmdd"
+system: "CDS"
+statusCodes:
+- "AC"

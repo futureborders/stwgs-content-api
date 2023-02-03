@@ -1,0 +1,32 @@
+code: "U100"
+tradeType: "IMPORT"
+description: "Certificate EUR 1. bearing the endorsement ‘Derogation — Decision No\
+  \ 1/2017 of the CARIFORUM-EU Special Committee on Customs Cooperation and Trade\
+  \ facilitation of 7 July 2017’; ‘Dérogation — Décision no 1/2017 du Comité spécial\
+  \ de coopération douanière et de facilitation des échanges CARIFORUM-UE du 7 juillet\
+  \ 2017’ or ‘Excepción — Decisión no 1/2017 del Comité Especial CARIFORUM-UE de Cooperació\
+  n Aduanera y Facilitación del Comercio del 7 de julio 2017’."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

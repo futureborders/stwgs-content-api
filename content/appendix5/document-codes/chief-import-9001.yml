@@ -1,0 +1,30 @@
+code: "9001"
+tradeType: "IMPORT"
+description: "Declaration of preferential origin on an invoice or other commercial\
+  \ document bearing as appropriate an original signature or approval number of the\
+  \ exporter\nSee also:\nY019 where the declaration shows that the goods originate\
+  \ in\nIceland;\nY020 where the declaration shows that the goods originate in\nNorway;\
+  \ and\nY021 where the document shows that goods originate in the EEA."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the invoice number(s)."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

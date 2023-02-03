@@ -1,0 +1,31 @@
+code: "C068"
+tradeType: "EXPORT"
+description: "Union General Export Authorisation EU GEA (Regulation (EU) No 2019/125)\
+  \ concerning trade in certain goods which could be used for capital punishment,\
+  \ torture or other cruel, inhuman or degrading treatment or punishment. See also\
+  \ C064, E990, Y904, Y906, Y907 and 9106"
+detailsOnTheDeclaration: "Enter the reference number of the Union General Export Authorisation\
+  \ EU GEA. If using more than one authorisation then a separate C068 entry in DE\
+  \ 2/3 is required for each authorisation."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AP"
+  - "AT"
+  - "FP"
+  - "GE"
+  - "GP"
+  - "HP"
+  - "IA"
+  - "IP"
+  - "JA"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "SP"
+  - "TP"
+  - "UA"
+  - "XW"
+  - "XX"

@@ -1,0 +1,18 @@
+code: "9121"
+tradeType: "IMPORT"
+description: "DEFRA\_or Animal Health import licence/authorisation for products of\
+  \ animal origin."
+detailsOnTheDeclaration: "Enter the licence number. If using more than one licence\
+  \ then a separate 9121 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "IA"
+- "IE"
+- "IP"
+- "ISandXX"

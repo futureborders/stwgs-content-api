@@ -1,0 +1,16 @@
+code: "Y105"
+tradeType: "EXPORT"
+description: "Generic exemption from REACH authorisation (Art. 56 of Regulation (EC)\
+  \ No 1907/2006) Registration, Evaluation, Authorisation and Restriction of Chemicals\
+  \ (REACH) requires authorisations to be issued for the importation, exportation\
+  \ and placing on the home market of potentially harmful chemical substances.\nThis\
+  \ document code is used to state that the goods are exempted from the authorisation\
+  \ requirements of Regulation (EC) No 1907/2006 See also document codes C073, Y109\
+  \ and Y115"
+detailsOnTheDeclaration: "Complete statement \"Exempt from REACH\" in the Document\
+  \ Reason (Fourth Component). The Document Identity (Second Component) must be left\
+  \ blank. Use of this code constitutes a legal declaration that the goods do not\
+  \ require a REACH authorisation.  Sufficient evidence must be held in records to\
+  \ demonstrate eligibility for this waiver which must be produced on demand."
+system: "CDS"
+statusCodes:

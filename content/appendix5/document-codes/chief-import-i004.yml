@@ -1,0 +1,31 @@
+code: "I004"
+tradeType: "IMPORT"
+description: "Import surveillance document.\n1) Commission Regulation (EC) No 76/2002\
+  \ of 17 January 2002 introducing prior Community surveillance of imports of certain\
+  \ iron and steel products covered by the ECSC and EC Treaties originating in certain\
+  \ third countries.\nImport (prior community surveillance) Document.\n1) Council\
+  \ Regulation (EC) No 519/94 of 7 March 1994 on common rules for imports from certain\
+  \ third countries and repealing Regulations (EEC) Nos. 1765/82, 1766/82 and 3420/83.\n\
+  2) Council Regulation (EC) No 3285/94 of 22 December 1994 on the common rules for\
+  \ imports and repealing Regulation (EC) No 518/94"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, EA, EE, EL, EP, ES,\
+  \ GE, LE, LP, UE, XB, XF, XU.\nGBAOG followed by licence number. If there is sequential\
+  \ range of reference numbers then enter the first and last numbered documents within\
+  \ the range. If there are several random reference numbers then ‘various’ is permitted."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "GE"
+- "LE"
+- "LP"
+- "UE"
+- "XB"
+- "XF"
+- "XU"

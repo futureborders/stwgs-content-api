@@ -1,0 +1,30 @@
+code: "Y061"
+tradeType: "IMPORT"
+description: "Origin quota & alternatives to the product specific rules of origin\
+  \ in Annex V of CETA."
+detailsOnTheDeclaration: "Reference must be made to Annex 5-A of the CETA agreement.\
+  \ Use one of the following status codes (see document status codes for harmonised\
+  \ declarations for definitions): AE, AF, AG, AP, AS, AT, GE, GP, LE, LP, UA, UE,\
+  \ UP, US, XA, XB.\nAlso insert the serial number of the Certificate. Where more\
+  \ than one certificate covers the goods insert the highest and lowest serial numbers\
+  \ of the certificates (if they fall within a sequentially numbered range). Where\
+  \ certificates are not sequentially numbered insert the serial number of each certificate\
+  \ concerned."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

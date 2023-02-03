@@ -1,0 +1,14 @@
+code: "E014"
+tradeType: "EXPORT"
+description: "Export Licence for milk products under quota in accordance with Regulation\
+  \ (EU) 2020/761"
+detailsOnTheDeclaration: "Enter the reference number of the licence.  If using more\
+  \ than one licence then a separate E014 entry in DE 2/3 is required for each licence. "
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AP"
+  - "GE"
+  - "LE"
+  - "LP"
+  - "UE"

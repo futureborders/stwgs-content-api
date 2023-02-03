@@ -1,0 +1,20 @@
+code: "N235"
+tradeType: "EXPORT"
+description: "Container list."
+detailsOnTheDeclaration: "Enter the container numbers.  Where a sequentially numbered\
+  \ range of containers cover the goods enter the lowest to the highest container\
+  \ numbers concerned i.e. document code + 0054037-0054047: status code.  Where containers\
+  \ are not sequentially numbered enter the number of each container concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

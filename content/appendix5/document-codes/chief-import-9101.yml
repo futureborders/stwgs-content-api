@@ -1,0 +1,20 @@
+code: "9101"
+tradeType: "IMPORT"
+description: "Chemical weapons: pre-cursor chemicals"
+detailsOnTheDeclaration: "With the exception of FP, HP, IA, IE, IP, IS, SP, TP, XB,\
+  \ XF, XU, XW, enter appropriate status code listed in document status codes for\
+  \ harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XU"
+- "XW"

@@ -1,0 +1,16 @@
+code: "C647"
+tradeType: "IMPORT"
+description: "Confirmation of receipt."
+detailsOnTheDeclaration: "Enter the reference number of the Document.  Where a sequentially\
+  \ numbered range of Documents cover the goods enter the lowest to the highest reference\
+  \ numbers of the Documents concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where Documents are not sequentially numbered enter the reference number\
+  \ of each Document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

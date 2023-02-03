@@ -1,0 +1,34 @@
+code: "X002"
+tradeType: "EXPORT"
+description: "Standard Individual Export Licence: dual use goods requiring export\
+  \ authorisation Council Regulation (EC) No 1334/2000  of 22 June 2000\nOpen Individual\
+  \ Export Licence: dual use goods requiring export authorisation (D999)\nEuropean\
+  \ Union General Export Authorisation (GEA): Dual Use items & technology\nEU001-exports\
+  \ to Australia, Canada, Japan, New Zealand, Norway, Switzerland (including Liechtenstein)\
+  \ and the United States\nEU002-export of certain dual-use items to certain destinations\n\
+  EU003-export after repair/replacement\nEU004-temporary export for exhibition or\
+  \ fair\nEU005-telecommunications\nEU006-chemicals\nOpen General Export Licence:\
+  \ Dual Use goods"
+detailsOnTheDeclaration: "With the exception of AG, AS, EL, IE, IS, JE, JS, UE, UP,\
+  \ US, XB, XF, XU, enter appropriate status code listed in document status codes\
+  \ for harmonised declarations.\nFor supplementary declarations use EA, IA, JA or\
+  \ UA as appropriate (see document status codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AS"
+- "EA"
+- "EL"
+- "IA"
+- "IE"
+- "IS"
+- "JA"
+- "JE"
+- "JS"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"
+- "XF"
+- "XU"

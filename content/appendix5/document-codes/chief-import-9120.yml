@@ -1,0 +1,17 @@
+code: "9120"
+tradeType: "IMPORT"
+description: "Importation of animal pathogens licence under the Importation of Animal\
+  \ Pathogens Order 1980 (IAPO)"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, AG, AP, AS, AT,\
+  \ XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "XX"

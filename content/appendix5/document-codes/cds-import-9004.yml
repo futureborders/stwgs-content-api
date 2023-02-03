@@ -1,0 +1,26 @@
+code: "9004"
+tradeType: "IMPORT"
+description: "Certificates of origin for steel quotas."
+detailsOnTheDeclaration: "Enter GBAOG followed by the reference number of the Certificate.\
+  \ Where a sequentially numbered range of certificates cover the goods enter the\
+  \ lowest to the highest reference numbers of the certificates concerned ie document\
+  \ code + 0054037—0054047: status code. Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

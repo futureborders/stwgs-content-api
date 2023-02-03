@@ -1,0 +1,9 @@
+code: "A119"
+tradeType: "IMPORT"
+description: "Airworthiness certificate"
+detailsOnTheDeclaration: "Only status codes AE and GE are permitted (see document\
+  \ status codes for harmonised declarations for definitions).\nFaxed copy not acceptable."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "GE"

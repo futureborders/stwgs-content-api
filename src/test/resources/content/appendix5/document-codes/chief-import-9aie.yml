@@ -1,0 +1,12 @@
+---
+code: 9AIE
+tradeType: IMPORT
+description: Evidence required by CPC instructions, relief from Excise Duty
+detailsOnTheDeclaration: |-
+  Use one of the following status codes, (see document status codes for harmonised declarations):
+  JP – Evidence  required is available from trader
+  UP – Evidence  required is unavailable
+system: CHIEF
+statusCodes:
+  - "JP"
+  - "UP"

@@ -1,0 +1,30 @@
+code: "N864"
+tradeType: "IMPORT"
+description: "Invoice declaration or origin declaration made out by any exporter on\
+  \ the invoice or any other commercial document (excluding the Bill of Lading) for\
+  \ originating goods where the total value exceeds €6000 (value limit deleted from\
+  \ new TARIC description)."
+detailsOnTheDeclaration: "Enter the reference number of the declaration.  Where a\
+  \ sequentially numbered range of declarations cover the goods enter the lowest to\
+  \ the highest reference numbers of the declarations concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where declarations are not sequentially numbered\
+  \ enter the reference number of each declaration concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

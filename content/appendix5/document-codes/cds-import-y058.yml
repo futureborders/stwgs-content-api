@@ -1,0 +1,14 @@
+code: "Y058"
+tradeType: "IMPORT"
+description: "Exemption by virtue of Article 7 of Commission Delegated Regulation\
+  \ 2019/2122 (Goods which form part of passengers personal luggage and are intended\
+  \ for personal consumption or use)"
+detailsOnTheDeclaration: "Complete statement: ‘Exempt personal consignment.’ in the\
+  \ Document Identifier (Second Component). Document Reason (Fourth Component) must\
+  \ be left blank. Use of this code constitutes a legal declaration that the goods\
+  \ meet the criteria for an exemption under Article 7 of Commission Delegated Regulation\
+  \ 2019/2122 (Goods which form part of passengers personal luggage and are intended\
+  \ for personal consumption or use Sufficient evidence must be held to demonstrate\
+  \ eligibility for this exemption which must be produced on demand."
+system: "CDS"
+statusCodes:

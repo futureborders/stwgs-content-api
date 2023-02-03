@@ -1,0 +1,29 @@
+documentCode: C669
+exportOverlay: |
+  If your waste goods are subject to notification controls, you must make sure that the person who arranges the export of the waste:
+  
+    - gets consent from the relevant authority in the country importing the goods
+    - has the correct waste notification documents and movement tracking form for your goods
+  
+  You must:
+  
+    - get consent from the relevant environmental regulator in England, Scotland, Wales or Northern Ireland to export the waste
+    - pay the relevant fees
+    
+    [Find out if waste rules apply to your goods](https://www.gov.uk/government/publications/legal-definition-of-waste-guidance).
+    
+    [Find out the rules that apply to the import and export of waste](https://www.gov.uk/guidance/importing-and-exporting-waste).
+importOverlay: |
+  If your waste goods are subject to notification controls, you must make sure that the person who arranges the export of the waste:
+  
+    - gets consent from the relevant authority in the country importing or exporting the goods
+    - has the correct waste notification documents and movement tracking form for your goods
+    
+    You must:
+      - get consent from the relevant UK environmental regulator in England, Scotland, Wales or Northern Ireland to import export the waste
+      - pay the relevant fees
+  
+  Further guidance:
+    - [Find out whether waste rules apply to your goods](https://www.gov.uk/government/publications/legal-definition-of-waste-guidance).
+    - [Find out rules that apply to the import and export of waste]( https://www.gov.uk/guidance/importing-and-exporting-waste).
+locale: EN

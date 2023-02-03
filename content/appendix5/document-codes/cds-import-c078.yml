@@ -1,0 +1,17 @@
+code: "C078"
+tradeType: "IMPORT"
+description: "Identification document for equidae (Regulation (EU) 2016/1012, Article\
+  \ 32) Purebred equine animals imported for breeding purposes may be accompanied\
+  \ by: \n• a single lifetime identification document for equine animls only \nWhen\
+  \ a single lifetime identification document is not held, document codes C074 and\
+  \ C075 must be declared instead"
+detailsOnTheDeclaration: "Enter the reference number of single lifetime identification\
+  \ document."
+system: "CDS"
+statusCodes:
+- "AG"
+- "AP"
+- "AS"
+- "IE"
+- "IS"
+- "JEorJS"

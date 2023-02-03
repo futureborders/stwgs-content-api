@@ -1,0 +1,14 @@
+code: "N990"
+tradeType: "EXPORT"
+description: "Authorisation to use a Customs procedure with economic impact/\nend-use.\n\
+  This document code is used for declaring the following Customs procedures:\nAS Aircraft\
+  \ Spare Parts Depots\nEU End Use Relief\nPC PCC (Processing under Customs Control\
+  \ relief)\nTA (Temporary Admission)\nSee also:\nC019 for declaring OP \nC601 for\
+  \ declaring IP \nY009 for declaring OT"
+detailsOnTheDeclaration: "Reference: Scheme authorisation reference as defined under\
+  \ Box 44\nCUSTOMS SCHEMES.\nFaxed copy not acceptable.\nNote: No status code (as\
+  \ contained in\ndocument status codes for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:
+- "ES"
+- "US"

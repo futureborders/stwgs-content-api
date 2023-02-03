@@ -1,0 +1,21 @@
+code: "N933"
+tradeType: "EXPORT"
+description: "Cargo declaration (arrival)."
+detailsOnTheDeclaration: "Enter the reference number of the cargo declaration.  Where\
+  \ a sequentially numbered range of cargo declarations cover the goods enter the\
+  \ lowest to the highest reference numbers of the cargo declarations concerned i.e.\
+  \ document code + 0054037-0054047: status code.  Where cargo declarations are not\
+  \ sequentially numbered enter the reference number of each cargo declaration concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

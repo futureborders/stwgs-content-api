@@ -1,0 +1,39 @@
+code: "U165"
+tradeType: "IMPORT"
+description: "Statement of origin made out by a Registered Exporter in the framework\
+  \ of GSP for a total value of originating products consigned exceeding €6000.\n\
+  When declaring U165 an additional document code, C100, must also be declared in\
+  \ Box 44.  The REX number must be entered in the following format consisting of\
+  \ a maximum of 35 alphanumeric characters:\n- the 2-digit alpha code of the REX\
+  \ beneficiary country\n- REX\n- up to 30 characters \nFor example, INREX123456789."
+detailsOnTheDeclaration: "Use one of the following status codes (see Appendix C10\
+  \ for definitions): AE, AF, AG, AP, AS, AT, GE, GP, JE, JP, LE, LP, UA, UE, UP,\
+  \ US, XA, XB \nThese codes are only applicable for countries of origin that are\
+  \ covered by the GSP and within the EU (for the purposes of bi-lateral cumulation\
+  \ and split consignments)\nTo facilitate any software changes that may result from\
+  \ these amendments the status codes currently listed (RE/XO as appropriate) will\
+  \ remain valid on CHIEF against these documents until 1 February 2020."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IE"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "RE"
+- "SP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"
+- "XO"

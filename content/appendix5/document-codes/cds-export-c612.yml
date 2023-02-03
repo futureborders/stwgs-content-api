@@ -1,0 +1,18 @@
+code: "C612"
+tradeType: "EXPORT"
+description: "Internal Union transit declaration, T2F."
+detailsOnTheDeclaration: "The Movement Reference Number (MRN) for the Union transit\
+  \ movement."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

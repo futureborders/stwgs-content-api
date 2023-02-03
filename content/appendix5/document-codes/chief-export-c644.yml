@@ -1,0 +1,15 @@
+code: "C644"
+tradeType: "EXPORT"
+description: "Certificate of inspection. Council Regulation (EEC) No 2092/91 of\n\
+  24 June 1991 on organic production of agricultural products and indications referring\
+  \ thereto on agricultural products and foodstuffs"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

@@ -1,0 +1,27 @@
+code: "C660"
+tradeType: "EXPORT"
+description: "Export notification."
+detailsOnTheDeclaration: "Enter the reference number of the Notification.  Where a\
+  \ sequentially numbered range of Notifications cover the goods enter the lowest\
+  \ to the highest reference numbers of the Notifications concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where Notifications are not sequentially\
+  \ numbered enter the reference number of each Notification concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

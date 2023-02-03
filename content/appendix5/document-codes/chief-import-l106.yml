@@ -1,0 +1,11 @@
+code: "L106"
+tradeType: "IMPORT"
+description: "Licence of conformity of hemp in accordance with article 5 of\nRegulation\
+  \ No 1673/2000 (OJ L 193/16)."
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

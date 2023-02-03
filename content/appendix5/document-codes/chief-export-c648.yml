@@ -1,0 +1,8 @@
+code: "C648"
+tradeType: "EXPORT"
+description: "Boned meat certificate"
+detailsOnTheDeclaration: "Insert status codes AE or AP only."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"

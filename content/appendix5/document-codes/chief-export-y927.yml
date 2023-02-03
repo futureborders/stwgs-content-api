@@ -1,0 +1,24 @@
+code: "Y927"
+tradeType: "EXPORT"
+description: "Code for fish and fish products excluded from the IUU catch certificate\
+  \ requirement.\nCommission Regulation (EC) No 1010/2009  laying down detailed rules\
+  \ for the implementation of Council Regulation (EC) No 1005/2008  establishing a\
+  \ Community system to prevent, deter and eliminate illegal, unreported and unregulated\
+  \ fishing.\nCommission Regulation (EU) No 86/2010 amending Council\nRegulation No\
+  \ 1005/2008  and Commission Regulation (EC) No\n1010/2009."
+detailsOnTheDeclaration: "Use status code XX (see document status codes for harmonised\
+  \ declarations for definitions). This document code is to be used for fish/fish\
+  \ products which are listed in Annex 1 of Regulation 1005/2008  as not requiring\
+  \ a catch certificate.\nNote: document code Y927 is not required for those fish/fish\
+  \ products falling within commodity codes that are completely excluded from the\
+  \ scope of the Regulations. Example: eels caught in marine waters declare code C673;\
+  \ eels caught in fresh water declare code Y927; eels from acquaculture, obtained\
+  \ from fry or larvae declare code Y927. Freshwater crayfish, however, are not subject\
+  \ to IUU control and therefore no document code should be declared.\n(These examples\
+  \ were correct at time of printing and are intended to assist in deciding which\
+  \ document code is declared or if one is necesssary. This advice is not definitive\
+  \ and you should check current regulations in The Official Journal of the EU or\
+  \ with lead department Defra)."
+system: "CHIEF"
+statusCodes:
+- "XX"

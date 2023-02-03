@@ -1,0 +1,7 @@
+code: "C100"
+tradeType: "EXPORT"
+description: "Registered Exporter (REX) Number"
+detailsOnTheDeclaration: "Document status code will be RE."
+system: "CHIEF"
+statusCodes:
+- "RE"

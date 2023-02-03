@@ -1,0 +1,30 @@
+code: "U161"
+tradeType: "IMPORT"
+description: "Invoice declaration or origin declaration made out by any exporter on\
+  \ an invoice or any other commercial document within the framework of GSP for a\
+  \ total value of originating products not exceeding €6000, according to Art. 75\
+  \ of Reg. 2015/2447."
+detailsOnTheDeclaration: "Enter the reference number of the invoice.  Where a sequentially\
+  \ numbered range of invoices cover the goods enter the lowest to the highest reference\
+  \ numbers of the invoices concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where invoices are not sequentially numbered enter the reference number\
+  \ of each invoice concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

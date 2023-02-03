@@ -1,0 +1,9 @@
+code: "N935"
+tradeType: "IMPORT"
+description: "The invoice on the basis of which the customs value of the goods is\
+  \ declared"
+detailsOnTheDeclaration: "Only status codes AC is permitted (see\ndocument status\
+  \ codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AC"

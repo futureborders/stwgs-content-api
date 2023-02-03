@@ -1,0 +1,30 @@
+code: "C687"
+tradeType: "IMPORT"
+description: "Health certificate as mentioned in Annex III of Commission Implementing\
+  \ Decision 2011/884/EU (OJ L 343, 23.12.2011, p. 140). Note: Each consignment of\
+  \ products referred to in Article 1 of the Decision must be accompanied by an analytical\
+  \ report for each lot, and by a health certificate in accordance with the models\
+  \ set out in Annexes III and IV, completed, signed and verified by an authorised\
+  \ representative of the ‘Entry Exit Inspection and Quarantine Bureau of the People’\
+  s Republic of China’ (AQSIQ)."
+detailsOnTheDeclaration: "Enter the reference number for the Certificate as required\
+  \ by Annex III of the Decision.  If using more than one certificate then a separate\
+  \ C687 entry in DE 2/3 is required for each certificate"
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "USXB"

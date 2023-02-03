@@ -1,0 +1,14 @@
+code: "D019"
+tradeType: "EXPORT"
+description: "Authorisation to use a Special Procedure within the context of an anti-dumping/countervailing\
+  \ measure, where Article 211(6) of EU Reg. No. 952/2013 applies (Column 8c, Annex\
+  \ A of Delegated Regulation (EU) 2015/2446).  Note: This doc code is only required\
+  \ when the goods attract a positive rate of ADD or countervailing duty. It should\
+  \ be used in addition to document codes C990 or N990."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the end use\
+  \ authorisation in the format: • 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB • 3 digit code indicating that an Special Procedure authorisation is\
+  \ held (see Appendix 6: DE 3/39: Authorisation Type Codes for a list of codes).\
+  \ • followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

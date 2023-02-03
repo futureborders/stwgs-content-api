@@ -1,0 +1,10 @@
+code: "C526"
+tradeType: "IMPORT"
+description: "AWB - Authorisation for the status of authorised weigher of bananas\
+  \ (Column 7e, Annex A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the AWB status\
+  \ in the following format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB \n• 3 digit code indicating that a weigher of bananas authorisation is\
+  \ held, i.e., AWB \n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

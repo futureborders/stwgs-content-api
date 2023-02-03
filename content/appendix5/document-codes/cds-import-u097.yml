@@ -1,0 +1,31 @@
+code: "U097"
+tradeType: "IMPORT"
+description: "Certificate EUR.1 bearing the endorsement \"Derogation - Decision No\
+  \ 1/2015 of the CARIFORUM-EU Special Committee on Customs Cooperation and Trade\
+  \ Facilitation of 10 March 2015', 'Dérogation - Décision no 1/2015 du Comité spé\
+  cial de coopération douaniére et de facilitation des échanges CARIFORUM-UE due 10\
+  \ mars 2015' or Excepción - Decisión no 1/2015 del Comité Especial CARIFORUM-UE\
+  \ de Coperación Aduanera y Facilitacion del Comercio del 10 de marzo 2015'."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned. Note: Derogation from\
+  \ the rules of origin to take account of the special situation of the Dominican\
+  \ Republic with regard to certain textiles products."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

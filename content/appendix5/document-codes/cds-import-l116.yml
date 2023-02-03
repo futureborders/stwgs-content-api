@@ -1,0 +1,11 @@
+code: "L116"
+tradeType: "IMPORT"
+description: "Kimberley Process Certificate.  COUNCIL REGULATION (EC) No 2368/2002\
+  \ implementing the Kimberley Process certification scheme for the international\
+  \ trade in rough diamonds."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by KIM and the certificate number. If using more than one certificate\
+  \ then a separate L116 entry in DE 2/3 is required for each certificate."
+system: "CDS"
+statusCodes:
+- "AF"

@@ -1,0 +1,9 @@
+code: "C034"
+tradeType: "EXPORT"
+description: "Kimberley Process Diamond Certificate"
+detailsOnTheDeclaration: "Enter the unique certificate number.\nUse the following\
+  \ status code (see\ndocument status codes for harmonised declarations for definitions):\
+  \ GE."
+system: "CHIEF"
+statusCodes:
+- "GE"

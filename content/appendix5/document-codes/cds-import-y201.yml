@@ -1,0 +1,12 @@
+code: "Y201"
+tradeType: "IMPORT"
+description: "Bulgaria - Continental shelf or Exclusive Economic Zone (Regulation\
+  \ (EU) 2019/1131 establishing a customs tool, OJ L 179, p. 12) This document code\
+  \ must be declared on all: \n• import declarations made for goods arriving from\
+  \ the continental shelf and \n• export declarations for goods being sent to the\
+  \ continental shelf."
+detailsOnTheDeclaration: "Provide details of the installation the goods are going\
+  \ to or coming from in the Document Reason (Fourth Component). The Document Identity\
+  \ (Second Component) must be left blank."
+system: "CDS"
+statusCodes:

@@ -1,0 +1,15 @@
+code: "9112"
+tradeType: "IMPORT"
+description: "Drugs Precursor Chemicals Individual Licence."
+detailsOnTheDeclaration: "Enter GBHOA or GBHOB followed by the licence number. If\
+  \ using more than one licence then a separate 9112 entry in\_DE\_2/3 is required\
+  \ for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "IA"
+- "JA"
+- "XX"

@@ -1,0 +1,11 @@
+code: "C514"
+tradeType: "EXPORT"
+description: "EIR - Authorisation for making a customs declaration through an entry\
+  \ in the declarant's records, including for the export procedure (Column 7c, Annex\
+  \ A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for EIDR in the\
+  \ format: \n• 2 digit code identifying the member state of authorisation, e.g.,\
+  \ GB \n• 3 digit code indicating that an EIDR authorisation is held, i.e., EIR •\
+  \ Followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

@@ -1,0 +1,6 @@
+code: "Y029"
+tradeType: "EXPORT"
+description: "Other authorised economic operator (AEO certificate number)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate."
+system: "CDS"
+statusCodes:

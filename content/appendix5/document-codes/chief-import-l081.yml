@@ -1,0 +1,11 @@
+code: "L081"
+tradeType: "IMPORT"
+description: "Certificate of analysis (Reg. 2377/02, L 358) for malting barley from\
+  \ third countries"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

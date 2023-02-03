@@ -1,0 +1,24 @@
+code: "N002"
+tradeType: "IMPORT"
+description: "Certificate of conformity with the European Union marketing standards\
+  \ for fresh fruit and vegetables."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by: \n• Issued in the UK – CHDyyyy. (Imports) and the reference\
+  \ number of the Certificate. Note yyyy. represents the year in which the licence\
+  \ was issued, for example GBCHD2021.  The ‘.’  after the year is part of the licence\
+  \ completion requirements.\n• Issued in the UK – EQC (Exports) and the reference\
+  \ number of the Certificate.\n• Issued in another member state – CEU and the reference\
+  \ number of the Certificate. \n• Issued in an approved third country – CAT and the\
+  \ reference number of the Certificate. \nIf using more than one Certificate then\
+  \ a separate N002 entry in DE 2/3 is required for each Certificate."
+system: "CDS"
+statusCodes:
+- "AG"
+- "AP"
+- "AS"
+- "EA"
+- "JA"
+- "JE"
+- "JS"
+- "XA"
+- "XX"

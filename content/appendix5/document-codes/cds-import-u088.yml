@@ -1,0 +1,27 @@
+code: "U088"
+tradeType: "IMPORT"
+description: "Origin declaration stating European Union origin, in the context of\
+  \ the Canada-European Union Comprehensive Economic and Trade Agreement (CETA)"
+detailsOnTheDeclaration: "Reference must be made to Annex 5-A of the CETA agreement.\
+  \ Enter the reference number of the Origin declaration.  Where a sequentially numbered\
+  \ range of declarations cover the goods enter the lowest to the highest reference\
+  \ numbers of the declarations concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where declarations are not sequentially numbered enter the reference number\
+  \ of each declaration concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

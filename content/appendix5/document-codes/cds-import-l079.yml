@@ -1,0 +1,21 @@
+code: "L079"
+tradeType: "IMPORT"
+description: "Textile products: import licence."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by:\n• Other import licences not covered by another specific\
+  \ document code - AOG and the licence number.\nIf using more than one licence then\
+  \ a separate L079 entry in DE 2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AP"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "GE"
+- "LE"
+- "LP"
+- "UE"
+- "XF"

@@ -1,0 +1,10 @@
+code: "C014"
+tradeType: "IMPORT"
+description: "Wine documentVI1 "
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ the appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

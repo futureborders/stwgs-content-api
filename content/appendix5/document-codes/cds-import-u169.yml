@@ -1,0 +1,30 @@
+code: "U169"
+tradeType: "IMPORT"
+description: "Replacement origin declaration or replacement invoice declaration made\
+  \ out by an approved exporter where the total value of originating product in the\
+  \ initial consignment to be split exceeds the applicable value threshold, according\
+  \ to Art. 69(2a) of Reg. 2015/2447."
+detailsOnTheDeclaration: "Enter the reference number of the invoice.  Where a sequentially\
+  \ numbered range of invoices cover the goods enter the lowest to the highest reference\
+  \ numbers of the invoices concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where invoices are not sequentially numbered enter the reference number\
+  \ of each invoice concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

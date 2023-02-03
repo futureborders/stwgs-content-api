@@ -1,0 +1,22 @@
+code: "N714"
+tradeType: "IMPORT"
+description: "House bill of lading."
+detailsOnTheDeclaration: "Enter the reference number of the house bill of lading.\
+  \  Where a sequentially numbered range of house bill of lading cover the goods enter\
+  \ the lowest to the highest reference numbers of the house bill of lading concerned\
+  \ i.e. document code + 0054037-0054047: status code.  Where house bills of lading\
+  \ are not sequentially numbered enter the reference number of each house bill of\
+  \ lading concerned. "
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

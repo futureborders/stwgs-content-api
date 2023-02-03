@@ -1,0 +1,9 @@
+code: "C645"
+tradeType: "EXPORT"
+description: "Certificate for military equipment."
+detailsOnTheDeclaration: "Enter MoD certificate reference number - in the format “\
+  UK/ .....” entering the relevant certificate number after “UK/” Faxed copy not acceptable."
+system: "CDS"
+statusCodes:
+  - "JP"
+  - "UP"

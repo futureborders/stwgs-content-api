@@ -1,0 +1,12 @@
+code: "D017"
+tradeType: "IMPORT"
+description: "Commercial invoice within  the framework of undertakings and Export\
+  \ Undertaking Certificate issued by CCCME accompanying sales made subject to an\
+  \ Undertaking (Annex III of Regulation\n513/2013  as amended by Regulation 748/2013)\
+  \  of 06/08/2013, exempting from provisional anti-dumping duty, imports of Solar\
+  \ Panels & Key Components, originating in the People’s Republic of China."
+detailsOnTheDeclaration: "Use status codes AC.\nAlso insert the invoice number(s)\
+  \ and serial number of each of the certificate(s)."
+system: "CHIEF"
+statusCodes:
+- "AC"

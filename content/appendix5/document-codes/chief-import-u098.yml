@@ -1,0 +1,40 @@
+code: "U098"
+tradeType: "IMPORT"
+description: "Declaration of Origin \nSeller: [insert full name and address of the\
+  \ seller of the preperations and/or mixtures containing acesulfame potassium]\n\
+  Number and date of commercial invoice:\nPacking No – 1\nProduct description of the\
+  \ preparation and/or mixture containing acesulfame potassium - 2\nQuantity in kg\
+  \ of the acesulfame potassium contained in the product - 3\nCounty of origin of\
+  \ the acesulfame potassium - 4\n \nProducer: [insert full name and address of the\
+  \ final producer of the preparations and/or mixtures containing acesulfame potassium\
+  \ if the producer is not identical to the seller]\nThe producer of these goods hereby\
+  \ declares:\n- That the origin declared in column 4 for the goods described in column\
+  \ 2 of this declaration has been determined by it in accordance with the provisions\
+  \ of Articles 23 and 24 of Council Regulation (EEC) No. 2913/92 (Community Customs\
+  \ Code).\n- Its willingness to cooperate fully with the Commission of the European\
+  \ Union, or the customs authorities of the importing Member States when verifying\
+  \ the accuracy of this declaration."
+detailsOnTheDeclaration: "Use one of the following status codes\nSeller: [insert full\
+  \ name and address of the seller of the (see document status codes for harmonised\
+  \ declarations for definition for definitions): preparations and/or mixtures containing\
+  \ acesulfame potassium] AE,AF,AG,AP,AS,AT,GE,GP,LE,LP, UA,UE,UP,US,XA. \nAlso insert\
+  \ the serial number of the certificate.\nWhere more than one certificate covers\
+  \ the goods insert the highest & lowest serial numbers of the certificates (if sequential).\
+  \ If not sequential insert the serial number of each certificate"
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"

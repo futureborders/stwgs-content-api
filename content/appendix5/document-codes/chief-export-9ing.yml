@@ -1,0 +1,10 @@
+code: "9ING"
+tradeType: "EXPORT"
+description: "RPA Ingredient details [Box C44 on Form C88 (CAP) CIE]\nNote: This is\
+  \ not a separate document but must be included as appropriate on CAP Export declarations\
+  \ for processed goods without a registered recipe."
+detailsOnTheDeclaration: "Document Reference: the Ingredient code;\nQuantity: enter\
+  \ the quantity of the ingredient expressed in Kilograms.\nNote: No status code (as\
+  \ contained in document status codes for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:

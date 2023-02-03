@@ -1,0 +1,32 @@
+code: "D022"
+tradeType: "IMPORT"
+description: "Commercial invoice from the manufacturer to the trader bearing a declaration\
+  \ of the manufacturer as specified in Annex 3 of Reg. 2019/2131. This document code\
+  \ is used where a Manufacturer’s declaration for indirect export sale of ceramic\
+  \ tableware and kitchenware originating in the People’s Republic of China is required.\
+  \ The commercial invoice from the trader to the importer should be declared using\
+  \ document code N935."
+detailsOnTheDeclaration: "Enter the reference number of the invoice from the manufacturer\
+  \ to the trader.  Where a sequentially numbered range of invoices cover the goods\
+  \ enter the lowest to the highest reference numbers of the invoices concerned i.e.\
+  \ document code + 0054037-0054047: status code.  Where invoices are not sequentially\
+  \ numbered enter the reference number of each invoice concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

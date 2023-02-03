@@ -1,0 +1,20 @@
+code: "C085"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Plants and Plant Products (CHED-PP)\
+  \ (as set out in Part 2, Section C of Annex II to Commission Implementing Regulation\
+  \ (EU) 2019/1715 (OJ L 261)) The CHED-PP is to be used for the importation of •\
+  \ Plants, plant products and other objects referred to in points (c), (d), (e) or\
+  \ (f) of Article 47(1) of Regulation (EU) 2017/625; • Specific plants, plant products\
+  \ and other objects of a particular origin or provenance for which a minimum level\
+  \ of official controls is necessary to respond to recognised uniform hazards and\
+  \ risks to plant health as provided for in Implementing Regulation (EU) 2019/66."
+detailsOnTheDeclaration: "Enter GBCHD followed by the reference number of the CHED-PP.\
+  \ A separate C085 entry in DE 2/3 is required for each individual CHED-PP."
+system: "CDS"
+statusCodes:
+- "AE"
+- "JA"
+- "JE"
+- "LE"
+- "LP"
+- "XX"

@@ -1,0 +1,11 @@
+code: "9116"
+tradeType: "IMPORT"
+description: "Rabies import licence."
+detailsOnTheDeclaration: "Enter GBAHC followed by the licence number. If using more\
+  \ than one licence then a separate 9116 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "XX"

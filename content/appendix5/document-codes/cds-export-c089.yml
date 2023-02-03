@@ -1,0 +1,25 @@
+code: "C089"
+tradeType: "EXPORT"
+description: "Commission Implementing Regulation (EU) 2021/442 of 11\_March 2021 making\
+  \ the exportation of certain products subject to the production of an export authorisation.\
+  \ Vaccines against SARS-related coronaviruses (SARS-CoV species) and active substances,\
+  \ including master and working cell banks used for the manufacture of such vaccines\
+  \ See also document code Y981"
+detailsOnTheDeclaration: "Enter the export authorisation reference number. If more\
+  \ than one export authorisation covers the goods enter the lowest to the highest\
+  \ reference numbers.\_ "
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"

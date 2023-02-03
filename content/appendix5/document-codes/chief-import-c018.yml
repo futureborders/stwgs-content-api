@@ -1,0 +1,11 @@
+code: "C018"
+tradeType: "IMPORT"
+description: "Wine documentVI2 extract annotated in compliance with\nCommission Regulation\
+  \ (EC) No 555/08, Article 5O C2)"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

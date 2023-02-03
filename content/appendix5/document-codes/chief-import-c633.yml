@@ -1,0 +1,14 @@
+code: "C633"
+tradeType: "IMPORT"
+description: "Import & Export Processing Certificates (Fruit & Vegetables) Commission\
+  \ Regulation (EC) No 1580/07 as amended by Commission Regulation 1221/2008  from\
+  \ 1 July 2009 relaxes HMI conformity controls on a range of Fruit and Vegetables\
+  \ and also removes the requirement for a processing certificate to be issued by\
+  \ HMI for all Fruit and Vegetables. For statistical and monitoring purposes this\
+  \ document code must still be declared when importing or exporting  products intended\
+  \  for processing"
+detailsOnTheDeclaration: "Use status code XW (see document status codes for harmonised\
+  \ declarations for definition)."
+system: "CHIEF"
+statusCodes:
+- "XW"

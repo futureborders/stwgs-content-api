@@ -1,0 +1,12 @@
+code: "C603"
+tradeType: "IMPORT"
+description: "Information sheet INF1 for inward processing (C&E1143)."
+detailsOnTheDeclaration: "Enter the reference number of the INF1.  Where a sequentially\
+  \ numbered range of INF1 cover the goods enter the lowest to the highest reference\
+  \ numbers of the INF1 concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INF1 are not sequentially numbered enter the reference number of each INF1\
+  \ concerned.\nFaxed copy not acceptable."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"

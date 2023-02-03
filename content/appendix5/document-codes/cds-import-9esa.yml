@@ -1,0 +1,27 @@
+code: "9ESA"
+tradeType: "IMPORT"
+description: "Certificate to evidence that the goods being imported are for use by\
+  \ the European Space Agency (ESA) or Astrium Ltd for use on INTELSAT projects.\n\
+  Note: This code is only for use with\_DE\_1/11 (Additional Procedure Code) 1ES."
+detailsOnTheDeclaration: "Enter the reference number of the\_ESA\_certificate\nOr\n\
+  Enter the reference number of the BAe certificate."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

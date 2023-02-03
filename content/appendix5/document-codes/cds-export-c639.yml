@@ -1,0 +1,12 @@
+code: "C639"
+tradeType: "EXPORT"
+description: "CITES Import or export notification.  Commission Reg 160/2017 on the\
+  \ protection of species of wild fauna and flora by regulating trade therein."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by: Imports:  ICP and the notification number. Exports: ECP and\
+  \ the notification number. If using more than one notification, then a separate\
+  \ C639 entry in DE 2/3 is required for each notification."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "XX"

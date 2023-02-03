@@ -1,0 +1,18 @@
+code: "N355"
+tradeType: "IMPORT"
+description: "Entry summary declaration."
+detailsOnTheDeclaration: "Enter the MRN of the Entry Summary Declaration.  For multiple\
+  \ entry summary declarations enter the MRN of each declaration concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

@@ -1,0 +1,29 @@
+code: "C631"
+tradeType: "IMPORT"
+description: "Formal letter validating the use of non-wooden or recycled materials\
+  \ for paper products, issued by the Ministry of Industry of the FLEGT VPA partner\
+  \ country from which the paper products are originating."
+detailsOnTheDeclaration: "Enter the reference number of the letter.  Where a sequentially\
+  \ numbered range of letterss cover the goods enter the lowest to the highest reference\
+  \ numbers of the letters concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where letters are not sequentially numbered enter the reference number\
+  \ of each letter concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

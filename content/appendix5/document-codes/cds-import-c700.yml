@@ -1,0 +1,12 @@
+code: "C700"
+tradeType: "IMPORT"
+description: "Information sheet INF4"
+detailsOnTheDeclaration: "Enter the reference number of the INF4.  Where a sequentially\
+  \ numbered range of INF4s cover the goods enter the lowest to the highest reference\
+  \ numbers of the INF4s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INF4s are not sequentially numbered enter the reference number of each\
+  \ INF4 concerned. Faxed copy not acceptable."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"

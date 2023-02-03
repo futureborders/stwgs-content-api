@@ -1,0 +1,9 @@
+code: "517C"
+tradeType: "IMPORT"
+description: "Form C517: Import VAT apportionment form. See also\_Appendix 4:\_DE\_\
+  2/2 Additional Information (AI)\_Statement Code VAT04"
+detailsOnTheDeclaration: "Enter the date shown on Form C517 followed by the deferment\
+  \ account being used to pay the Import VAT. "
+system: "CDS"
+statusCodes:
+- "AC"

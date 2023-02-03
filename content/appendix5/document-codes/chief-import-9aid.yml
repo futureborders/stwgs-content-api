@@ -1,0 +1,14 @@
+code: "9AID"
+tradeType: "IMPORT"
+description: "Evidence required by CPC instructions for claiming relief from all charges\
+  \ except VAT."
+detailsOnTheDeclaration: "Use one of the following status codes, (see document status\
+  \ codes for harmonised declarations):\nJP – Evidence  required is available from\
+  \ trader\nUP – Evidence  required is unavailable\nReference details: When details\
+  \ have been included in an AI statement then enter ‘see relevant AI statement’.\
+  \ Where no relevant AI statement applies and therefore reference cannot be made\
+  \ to ‘see relevant AI statement’ a traders own reference should be entered."
+system: "CHIEF"
+statusCodes:
+- "JP"
+- "UP"

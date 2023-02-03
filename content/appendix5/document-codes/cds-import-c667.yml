@@ -1,0 +1,11 @@
+code: "C667"
+tradeType: "IMPORT"
+description: "Laboratory analysis.  COMMISSION REGULATION (EC) No 1375/2007 on imports\
+  \ of residues from the manufacture of starch from maize from the United States of\
+  \ America."
+detailsOnTheDeclaration: "Enter:‘Laboratory analysis required’ in Document Identifier\
+  \ (Second Component) and in. Document Reason (Fourth Component)."
+system: "CDS"
+statusCodes:
+- "XW"
+- "XX"

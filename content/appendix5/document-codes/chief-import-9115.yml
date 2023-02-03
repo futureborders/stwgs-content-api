@@ -1,0 +1,16 @@
+code: "9115"
+tradeType: "IMPORT"
+description: "Quarantine Release Certificate"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AG, AP, AS, JE, JP, JS, XA\
+  \ or XX."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AP"
+- "AS"
+- "JE"
+- "JP"
+- "JS"
+- "XA"
+- "XX"

@@ -1,0 +1,13 @@
+code: "C606"
+tradeType: "IMPORT"
+description: "Information sheet INF5 for inward processing triangular traffic (EX/IM)\
+  \ (C&E1290)."
+detailsOnTheDeclaration: "Enter the reference number of the INF5.  Where a sequentially\
+  \ numbered range of INF5s cover the goods enter the lowest to the highest reference\
+  \ numbers of the INF5s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INF5s are not sequentially numbered enter the reference number of each\
+  \ INF5 concerned. Faxed copy not acceptable."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"

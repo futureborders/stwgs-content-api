@@ -1,0 +1,10 @@
+code: "C649"
+tradeType: "EXPORT"
+description: "Refund certificate"
+detailsOnTheDeclaration: "Insert status codes  IE, IP, IS or XA only."
+system: "CHIEF"
+statusCodes:
+- "IE"
+- "IP"
+- "IS"
+- "XA"

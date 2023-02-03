@@ -1,0 +1,8 @@
+code: "A004"
+tradeType: "IMPORT"
+description: "Certificate of authenticity (TOBACCO)"
+detailsOnTheDeclaration: "Use status code AC (see document status codes for harmonised\
+  \ declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AC"

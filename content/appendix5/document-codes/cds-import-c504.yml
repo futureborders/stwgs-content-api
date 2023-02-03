@@ -1,0 +1,13 @@
+code: "C504"
+tradeType: "IMPORT"
+description: "CVA - Authorisation for the simplification of the determination of amounts\
+  \ being part of the customs value of goods (Column 3, Annex A of Delegated Regulation\
+  \ (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the authorisation\
+  \ for the simplification of the determination of amounts being part of the customs\
+  \ value of goods in the format: \n• 2 digit code identifying the member state of\
+  \ authorisation, e.g., GB \n• 3 digit code indicating that an authorisation for\
+  \ the simplification of the determination of amounts being part of the customs value\
+  \ of goods is held, i.e., CVA \n• followed by the authorisation reference number. "
+system: "CDS"
+statusCodes:

@@ -1,0 +1,11 @@
+code: "C990"
+tradeType: "EXPORT"
+description: "End use authorisation ships and platforms (Column 8c, Annex A of Delegated\
+  \ Regulation (EU) 2015/2446). "
+detailsOnTheDeclaration: "Provide the authorisation decision number for the end use\
+  \ authorisation ships and platforms in the format: \n• 2 digit code identifying\
+  \ the member state of authorisation, e.g., GB \n• 3 digit code indicating that an\
+  \ end use authorisation ships and platforms is held, i.e., EUS (Authorisation code)\
+  \ \n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

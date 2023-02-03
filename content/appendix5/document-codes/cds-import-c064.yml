@@ -1,0 +1,34 @@
+code: "C064"
+tradeType: "IMPORT"
+description: "Authorisation for export or import of goods that could be used for torture\
+  \ (Regulation (EU) No 2019/125) concerning trade in certain goods which could be\
+  \ used for capital punishment, torture or other cruel, inhuman or degrading treatment\
+  \ or punishment. See  also C068, E990, Y904, Y906 and Y907"
+detailsOnTheDeclaration: "Enter the reference number of the authorisation for export\
+  \ or import of goods that could be used for torture.  Where a sequentially numbered\
+  \ range of certificates cover the goods enter the lowest to the highest reference\
+  \ numbers of the certificates concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where certificates are not sequentially numbered enter the reference number\
+  \ of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AP"
+- "AT"
+- "FP"
+- "GE"
+- "GP"
+- "HP"
+- "IA"
+- "IP"
+- "JA"
+- "JP"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "UA"
+- "XW"
+- "XX"

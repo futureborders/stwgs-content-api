@@ -1,0 +1,76 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+  compression:
+    enabled: true
+    mime-types: text/html,text/xml,text/plain,text/css,text/javascript,application/javascript,application/json
+    min-response-size: 1024
+  http2:
+    enabled: true
+  error:
+    whitelabel:
+      enabled: false
+
+spring:
+  application:
+    name: stwgs-content-api
+  main:
+    allow-bean-definition-overriding: true
+  mvc:
+    throw-exception-if-no-handler-found: true
+  resources.add-mappings: false
+  cache:
+    cache-names: statusCodesCache, documentCodesCache
+    caffeine:
+      spec: expireAfterWrite=6000000000s
+
+stwgs:
+  cms.collections.path:
+    5a-document-codes: @project.basedir@/content/appendix5/document-codes
+    5b-status-codes: @project.basedir@/content/appendix5/status-codes
+    document-code-descriptions: @project.basedir@/content/document-code-descriptions
+    measure-type-descriptions: @project.basedir@/content/measure-type-descriptions
+
+management:
+  server:
+    port: 9000
+  endpoints:
+    web:
+      exposure.include: metrics,prometheus,health,info
+      path-mapping:
+        health: probes
+        prometheus: private/metrics
+    base-path: /
+  endpoint:
+    metrics.enabled: true
+    prometheus.enabled: true
+    info.enabled: true
+    health:
+      livenessState:
+        enabled: true
+      readinessState:
+        enabled: true
+      show-details: ALWAYS
+      probes:
+        enabled: true
+      group:
+        ping:
+          include: ping
+        readiness:
+          include: diskSpace
+        liveness:
+          include: diskSpace
+      enabled: true
+  metrics:
+    export:
+      prometheus:
+        enabled: true
+    tags:
+      application: stwgs-content-api
+    distribution:
+      percentiles-histogram:
+        http:
+          server:
+            requests: true
+      use-global-registry: false

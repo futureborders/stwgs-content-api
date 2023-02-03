@@ -1,0 +1,23 @@
+code: "N760"
+tradeType: "IMPORT"
+description: "Multimodal/combined transport document."
+detailsOnTheDeclaration: "Enter the reference number of the Multimodal/combined transport\
+  \ document.  Where a sequentially numbered range of Multimodal/combined transport\
+  \ documents cover the goods enter the lowest to the highest reference numbers of\
+  \ the Multimodal/combined transport documents concerned i.e. document code + 0054037-0054047:\
+  \ status code.  Where Multimodal/combined transport documents are not sequentially\
+  \ numbered enter the reference number of each Multimodal/combined transport document\
+  \ concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

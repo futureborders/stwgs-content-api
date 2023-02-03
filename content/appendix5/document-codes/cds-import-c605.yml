@@ -1,0 +1,12 @@
+code: "C605"
+tradeType: "IMPORT"
+description: "Information sheet INF3 for returned goods (C&E1558)."
+detailsOnTheDeclaration: "Enter the reference number of the INF3.  Where a sequentially\
+  \ numbered range of INF3s cover the goods enter the lowest to the highest reference\
+  \ numbers of the INF3s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INF3s are not sequentially numbered enter the reference number of each\
+  \ INF3 concerned. Faxed copy not acceptable"
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"

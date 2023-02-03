@@ -1,0 +1,20 @@
+code: "Y988"
+tradeType: "IMPORT"
+description: "A proof that the product has been exported from the United States to\
+  \ the Union prior to 10.11.2020 (Reg. 2020/1646)"
+detailsOnTheDeclaration: "Use one of the following status codes as appropriate (see\
+  \ Appendix C10) AC, AE,AF,AG,AP,GE, GP, HP, IA, IE, JA, JE"
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "GE"
+- "GP"
+- "HP"
+- "IA"
+- "IE"
+- "JA"
+- "JE"

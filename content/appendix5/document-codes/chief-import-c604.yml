@@ -1,0 +1,10 @@
+code: "C604"
+tradeType: "IMPORT"
+description: "Information sheet INF2"
+detailsOnTheDeclaration: "Use status code AC if certification is required otherwise\
+  \ use status code AE (see document status codes for harmonised declarations for\
+  \ definitions). Faxed copy not acceptable."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"

@@ -1,0 +1,11 @@
+code: "L085"
+tradeType: "IMPORT"
+description: "Transport document as mentioned  in Reg. (EC) 196/97 (OJ L31) concerning\
+  \ imports into the Community of rice originating in and coming from Egypt"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

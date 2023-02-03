@@ -1,0 +1,23 @@
+code: "C006"
+tradeType: "EXPORT"
+description: "Export permit (Council Decision (EU) 2017/37 (OJ L 11))."
+detailsOnTheDeclaration: "Enter the reference number of the Export permit (Council\
+  \ Decision (EU) 2017/37 (OJ L 11)). If using more than one permit then a separate\
+  \ C006 entry in DE 2/3 is required for each permit."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

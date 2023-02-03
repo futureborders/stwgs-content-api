@@ -1,0 +1,16 @@
+code: "C119"
+tradeType: "IMPORT"
+description: "Authorised Release Certificate — EASA Form 1 (Appendix I to Annex I\
+  \ to Regulation (EU) No 748/2012), or equivalent certificate Formerly referred to\
+  \ as: Airworthiness certificate "
+detailsOnTheDeclaration: "Enter the reference number of the Authorised Release Certificate\
+  \ formerly referred to as; Certificate of airworthiness or equivlant certificate.\
+  \ Where a sequentially numbered range of certificates cover the goods enter the\
+  \ lowest to the highest reference numbers of the certificates concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where certificates are not sequentially\
+  \ numbered enter the reference number of each certificate concerned. Faxed copy\
+  \ not acceptable"
+system: "CDS"
+statusCodes:
+- "AE"
+- "GE"

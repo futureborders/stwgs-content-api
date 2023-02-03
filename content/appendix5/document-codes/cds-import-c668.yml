@@ -1,0 +1,42 @@
+code: "C668"
+tradeType: "IMPORT"
+description: "Certificate issued by the USA wet milling industry in accordance with\
+  \ COMMISSION REGULATION (EC) No 1375/2007 before 7.3.2017 on imports of residues\
+  \ from the manufacture of starch from maize from the United States of America. All\
+  \ goods declared under CN code 2309 90 20  from the USA should be accompanied by\
+  \ a certificate issued by the Federal Grain Inspection Service (FGIS) and a certificate\
+  \ issued by the USA wet milling industry as set out in Annex I of the Regulation.\
+  \ Please also see document code C666"
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned. Where the relevant certificates\
+  \ are not held goods will be subject to laboratory analysis."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XW"
+- "XX"

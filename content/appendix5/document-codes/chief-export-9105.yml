@@ -1,0 +1,28 @@
+code: "9105"
+tradeType: "EXPORT"
+description: "Standard Individual Export Licence: radioactive sources \nOpen Individual\
+  \ Export Licence: radioactive sources \nOpen General Export Licence: radioactive\
+  \ sources"
+detailsOnTheDeclaration: "With the exception of AG, AS, EL, IE, IS, JE, JS, UE, UP,\
+  \ US, XB, XF, XU, enter appropriate status code listed in document status codes\
+  \ for harmonised declarations.\nFor supplementary declarations use EA, IA, JA or\
+  \ UA as appropriate (see document status codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AS"
+- "EA"
+- "EL"
+- "IA"
+- "IE"
+- "IS"
+- "JA"
+- "JE"
+- "JS"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"
+- "XF"
+- "XU"

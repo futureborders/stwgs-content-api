@@ -1,0 +1,10 @@
+code: "C521"
+tradeType: "EXPORT"
+description: "ACR - Authorisation for the status of authorised consignor for Union\
+  \ transit (Column 9b, Annex A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the ACR status\
+  \ in the following format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB\n• 3 digit code indicating that an authorised consignor for Union transit\
+  \ authorisation is held, i.e., ACR\n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

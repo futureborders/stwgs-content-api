@@ -1,0 +1,28 @@
+code: "U111"
+tradeType: "IMPORT"
+description: "Preference based on statement on origin for multiple shipments of identical\
+  \ products "
+detailsOnTheDeclaration: "This codes must be declared with one of these status codes\
+  \ AE, AF, AG, AP, AS, AT, GE, GP, HP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB and\
+  \ the commercial document reference number."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "HP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

@@ -1,0 +1,16 @@
+code: "C040"
+tradeType: "EXPORT"
+description: "ICCAT bigeye tuna statistical document or IOTC bigeye tuna statistical\
+  \ document. COUNCIL REGULATION (EC) No 1984/2003 establishing a system of statistical\
+  \ registration in the Union concerning bluefin tuna and swordfish and bigeye tuna."
+detailsOnTheDeclaration: "Enter the reference number of the ICCAT bigeye tuna statistical\
+  \ document. Where a sequentially numbered range of documents cover the goods enter\
+  \ the lowest to the highest reference numbers of the documents concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where documents are not sequentially numbered\
+  \ enter the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+  - "AF"
+  - "AT"
+  - "GE"
+  - "XX"

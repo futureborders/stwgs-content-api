@@ -1,0 +1,13 @@
+code: "C676"
+tradeType: "EXPORT"
+description: "Import/ Export authorisation issued by the competent authorities of\
+  \ the Member States.  Decision 1764/15. This code is to be used for all national\
+  \ facilitations and authorisations listed in Appendix 6, such as codes: CSE, DEP,\
+  \ EPSS, EXW, EXWH, FAS, GGA, LVBI, SIVA, UKCS, as instructed by the DE 1/10 Procedure\
+  \ code completion instructions"
+detailsOnTheDeclaration: "Provide the authorisation decision number for the xxx (e.g.,\
+  \ type of authorisation) authorisation in the format:\n• 2 digit code identifying\
+  \ the member state of authorisation, e.g., GB \n• 3/4 digit code indicating that\
+  \ a national authorisation is held \n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

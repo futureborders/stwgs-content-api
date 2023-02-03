@@ -1,0 +1,22 @@
+code: "N830"
+tradeType: "EXPORT"
+description: "Goods declaration for exportation."
+detailsOnTheDeclaration: "Enter the reference number of the Goods declaration for\
+  \ exportation.  Where a sequentially numbered range of Goods declaration for exportation\
+  \ cover the goods enter the lowest to the highest reference numbers of the Goods\
+  \ declaration for exportations concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where Goods declaration for exportations are not sequentially numbered\
+  \ enter the reference number of each Goods declaration for exportation concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

@@ -1,0 +1,27 @@
+code: "C065"
+tradeType: "IMPORT"
+description: "Permit for invasive alien species in accordance with Art. 8 of Regulation\
+  \ (EU) 1143/2014 on the prevention and management of the introduction and spread\
+  \ of invasive alien species."
+detailsOnTheDeclaration: "Enter the reference number of the permit for invasive alien\
+  \ species. If using more than one permit then a separate C065 entry in DE 2/3 is\
+  \ required for each permit."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

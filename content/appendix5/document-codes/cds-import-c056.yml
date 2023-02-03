@@ -1,0 +1,12 @@
+code: "C056"
+tradeType: "IMPORT"
+description: "Certificate concerning pelts of certain wild animal species and of goods\
+  \ incorporating such pelts subject to Council Regulation (EEC) No 3254/91."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by AHC and the certificate number.  If using more than one certificate,\
+  \ then a separate C056 entry in DE 2/3 is required for each certificate."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "XX"

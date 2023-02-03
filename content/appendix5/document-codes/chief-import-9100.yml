@@ -1,0 +1,22 @@
+code: "9100"
+tradeType: "IMPORT"
+description: "Firearms: Open Individual Licence or \nFirearms: Specific Individual\
+  \ Licence \nNuclear Materials: Open Individual Licence\nNuclear Materials: Specific\
+  \ Individual Licence"
+detailsOnTheDeclaration: "With the exception of FP, HP, IA, IE, IP, IS, SP, TP, XB,\
+  \ XF, XU, XW, enter appropriate status code listed in document status codes for\
+  \ harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XU"
+- "XW"

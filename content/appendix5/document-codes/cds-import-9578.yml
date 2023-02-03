@@ -1,0 +1,9 @@
+code: "9578"
+tradeType: "IMPORT"
+description: "Form C578 – undertaking to produce Form D.V. 1/invoice/CAP\_Licence/Preference\
+  \ certificate within 14 days."
+detailsOnTheDeclaration: "Complete statement ‘Form C578 completed’ in document identifier\
+  \ (second component) Document reason (fourth component) must be left blank."
+system: "CDS"
+statusCodes:
+- "AE"

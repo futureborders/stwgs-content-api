@@ -1,0 +1,21 @@
+code: "N740"
+tradeType: "EXPORT"
+description: "Air waybill (T1)"
+detailsOnTheDeclaration: "Enter the reference number of the Air waybill.  Where a\
+  \ sequentially numbered range of Air waybills cover the goods enter the lowest to\
+  \ the highest reference numbers of the Air waybills concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where Air waybills are not sequentially numbered\
+  \ enter the reference number of each Air waybill concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

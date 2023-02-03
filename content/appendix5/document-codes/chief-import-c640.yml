@@ -1,0 +1,15 @@
+code: "C640"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Animals (CHED-A) Part 2, Section A\
+  \ of Annex II to Commission Implementing Regulation (EU) 2019/1715 (OJ L 261)) introducing\
+  \ a document for the declaration of and veterinary checks on animals from third\
+  \ countries entering the community"
+detailsOnTheDeclaration: "AE, JA, JE, LE, LP or XX"
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "JA"
+- "JE"
+- "LE"
+- "LP"
+- "XX"

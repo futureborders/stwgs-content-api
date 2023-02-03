@@ -1,0 +1,10 @@
+code: "L001"
+tradeType: "IMPORT"
+description: "All CAP Import licences other than those specifically identified by\
+  \ other document codes"
+detailsOnTheDeclaration: "With the exception of FP, HP and the U series, enter appropriate\
+  \ status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"

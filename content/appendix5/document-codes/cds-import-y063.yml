@@ -1,0 +1,10 @@
+code: "Y063"
+tradeType: "IMPORT"
+description: "Goods not consigned from China.  (Commission Implementing Decision 2011/884/EU\
+  \ (OJ L 343, 23.12.2011, p. 140).)."
+detailsOnTheDeclaration: "Complete statement \"Not consigned from China\". Use of\
+  \ this code constitutes a legal declaration that the goods are not consigned from\
+  \ China. Sufficient evidence must be held to demonstrate eligibility for this exemption\
+  \ which must be produced on demand."
+system: "CDS"
+statusCodes:

@@ -1,0 +1,16 @@
+documentCode: C052
+importOverlay: |
+  The import of these goods is controlled under the UK Sanctions Regulations. Please consult the UK Sanctions 
+  Regulations to determine whether your items are controlled. There are certain circumstances under which sanctioned 
+  goods can be imported under an exception or an authority of a licence. Refer to the [Statutory Guidance published for
+  individual sanctions regimes](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act)
+  for up to date information on any exemptions or any licensing grounds that may apply.
+
+exportOverlay: |
+  The export of these goods is controlled under the UK Sanctions Regulations. Please consult the UK Sanctions 
+  Regulations to determine whether your items are controlled. There are certain circumstances under which sanctioned 
+  goods can be exported under an exception or an authority of a licence. Refer to the [Statutory Guidance published for
+  individual sanctions regimes](https://www.gov.uk/government/collections/uk-sanctions-regimes-under-the-sanctions-act)
+  for up to date information on any exemptions or any licensing grounds that may apply.
+
+locale: EN

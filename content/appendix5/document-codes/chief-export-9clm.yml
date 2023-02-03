@@ -1,0 +1,9 @@
+code: "9CLM"
+tradeType: "EXPORT"
+description: "RPA Claim Reference and Claim Type [Box C9 on Form C88 (CAP)] Note:\
+  \ This is not a separate document but must be included on\nall CAP Export declarations."
+detailsOnTheDeclaration: "Document Reference: the Claim\nReference;\nPart: the Claim\
+  \ Type.\nNote: No status code (as contained in\ndocument status codes for harmonised\
+  \ declarations) is required."
+system: "CHIEF"
+statusCodes:

@@ -1,0 +1,4 @@
+documentCode: C080
+overlay: |
+  a simplified VI1 document where the quantity or price per unit declared is more than 100.00l 
+locale: EN

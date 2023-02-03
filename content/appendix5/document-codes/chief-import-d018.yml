@@ -1,0 +1,10 @@
+code: "D018"
+tradeType: "IMPORT"
+description: "Invoice from exporting  procedures subject to an undertaking, for transactions,\
+  \ that are not exempted from anti-dumping duties on solar Panels & Key Components\
+  \ (Annex IV of Regulation 513/2013  as amended by Regulation 748/2013)."
+detailsOnTheDeclaration: "Use status codes AC.\nAlso insert the invoice number(s)\
+  \ and serial number of each of the certificate(s)."
+system: "CHIEF"
+statusCodes:
+- "AC"

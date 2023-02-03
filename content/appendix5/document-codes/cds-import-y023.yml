@@ -1,0 +1,6 @@
+code: "Y023"
+tradeType: "IMPORT"
+description: "Importer/Consignee (AEO certificate number)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate."
+system: "CDS"
+statusCodes:

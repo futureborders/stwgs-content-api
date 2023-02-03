@@ -1,0 +1,13 @@
+code: "C601"
+tradeType: "EXPORT"
+description: "Authorisation to use inward processing (i.e. Customs procedure\n‘IP’\
+  ).\nSee also:\nN990 for declaring AS, EU, PC or TA\nC019 for declaring OP\nY009\
+  \ for declaring OT"
+detailsOnTheDeclaration: "Reference: IP authorisation reference as defined under Box\
+  \ 44 CUSTOMS SCHEMES.\nFaxed copy not acceptable.\nNote: No status code (as contained\
+  \ in document status codes for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:
+- "ES"
+- "IP"
+- "US"

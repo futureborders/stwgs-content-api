@@ -1,0 +1,53 @@
+code: "C050"
+tradeType: "EXPORT"
+description: "Certificate as mentioned in the Regulation (EU) No. 1308/2013 (OJ L347).\
+  \ Certificate of quality for products of the hops sector, prohibiting the marketing\
+  \ of those products without a certificate as mentioned in Regulation (EU) No. 1308/2013\
+  \ (OJ L347).  Certificates may be issued only for products having the minimum quality\
+  \ characteristics appropriate to a specific stage of marketing.  In the case of\
+  \ hop powder, hop powder with higher lupulin content, extract of hops and mixed\
+  \ hop products, the certificate may only be issued if the alpha acid content of\
+  \ these products is not lower than that of the hops from which they have been prepared.\
+  \ 3. The certificates shall at least indicate:  (a) the place(s) of production of\
+  \ the hops; (b) the year(s) of harvesting; and (c) the variety or varieties. 4.\
+  \ Products of the hops sector may be marketed or exported only if covered by a certificate\
+  \ issued in accordance with Article 77. Certificate as mentioned in the Regulation\
+  \ (EU) No. 1308/2013 (OJ L347).\nCertificate of quality for products of the hops\
+  \ sector, prohibiting the marketing of those products without a certificate as mentioned\
+  \ in Regulation (EU) No. 1308/2013 (OJ L347).\nCertificates may be issued only for\
+  \ products having the minimum quality characteristics appropriate to a specific\
+  \ stage of marketing.  In the case of hop powder, hop powder with higher lupulin\
+  \ content, extract of hops and mixed hop products, the certificate may only be issued\
+  \ if the alpha acid content of these products is not lower than that of the hops\
+  \ from which they have been prepared.\n3. The certificates shall at least indicate:\n\
+  (a) the place(s) of production of the hops; \n(b) the year(s) of harvesting; and\n\
+  (c) the variety or varieties.\n4. Products of the hops sector may be marketed or\
+  \ exported only if covered by a certificate issued in accordance with Article 77.\n\
+  In the case of imported products of the hops sector, the attestation provided for\
+  \ in Article 190(2) shall be deemed to be equivalent to that certificate (see C001)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate of quality\
+  \ for products of the hops sector, prohibiting the marketing of those products without\
+  \ a certificate as mentioned in Regulation (EU) No. 1308/2013 (OJ L347).  Where\
+  \ a sequentially numbered range of certificates cover the goods enter the lowest\
+  \ to the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

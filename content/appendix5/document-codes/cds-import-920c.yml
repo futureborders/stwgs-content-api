@@ -1,0 +1,27 @@
+code: "920C"
+tradeType: "IMPORT"
+description: "Declaration for imported decorations and awards. Relief from import\
+  \ Duty and VAT.\nNote: Form C920 may be required to qualify for the relief."
+detailsOnTheDeclaration: "Enter the applicant’s reference number as completed on Form\
+  \ C920.\nWhere C920 is not required, enter an alternative reference number from\
+  \ the evidence provided to support the importation of the award."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

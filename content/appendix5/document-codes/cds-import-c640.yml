@@ -1,0 +1,18 @@
+code: "C640"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Animals (CHED-A) (as set out in Part\
+  \ 2, Section A of Annex II to Commission Implementing Regulation (EU) 2019/1715\
+  \ (OJ L 261)), used for animals referred to in point (a) of Article 47(1) of Regulation\
+  \ (EU) 2017/625)"
+detailsOnTheDeclaration: "Enter GBCHDyyyy. followed by the reference number of the\
+  \ CHED-A. A separate C640 entry in DE 2/3 is required for each individual CHED-A.\n\
+  Note yyyy. represents the year in which the licence was issued, for example GBCHD2021.\n\
+  The ‘.’  after the year is part of the licence completion requirements"
+system: "CDS"
+statusCodes:
+- "AE"
+- "JA"
+- "JE"
+- "LE"
+- "LP"
+- "XX"

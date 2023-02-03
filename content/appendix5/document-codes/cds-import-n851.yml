@@ -1,0 +1,21 @@
+code: "N851"
+tradeType: "IMPORT"
+description: "Phytosanitary certificate."
+detailsOnTheDeclaration: "Enter country code for the country of issue (GB for the\
+  \ UK) followed by CHDyyyy. and the reference number of the Certificate.  If using\
+  \ more than one certificate then a separate N851 entry in DE 2/3 is required for\
+  \ each certificate.\nNote yyyy. represents the year in which the licence was issued,\
+  \ for example GBCHD2021.\nThe ‘.’  after the year is part of the licence completion\
+  \ requirements"
+system: "CDS"
+statusCodes:
+- "AG"
+- "AP"
+- "AS"
+- "EE"
+- "ES"
+- "IE"
+- "IS"
+- "JE"
+- "JS"
+- "XX"

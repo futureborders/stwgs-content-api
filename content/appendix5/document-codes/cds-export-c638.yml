@@ -1,0 +1,15 @@
+code: "C638"
+tradeType: "EXPORT"
+description: "CITES Import or Export permit.  Commission Reg 160/2017 on the protection\
+  \ of species of wild fauna and flora by regulating trade therein. Please note that\
+  \ this code is not currently mandated for CITES measures. See documents codes C400\
+  \ and Y900."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by: Imports:  ICP and the permit number. Exports: ECP and the\
+  \ permit number. If using more than one permit, then a separate C638 entry in DE\
+  \ 2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AG"
+  - "AP"

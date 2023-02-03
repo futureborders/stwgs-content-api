@@ -1,0 +1,13 @@
+---
+code: 9AID
+tradeType: IMPORT
+description: Evidence required by Procedure or Additional Procedure Code (DE 1/10
+  and DE 1/11) instructions for claiming relief from all charges except VAT.
+detailsOnTheDeclaration: |-
+  Reference details: enter the reference number of the document supporting the claim to relief.
+  – JP – Evidence required is available from trader
+  – UP – Evidence required is unavailable.
+system: CDS
+statusCodes:
+  - JP
+  - UP

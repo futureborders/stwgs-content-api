@@ -1,0 +1,17 @@
+code: "1246"
+tradeType: "IMPORT"
+description: "Form C&E1246 (Returned Goods Relief duplicate lists) (Notice 236)"
+detailsOnTheDeclaration: "Enter the MRN of the export declaration, C21e or reference\
+  \ number of the alternative evidence the RGR claim relates to."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "JA"
+- "JE"
+- "JP\_"

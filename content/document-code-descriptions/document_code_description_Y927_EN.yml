@@ -1,0 +1,9 @@
+documentCode: Y927
+importOverlay: |
+  You cannot import fishery products caught by fishing vessels flying the flag of these countries:
+  
+  - Kingdom of Cambodia
+  - Saint Vincent and the Grenadines 
+  - Union of Comoros
+
+locale: EN

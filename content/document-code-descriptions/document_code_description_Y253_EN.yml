@@ -1,0 +1,6 @@
+documentCode: Y253
+importOverlay: |
+  You are exempt from providing a Phytosanitary Certificate for imports of passion fruit.
+exportOverlay: |
+  You are exempt from providing a Phytosanitary Certificate for exports of passion fruit.
+locale: EN

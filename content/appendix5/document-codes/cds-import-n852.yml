@@ -1,0 +1,11 @@
+code: "N852"
+tradeType: "IMPORT"
+description: "Analysis and health certificate. Please also see C678"
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by CED and the reference number of the CED.  If using more than\
+  \ one CED then a separate N852 entry in DE 2/3 is required for each CED."
+system: "CDS"
+statusCodes:
+- "AG"
+- "XW"
+- "XX"

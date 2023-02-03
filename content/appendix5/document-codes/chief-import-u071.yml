@@ -1,0 +1,32 @@
+code: "U071"
+tradeType: "IMPORT"
+description: "Proof of origin containing the following statement: “Product originating\
+  \ in accordance with Appendix 2A of Annex II (Concerning the Definition  of the\
+  \ Concept of “Originating Products” and Methods of Administrative Cooperation)”\
+  \ (OJ L\n346, 15.12.2012)"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB. Also insert the serial number of the\
+  \ certificate. Where more than one certificate covers the goods insert the highest\
+  \ & lowest serial numbers of the certificates (if sequential). If not sequential\
+  \ insert the serial number of each certificate."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

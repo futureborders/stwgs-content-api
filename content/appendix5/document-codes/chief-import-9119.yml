@@ -1,0 +1,11 @@
+code: "9119"
+tradeType: "IMPORT"
+description: "Letter headed licence for importation  of hares"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "XX"

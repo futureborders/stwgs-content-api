@@ -1,0 +1,30 @@
+code: "C013"
+tradeType: "IMPORT"
+description: "Certificate IMA 1.  Milk and milk products: The New Zealand Food Safety\
+  \ Authority controls the quota through the issue of IMA1 certificates and these\
+  \ must be presented to the RPA to obtain an import licence.  See Notice 780 (CAP)\
+  \ for details."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate IMA 1.  Where\
+  \ a sequentially numbered range of certificates cover the goods enter the lowest\
+  \ to the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

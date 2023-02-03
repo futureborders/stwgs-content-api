@@ -1,0 +1,21 @@
+code: "C689"
+tradeType: "EXPORT"
+description: "Export authorisation issued according to Regulation EC No 147/2003 for\
+  \ the export of certain goods to Somalia. Please refer to Gov.UK for details of\
+  \ current sanction and exceptions  See also document code Y918."
+detailsOnTheDeclaration: "Enter the licence reference number authorising the export\
+  \ of the goods. If using more than one licence then a separate C690 entry in DE\
+  \ 2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AG"
+  - "JA"
+  - "JE"
+  - "JP"
+  - "JS"
+  - "LE"
+  - "UA"
+  - "UE"
+  - "US"
+  - "XW"

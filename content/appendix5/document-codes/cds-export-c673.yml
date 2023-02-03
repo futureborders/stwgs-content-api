@@ -1,0 +1,14 @@
+code: "C673"
+tradeType: "EXPORT"
+description: "Catch certificate.  COUNCIL REGULATION (EC) No 1005/2008 establishing\
+  \ a Union system to prevent, deter and eliminate illegal, unreported and unregulated\
+  \ fishing. See also Document code Y927"
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by IUU and the certificate number. If using more than one certificate\
+  \ then a separate C673 entry in DE 2/3 is required for each certificate."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AG"
+  - "IE"
+  - "IP"

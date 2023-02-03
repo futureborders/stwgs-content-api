@@ -1,0 +1,14 @@
+code: "C652"
+tradeType: "EXPORT"
+description: "Accompanying documents for the carriage of wine products\nCommission\
+  \ Regulation (EC) No 884/2001  of 24 April 2001"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

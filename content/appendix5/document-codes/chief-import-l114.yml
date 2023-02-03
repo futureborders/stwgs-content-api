@@ -1,0 +1,21 @@
+code: "L114"
+tradeType: "IMPORT"
+description: "Import authorisation.  Commission Decision No 1469/2002/ECSC of 8 July\
+  \ 2002 on administering certain restrictions on imports of certain steel products\
+  \ from Kazakhstan"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, EA, EE, EL, EP, ES,\
+  \ UE, XW\nGBAOG followed by licence number. If there is sequential range of reference\
+  \ numbers then enter the first and last numbered documents within the range. If\
+  \ there are several random reference numbers then ‘various’ is permitted."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "UE"
+- "XW"

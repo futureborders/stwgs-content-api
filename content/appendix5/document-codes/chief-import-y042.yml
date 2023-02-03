@@ -1,0 +1,12 @@
+code: "Y042"
+tradeType: "IMPORT"
+description: "UK established and VAT registered agent appointed to act as importer."
+detailsOnTheDeclaration: "VAT identification number of the UK VAT registered/established\
+  \ agent appointed to act as importer by a trader who is not established and VAT\
+  \ registered in the UK. The appointed agent/importer will be treated as importing\
+  \ and supplying the goods as the principal (see Public Notice 702, section 2.7 for\
+  \ the UK agent tax responsibilities); it cannot be used by a non VAT registered\
+  \ person."
+system: "CHIEF"
+statusCodes:
+- "AT"

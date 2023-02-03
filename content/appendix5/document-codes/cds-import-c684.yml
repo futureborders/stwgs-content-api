@@ -1,0 +1,43 @@
+code: "C684"
+tradeType: "IMPORT"
+description: "Certificate in accordance with the model set out in the Annex of Regulation\
+  \ (EU) No 2015/949 (OJ L 156, p.2) approving the pre-export checks carried out on\
+  \ certain food by certain third countries as regards the presence of certain mycotoxins.\
+  \  Certificate in accordance with the model set out in the Annex of Regulation (EU)\
+  \ No 2015/949 (OJ L 156, p.2) approving the pre-export checks carried out on certain\
+  \ food by certain third countries as regards the presence of certain mycotoxins.\n\
+  Pre-export checks carried out prior to export to the Union by the Canadian Grain\
+  \ Commission, as competent authority, regarding ochratoxin A in wheat and wheat\
+  \ flour listed in Annex I and produced on the territory of Canada are approved.\n\
+  The following pre-export checks carried out prior to export to the Union by the\
+  \ United States Department of Agriculture (USDA), as competent authority, are approved:\n\
+  Commission Implementing Regulation (EU) 2017/1269 of 13 July 2017 amending Implementing\
+  \ Regulation (EU) 2015/949 as regards withdrawal of groundnuts (peanuts) from the\
+  \ United States of America from the list of approved pre-export checks as regards\
+  \ aflatoxins \n(b) pre-export checks regarding aflatoxins in almonds listed in Annex\
+  \ I and produced on the territory of the United States\nSee also document code C671\
+  \ and C685"
+detailsOnTheDeclaration: "Enter the certificate reference number. Where a sequentially\
+  \ numbered range of certificates cover the goods enter the lowest to the highest\
+  \ reference numbers of the certificates concerned i.e. document code + 0054037-0054047:\
+  \ status code.  Where certificates are not sequentially numbered enter the reference\
+  \ number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

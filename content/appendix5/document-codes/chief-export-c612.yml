@@ -1,0 +1,20 @@
+code: "C612"
+tradeType: "EXPORT"
+description: "(T2F) Internal Community transit declaration for Special\nTerritories"
+detailsOnTheDeclaration: "The Movement Reference Number (MRN) for the Common/Community\
+  \ transit movement.\nUse one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, AG, AS, AT, GE,\
+  \ GP, JA, JE, JS."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

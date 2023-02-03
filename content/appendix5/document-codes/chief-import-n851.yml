@@ -1,0 +1,19 @@
+code: "N851"
+tradeType: "IMPORT"
+description: "Phytosanitary certificate. Council Directive 2000/29/EC of 8 May\n2000\
+  \ on protective measures against the introduction  into the Community of organisms\
+  \ harmful to plants or plant products and against their spread within the Community"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AG, AS, EE, ES, IE, IS, JE,\
+  \ JS or XX."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AS"
+- "EE"
+- "ES"
+- "IE"
+- "IS"
+- "JE"
+- "JS"
+- "XX"

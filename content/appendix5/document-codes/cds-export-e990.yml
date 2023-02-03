@@ -1,0 +1,33 @@
+code: "E990"
+tradeType: "EXPORT"
+description: "Export authorisation for goods that could be used for the purpose of\
+  \ torture or other cruel, inhuman or degrading treatment or punishment.  COMMISSION\
+  \ IMPLEMENTING REGULATION (EU) No 775/2014 amending Council Regulation (EC) No 1236/2005\
+  \ concerning trade in certain goods which could be used for capital punishment,\
+  \ torture or other cruel, inhuman or degrading treatment or punishment. See also\
+  \ C064, C068, Y904, Y906, Y907 and 9106"
+detailsOnTheDeclaration: "Enter the reference number of the authorisation document.\
+  \  If using more than one document then a separate E990 entry in DE 2/3 is required\
+  \ for each document."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AP"
+  - "AT"
+  - "FP"
+  - "GE"
+  - "GP"
+  - "HP"
+  - "IA"
+  - "IP"
+  - "JA"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "SP"
+  - "TP"
+  - "UA"
+  - "XW"
+  - "XX"

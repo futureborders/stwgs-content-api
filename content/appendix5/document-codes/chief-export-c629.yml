@@ -1,0 +1,19 @@
+code: "C629"
+tradeType: "EXPORT"
+description: "Pedigree and zootechnical certificate / Health certificate of the type\
+  \ required for pure-bred breeding animals of the bovine species. Commission Regulation\
+  \ (EEC) No 2342/92 of 7 August\n1992 on imports of pure-bred breeding animals of\
+  \ the bovine species from the third countries and the granting of export refunds\
+  \ thereon and repealing Regulation (EEC) No 1544/79"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE.\n\
+  Use appropriate status code. See document status codes for harmonised declarations\
+  \ for definitions."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

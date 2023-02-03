@@ -1,0 +1,15 @@
+code: "C669"
+tradeType: "EXPORT"
+description: "Notification document as mentioned in Regulation (EC) No 1013/2006 (OJ\
+  \ L 190) - Article 4 and Annex IA on shipments of waste. See also document codes\
+  \ C670, C672, Y915, Y923 and 9005"
+detailsOnTheDeclaration: "Enter the reference number of the Notification document.\
+  \  Where a sequentially numbered range of documents cover the goods enter the lowest\
+  \ to the highest reference numbers of the documents concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where documents are not sequentially numbered\
+  \ enter the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AF"
+  - "AT"

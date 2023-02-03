@@ -1,0 +1,30 @@
+code: "U090"
+tradeType: "EXPORT"
+description: "Movement certificate EUR. 1 - Movement certificate EUR-MED (under the\
+  \ condition that in box 7 the remark \"no cumulation applied\" is marked with a\
+  \ cross) stating European Union origin, in the context of the agreement between\
+  \ the European Union and the Swiss Confederation (codification/key: U090)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

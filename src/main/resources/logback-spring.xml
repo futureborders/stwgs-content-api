@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration>
+
+<configuration scan="true">
+  <include resource="org/springframework/boot/logging/logback/base.xml"/>
+  <appender name="LOGSTASH" class="ch.qos.logback.core.ConsoleAppender">
+    <encoder class="net.logstash.logback.encoder.LogstashEncoder"/>
+  </appender>
+
+  <logger name="jdk.event.security" level="WARN"/>
+  <logger name="javax.activation" level="WARN"/>
+  <logger name="javax.mail" level="WARN"/>
+  <logger name="javax.management.remote" level="WARN"/>
+  <logger name="javax.xml.bind" level="WARN"/>
+  <logger name="ch.qos.logback" level="WARN"/>
+  <logger name="com.ryantenney" level="WARN"/>
+  <logger name="com.sun" level="WARN"/>
+  <logger name="com.zaxxer" level="WARN"/>
+  <logger name="io.netty" level="WARN"/>
+  <logger name="org.apache" level="WARN"/>
+  <logger name="org.apache.catalina.startup.DigesterFactory" level="OFF"/>
+  <logger name="org.bson" level="WARN"/>
+  <logger name="org.hibernate.validator" level="WARN"/>
+  <logger name="org.springframework" level="WARN"/>
+  <logger name="org.springframework.web" level="WARN"/>
+  <logger name="org.springframework.cache" level="WARN"/>
+  <logger name="org.synchronoss" level="WARN"/>
+  <logger name="org.xnio" level="WARN"/>
+  <logger name="reactor" level="WARN"/>
+  <logger name="sun.rmi" level="WARN"/>
+  <logger name="sun.net.www" level="INFO"/>
+  <logger name="sun.rmi.transport" level="WARN"/>
+
+  <shutdownHook class="ch.qos.logback.core.hook.DelayingShutdownHook"/>
+
+  <contextListener class="ch.qos.logback.classic.jul.LevelChangePropagator">
+    <resetJUL>true</resetJUL>
+  </contextListener>
+
+  <springProfile name="local">
+    <logger name="uk.gov.cabinetoffice" additivity="false" level="DEBUG">
+      <appender-ref ref="CONSOLE"/>
+    </logger>
+
+    <root level="INFO">
+      <appender-ref ref="CONSOLE"/>
+    </root>
+  </springProfile>
+
+  <springProfile name="!local">
+    <logger name="uk.gov.cabinetoffice" additivity="false" level="INFO">
+      <appender-ref ref="LOGSTASH"/>
+    </logger>
+
+    <root level="INFO">
+      <appender-ref ref="LOGSTASH"/>
+    </root>
+  </springProfile>
+
+</configuration>

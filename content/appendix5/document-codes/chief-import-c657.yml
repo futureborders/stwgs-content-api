@@ -1,0 +1,14 @@
+code: "C657"
+tradeType: "IMPORT"
+description: "Sanitary certificate for the prevention, control and eradication of\
+  \ certain transmissible spongiform encephalopathies"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

@@ -1,0 +1,21 @@
+code: "N951"
+tradeType: "IMPORT"
+description: "TIF form."
+detailsOnTheDeclaration: "Enter the reference number of the form.  Where a sequentially\
+  \ numbered range of forms cover the goods enter the lowest to the highest reference\
+  \ numbers of the forms concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where forms are not sequentially numbered enter the reference number of each\
+  \ form concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

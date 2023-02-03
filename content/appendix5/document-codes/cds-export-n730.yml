@@ -1,0 +1,22 @@
+code: "N730"
+tradeType: "EXPORT"
+description: "Road consignment note."
+detailsOnTheDeclaration: "Enter the reference number of the Road consignment note.\
+  \  Where a sequentially numbered range of Road consignment notes cover the goods\
+  \ enter the lowest to the highest reference numbers of the Road consignment notes\
+  \ concerned i.e. document code + 0054037-0054047: status code.  Where Road consignment\
+  \ notes are not sequentially numbered enter the reference number of each Road consignment\
+  \ note concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

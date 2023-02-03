@@ -1,0 +1,18 @@
+code: "X006"
+tradeType: "EXPORT"
+description: "CITES Export permit concerning the implementation of Council Regulation\
+  \ (EC) No 338/97 on the protection of species of wild fauna and flora by regulating\
+  \ trade therein"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, AG, AP, AS, AT,\
+  \ XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "XX"

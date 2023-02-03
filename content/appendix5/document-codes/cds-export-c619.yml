@@ -1,0 +1,21 @@
+code: "C619"
+tradeType: "EXPORT"
+description: "Maritime manifest (T2F)."
+detailsOnTheDeclaration: "Enter the reference number of the Maritime Manifest.  Where\
+  \ a sequentially numbered range of Maritime Manifests cover the goods enter the\
+  \ lowest to the highest reference numbers of the Maritime Manifests concerned i.e.\
+  \ document code + 0054037-0054047: status code.  Where Maritime Manifests are not\
+  \ sequentially numbered enter the reference number of each Maritime Manifest concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

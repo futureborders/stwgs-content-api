@@ -1,0 +1,10 @@
+code: "U112"
+tradeType: "IMPORT"
+description: "Importer’s knowledge "
+detailsOnTheDeclaration: "Enter ‘Importer’s knowledge’ in Document Reason (4th Component).\
+  \ Document Identifier (2nd Component) must be left blank. Use of this code constitutes\
+  \ a legal declaration that the importer the goods qualify for preference. Sufficient\
+  \ evidence must be held by the importer to prove their originating status."
+system: "CDS"
+statusCodes:
+- "JP"

@@ -1,0 +1,16 @@
+code: "9102"
+tradeType: "IMPORT"
+description: "Standard Individual Transhipment Licence.\nOpen general Transhipment\
+  \ Licence."
+detailsOnTheDeclaration: "Enter GBSIT followed by the licence number. If using more\
+  \ than one licence then a separate 9102 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AF"
+- "AP"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "XX"

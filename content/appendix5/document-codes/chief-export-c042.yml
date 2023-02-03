@@ -1,0 +1,14 @@
+code: "C042"
+tradeType: "EXPORT"
+description: "ICCAT swordfish re-export certificate Council Regulation (EC) No\n1984/2003\
+  \  of 8 April 2003 introducing a system for the statistical monitoring of trade\
+  \ in bluefin tuna, swordfish and bigeye tuna within the Community"
+detailsOnTheDeclaration: "Enter the unique document number.\nUse one of the following\
+  \ status codes (see document status codes for harmonised declarations for definitions):\
+  \ AF, AT, GE, XX."
+system: "CHIEF"
+statusCodes:
+- "AF"
+- "AT"
+- "GE"
+- "XX"

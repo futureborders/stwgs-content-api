@@ -1,0 +1,11 @@
+code: "C509"
+tradeType: "IMPORT"
+description: "TST - Authorisation for the operation of storage facilities for the\
+  \ temporary storage of goods (Column 5, Annex A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the operation\
+  \ of temporary storage facilities authorisation in the format: \n• 2 digit code\
+  \ identifying the member state of authorisation, e.g., GB \n• 3 digit code indicating\
+  \ that an operation of temporary storage facilities authorisation is held, i.e.,\
+  \ TST \n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

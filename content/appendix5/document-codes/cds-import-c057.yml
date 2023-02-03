@@ -1,0 +1,35 @@
+code: "C057"
+tradeType: "IMPORT"
+description: "Copy of the declaration of conformity – Option A, as referred in Article\
+  \ 1.2 and in the Annex of Regulation (EU) 2016/879.  Pursuant to Regulation (EU)\
+  \ 517/2014, for detailed arrangements relating to the declaration of conformity\
+  \ when placing refrigeration, air conditioning and heat pump equipment charged with\
+  \ hydrofluorocarbons on the market and its verification. A copy of the Certificate\
+  \ of Conformity as laid out in Annex 1 of Regulation (EU) 2016/879 must accompany\
+  \ the import declaration. See also document codes C079, C082 Y053, Y054, Y950 and\
+  \ Y951"
+detailsOnTheDeclaration: "Enter the reference number of the copy of the declaration\
+  \ of conformity as referred in Article 1.2 of Regulation 2016/879. Where a sequentially\
+  \ numbered range of certificates cover the goods enter the lowest to the highest\
+  \ reference numbers of the certificates concerned i.e. document code + 0054037-0054047:\
+  \ status code.  Where certificates are not sequentially numbered enter the reference\
+  \ number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

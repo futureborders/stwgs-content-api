@@ -1,0 +1,17 @@
+documentCode: C673
+importOverlay: |
+  You need a [catch certificate](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk#import-documents) to import most fish and fishery products into the UK. 
+  This must be validated by the authority of the country where the fishing vessel is registered or licenced.  You may also need a processing statement or storage document if the product was processed or stored.  
+   
+  Foreign vessels landing catch directly into the UK (except for EU vessels landing into Northern Ireland) will also need to complete a:
+  - prior notification form
+  - pre-landing declaration
+  
+  [Read the guidance on importing fish to the UK](https://www.gov.uk/guidance/importing-or-moving-fish-to-the-uk)
+exportOverlay: |
+  You need a [catch certificate](https://www.gov.uk/guidance/exporting-or-moving-fish-from-the-uk#catch-certificate) to export most fish and fishery products out of the UK. 
+    If you land fish directly into EU ports, you’ll also need to complete a:
+    - prior notification form 
+    - pre-landing declaration
+    - the NEAFC Port-State Control forms
+locale: EN

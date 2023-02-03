@@ -1,0 +1,12 @@
+code: "C656"
+tradeType: "EXPORT"
+description: "Catch document described in Reg. (EC) No 669/2003  (OJ L 97)\nfor Dissostichus\
+  \ spp. (Toothfish)"
+detailsOnTheDeclaration: "Enter the unique document number.\nUse one of the following\
+  \ status codes (see document status codes for harmonised declarations for definitions):\
+  \ AE, IE, IP."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "IE"
+- "IP"

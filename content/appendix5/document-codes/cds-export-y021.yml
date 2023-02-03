@@ -1,0 +1,32 @@
+code: "Y021"
+tradeType: "EXPORT"
+description: "Request for EEA preferential treatment.  Proof of Preferential Origin\
+  \ (Form EUR1, EUR-MED or declaration of preferential origin on an invoice or other\
+  \ commercial document) declaring that the goods originate in the EEA-European Economic\
+  \ Area.  Document code Y021 must be used to support a claim to a preferential rate\
+  \ of duty where the proof shows country or origin as EEA (rather than Norway, Iceland\
+  \ or Liechtenstein)."
+detailsOnTheDeclaration: "Enter the reference number of the preference document. \
+  \ Where a sequentially numbered range of documents cover the goods enter the lowest\
+  \ to the highest reference numbers of the documents concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where documents are not sequentially numbered\
+  \ enter the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

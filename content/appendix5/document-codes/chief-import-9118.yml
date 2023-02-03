@@ -1,0 +1,16 @@
+code: "9118"
+tradeType: "IMPORT"
+description: "Import permit for harp and hooded seal skins"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, AG, AP, AS, AT,\
+  \ XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "XX"

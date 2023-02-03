@@ -1,0 +1,32 @@
+code: "D010"
+tradeType: "IMPORT"
+description: "Multi-combinational forms of DRAMs originating in countries other than\
+  \ the Republic of Korea, incorporating DRAM chips and/or mounted DRAMs originating\
+  \ in countries other than the Republic of Korea or originating in the Republic of\
+  \ Korea and manufactured by Samsung.\nThe indication in box 44 of the Single Administrative\
+  \ Document of the reference number D010 shall, as such, be considered as sufficient\
+  \ evidence."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the number of the commercial\
+  \ invoice(s) covering the goods."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

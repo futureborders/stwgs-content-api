@@ -1,0 +1,18 @@
+code: "C644"
+tradeType: "EXPORT"
+description: "Certificate of inspection for organic products.  Council Regulation\
+  \ (EC) No 834/2007 on organic production and labelling of organic products and repealing\
+  \ Regulation (EEC) No 2092/91. See also document code Y929"
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AP"
+  - "GE"
+  - "LE"
+  - "LP"
+  - "UE"

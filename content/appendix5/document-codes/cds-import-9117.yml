@@ -1,0 +1,11 @@
+code: "9117"
+tradeType: "IMPORT"
+description: "FERA letter of authority."
+detailsOnTheDeclaration: "Enter the licence number. If using more than one licence\
+  \ then a separate 9117 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AG"
+- "AP"
+- "JE"
+- "JP"

@@ -1,0 +1,12 @@
+code: "C655"
+tradeType: "EXPORT"
+description: "Certificate - product proof Commission Regulation (EEC) No 32/\n82 of\
+  \ 7 January 1982 laying down the conditions for granting special export refunds\
+  \ for beef and veal"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

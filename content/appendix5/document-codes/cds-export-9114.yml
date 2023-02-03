@@ -1,0 +1,18 @@
+code: "9114"
+tradeType: "EXPORT"
+description: "Controlled Drugs Open Individual Licence."
+detailsOnTheDeclaration: "Enter GBHCE followed by the licence number. If using more\
+  \ than one licence then a separate 9114 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "ATFP"
+  - "IA"
+  - "JA"
+  - "XW"
+  - "XX"

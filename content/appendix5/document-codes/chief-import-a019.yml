@@ -1,0 +1,8 @@
+code: "A019"
+tradeType: "IMPORT"
+description: "Certificate de quality (NITRATE FROM CHILE)"
+detailsOnTheDeclaration: "Use status code AC (see document status codes for harmonised\
+  \ declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AC"

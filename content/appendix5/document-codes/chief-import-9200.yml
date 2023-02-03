@@ -1,0 +1,14 @@
+code: "9200"
+tradeType: "IMPORT"
+description: "Declaration of particulars relating to Valuation Methods 2, 3, 4a,\n\
+  4b, 5 and 6.\nIn the UK Forms C105B and C109B support Valuation Methods 2,\n3, 4a,\
+  \ 4b, 5 and 6.\nC109B forms are registered with HMRC and a GVS reference allocated.\n\
+  Note: A document is not declared for Valuation Method 7 (SPV).\nStatus Code Meaning\n\
+  EP C109B registered with Customs  (GVS\nreference)\nJE Valuation declaration may\
+  \ be required\n(currently for use by CFSP Traders) \nAE C105B to be produced on\
+  \ request\nXF C105B to be produced on request on\nremoval from warehouse."
+detailsOnTheDeclaration: "The format of a GVS reference is nnnannnnnn\na – ‘B’ for\
+  \ a C109B\nn – a digit \nThere is no formal reference for a C105B. Declarant has\
+  \ the option to enter a reference."
+system: "CHIEF"
+statusCodes:

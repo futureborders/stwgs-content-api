@@ -1,0 +1,27 @@
+code: "C659"
+tradeType: "EXPORT"
+description: "Prior written declaration."
+detailsOnTheDeclaration: "Enter the reference number of the Declaration.  Where a\
+  \ sequentially numbered range of Declarations cover the goods enter the lowest to\
+  \ the highest reference numbers of the Declarations concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where Declarations are not sequentially numbered\
+  \ enter the reference number of each Declaration concerned."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

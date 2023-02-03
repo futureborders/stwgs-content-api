@@ -1,0 +1,16 @@
+code: "C517"
+tradeType: "IMPORT"
+description: "CWP - Authorisation for the operation of storage facilities for the\
+  \ customs warehousing of goods in a private customs warehouse (Column 8e, Annex\
+  \ A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the private\
+  \ customs warehouse in the format: \n• 2 digit code identifying the member state\
+  \ of authorisation, e.g., GB \n• 3 digit code indicating the type of warehouse,\
+  \ i.e., CWP\nalpha numeric code issued by the authorising member state for the warehouse.\
+  \  In the UK this will be the warehouse ID No. as declared in DE 2/7 (ex-box 49\
+  \ on a SAD/ C88)\nNote: if goods are being transferred from one private customs\
+  \ warehouse to another private customs warehouse, enter the code for the receiving\
+  \ warehouse.  The dispatching warehouse is entered as a PREMS statement in DE 2/2\
+  \ – Please see the Procedure Code notes and Appendix 4 for further details."
+system: "CDS"
+statusCodes:

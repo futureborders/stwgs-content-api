@@ -1,0 +1,10 @@
+code: "9RCP"
+tradeType: "EXPORT"
+description: "RPA recipe code [Box C44 on Form C88(CAP)]\nNote: This is not a separate\
+  \ document but must be included as appropriate on CAP Export declarations for processed\
+  \ goods without a registered recipe."
+detailsOnTheDeclaration: "Reference: enter the appropriate recipe number.\nNote: No\
+  \ status code (as contained in document status codes for harmonised declarations)\
+  \ is required."
+system: "CHIEF"
+statusCodes:

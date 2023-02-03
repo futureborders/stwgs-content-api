@@ -1,0 +1,14 @@
+code: "9ING"
+tradeType: "EXPORT"
+description: "RPA\_ingredient details.\nNote: this is not a separate document but\
+  \ must be included as appropriate on\_CAP\_export declarations for processed goods\
+  \ without a registered recipe."
+detailsOnTheDeclaration: "Ingredients are only specified when a recipe is not registered\
+  \ for the goods. In this case, declare a 9ING document for each ingredient code\
+  \ as advised by\_RPA\_with the quantity of the ingredient in kilograms.\nWhere an\
+  \ ingredient relates to a licence or AFC the 9ING document must follow the document\
+  \ declaration for the licence or AFC.\nIf the ingredient does not relate to a licence/AFC\
+  \ it must be declared before any licences/AFCs.\nDocument Reference: the Ingredient\
+  \ code\nQuantity: enter the quantity of the ingredient expressed in Kilograms."
+system: "CDS"
+statusCodes:

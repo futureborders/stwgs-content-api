@@ -1,0 +1,12 @@
+code: "C402"
+tradeType: "IMPORT"
+description: "CITES Export permit or Re-export certificate issued by a third country.\
+  \  Commission Reg 2017/160 amending Council Reg (EC) No 338/97 on the protection\
+  \ of species of wild fauna and flora by regulating trade therein."
+detailsOnTheDeclaration: "Enter the reference number of the CITES export permit or\
+  \ re-export certificate issued by a third country. If using more than one permit\
+  \ then a separate C402 entry in DE 2/3 is required for each permit."
+system: "CDS"
+statusCodes:
+- "AC"
+- "XX"

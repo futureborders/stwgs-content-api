@@ -1,0 +1,15 @@
+code: "Y009"
+tradeType: "EXPORT"
+description: "Prior authorisation.  Council Regulation (EC) No 3036/94 of 8\nDecember\
+  \ 1994 establishing economic outward processing arrangements applicable to certain\
+  \ textiles and clothing products re-imported into the Community after working or\
+  \ processing in certain third countries\nThis document code is used when declaring\
+  \ Customs procedure\nOT\nSee also:\nN990 for declaring AS, EU, PC or TA\nC019 for\
+  \ declaring OP\nC601 for declaring IP"
+detailsOnTheDeclaration: "Reference: OT authorisation reference as defined under Box\
+  \ 44 CUSTOMS SCHEMES.\nNote: No status code (as contained in\ndocument status codes\
+  \ for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:
+- "ES"
+- "US"

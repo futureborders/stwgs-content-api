@@ -1,0 +1,10 @@
+code: "C035"
+tradeType: "IMPORT"
+description: "Attestation of equivalence as mentioned  in Reg. (EEC) No\n3076/1978\
+  \ (OJ L 367) on the importation  of hops from non- member countries"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "XX"

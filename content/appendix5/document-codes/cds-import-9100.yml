@@ -1,0 +1,38 @@
+code: "9100"
+tradeType: "IMPORT"
+description: "Firearms: Open Individual Licence.\nFirearms: Specific Individual Licence.\n\
+  Nuclear Materials: Open Individual Licence.\nNuclear Materials: Specific Individual\
+  \ Licence."
+detailsOnTheDeclaration: "Enter the following -\n— For Open Individual Import Licence\
+  \ enter GBOIL followed by the licence number\n— For Specific Individual Import Licences\
+  \ enter GBSIL followed by the licence number\nIf using more than one licence then\
+  \ a separate 9100 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XW"
+- "XX"

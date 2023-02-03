@@ -1,0 +1,21 @@
+code: "N722"
+tradeType: "IMPORT"
+description: "Road list – SMGS."
+detailsOnTheDeclaration: "Enter the reference number of the road list.  Where a sequentially\
+  \ numbered range of road lists cover the goods enter the lowest to the highest reference\
+  \ numbers of the road lists concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where road lists are not sequentially numbered enter the reference number\
+  \ of each road list concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

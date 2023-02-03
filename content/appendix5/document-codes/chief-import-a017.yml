@@ -1,0 +1,12 @@
+code: "A017"
+tradeType: "IMPORT"
+description: "Certificate of authenticity Commission Regulation (EC) No 936/\n97 of\
+  \ 27 May 1997 opening and providing for the administration of tariff quotas for\
+  \ high-quality fresh, chilled and frozen beef and for frozen buffalo meat"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

@@ -1,0 +1,15 @@
+code: "C067"
+tradeType: "IMPORT"
+description: "Import authorisation for restricted goods and technologies (Council\
+  \ Regulation (EU) No 267/2012) concerning restrictive measures against Iran and\
+  \ repealing Regulation (EU) No 961/2010."
+detailsOnTheDeclaration: "Enter the reference number of the import authorisation for\
+  \ restricted goods and technologies. Where a sequentially numbered range of certificates\
+  \ cover the goods enter the lowest to the highest reference numbers of the certificates\
+  \ concerned i.e. document code + 0054037-0054047: status code.  Where certificates\
+  \ are not sequentially numbered enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AT"
+- "GE"
+- "XX"

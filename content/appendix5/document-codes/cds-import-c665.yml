@@ -1,0 +1,29 @@
+code: "C665"
+tradeType: "IMPORT"
+description: "CN23 declaration according to Article 144 of the Regulation (EU) No\
+  \ 2015/2446 empowered by Council Regulation (EU) No 952/2013, Articles 6(2) and\
+  \ 158."
+detailsOnTheDeclaration: "Enter the reference number of the CN23.  Where a sequentially\
+  \ numbered range of CN23s cover the goods enter the lowest to the highest reference\
+  \ numbers of the CN23s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where CN23s are not sequentially numbered enter the reference number of each\
+  \ CN23 concerned"
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

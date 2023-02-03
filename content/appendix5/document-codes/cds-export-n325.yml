@@ -1,0 +1,21 @@
+code: "N325"
+tradeType: "EXPORT"
+description: "Proforma invoice."
+detailsOnTheDeclaration: "Enter the reference number of the proforma invoice.  Where\
+  \ a sequentially numbered range of proforma invoices cover the goods enter the lowest\
+  \ to the highest reference numbers of the proforma invoices concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where proforma invoices are not sequentially\
+  \ numbered enter the reference number of each proforma invoice concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

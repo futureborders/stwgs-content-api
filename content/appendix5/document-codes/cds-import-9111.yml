@@ -1,0 +1,17 @@
+code: "9111"
+tradeType: "IMPORT"
+description: "Home Office open individual licence for drugs precursor chemicals."
+detailsOnTheDeclaration: "Enter GBHOO followed by the licence number.\nIf using more\
+  \ than one licence then a separate 9111 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "FP"
+- "JA"
+- "XX"

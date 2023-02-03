@@ -1,0 +1,21 @@
+code: "N002"
+tradeType: "IMPORT"
+description: "Certificate of conformity (Fruit & Vegetables)\n1)Commission Regulation\
+  \ (EC) No 2019/94 of 2 August 1994 on imports of residues from the manufacture of\
+  \ starch from maize from the United States of America\n2) Commission Regulation\
+  \ (EC) No 1148/2001  of 12 June 2001 on checks on conformity to the marketing standards\
+  \ applicable to fresh fruit and vegetables\nIf using the CHED-PP to pre notify an\
+  \ import consignment that requires HMI checks under Specific Marketing Standards\
+  \ (SMS) or General Marketing Standards (GMS), the licence reference for doc code\
+  \ N002 should be completed with licence type CVD and the CHED-PP reference number."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AG, AS, JE, JS, XA or XX.\n\
+  For CHED-PP: \nGBCVD followed by CHED-PP reference number."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AS"
+- "JE"
+- "JS"
+- "XA"
+- "XX"

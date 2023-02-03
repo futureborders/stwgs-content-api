@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    networks:
+      - bridge
+    image: stw/stwgs-content-api
+    container_name: stwgs-content-api
+    command: java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=0.0.0.0:8000,suspend=n -jar /opt/app.jar
+    ports:
+      - "8081:8081"
+      - "9000:9000"
+    environment:
+      - SPRING_PROFILES_ACTIVE=default
+networks:
+  bridge:

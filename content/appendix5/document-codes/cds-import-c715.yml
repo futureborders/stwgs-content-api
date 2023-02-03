@@ -1,0 +1,11 @@
+code: "C715"
+tradeType: "IMPORT"
+description: "Import-One-Stop-Shop (IOSS) number - individual VAT identification number\
+  \ (Art. 369q of Council Directive (EU) 2017/2455)"
+detailsOnTheDeclaration: "Provide the IOSS VAT Identification number issued for use\
+  \ under the Special Scheme in the format: \n• 2 digit code identifying the member\
+  \ state of issue, e.g., GB \n• 4 digit code indicating that an IOSS is held: IOST:\
+  \ IOSS VAT Identification Number issued to a Taxable Person IOSI: IOSS VAT Identification\
+  \ Number issued to an Intermediary \n• followed by the IOSS VAT Identification Number."
+system: "CDS"
+statusCodes:

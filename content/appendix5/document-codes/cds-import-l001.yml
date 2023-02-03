@@ -1,0 +1,46 @@
+code: "L001"
+tradeType: "IMPORT"
+description: "Import licence AGRIM.  COMMISSION DELEGATED REGULATION (EU) 2016/1237\
+  \ supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the\
+  \ Council with regard to the rules for applying the system of import and export\
+  \ licences and supplementing Regulation (EU) No 1306/2013 of the European Parliament\
+  \ and of the Council with regard to the rules on the release and forfeit of securities\
+  \ lodged for such licences, amending Commission Regulations (EC) No 2535/2001, (EC)\
+  \ No 1342/2003, (EC) No 2336/2003, (EC) No 951/2006, (EC) No 341/2007 and (EC) No\
+  \ 382/2008 and repealing Commission Regulations (EC) No 2390/98, (EC) No 1345/2005,\
+  \ (EC) No 376/2008 and (EC) No 507/2008. See also document code Y036"
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by CPI and the reference number of the Certificate.  If using\
+  \ more than one licence then a separate L001 entry in DE 2/3 is required for each\
+  \ licence. Enter the expiry date for the licence in the following format yyyymmdd."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XU"

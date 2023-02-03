@@ -1,0 +1,40 @@
+code: "C666"
+tradeType: "IMPORT"
+description: "Certificate issued by the Federal Grain Inspection service (FGIS). \
+  \ COMMISSION REGULATION (EC) No 1375/2007 on imports of residues from the manufacture\
+  \ of starch from maize from the United States of America.  Note: Certificates report\
+  \ the grade of the grain inspected based on characteristics such as test weight,\
+  \ moisture, cleanliness, and damage.  Certificates are issued for the various grains\
+  \ for which standards exist under the U.S. Grain Standards Act, as amended, and\
+  \ for rice, pulses, and miscellaneous processed commodities covered by Part 68 of\
+  \ the regulations under the Agricultural Marketing Act of 1946, as amended. Please\
+  \ also see document code C668"
+detailsOnTheDeclaration: "Enter the Certificate reference number followed by the appropriate\
+  \ document status code "
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XW"
+- "XX"

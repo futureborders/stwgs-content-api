@@ -1,0 +1,12 @@
+code: "C604"
+tradeType: "EXPORT"
+description: "Information sheet INF2 for outward processing triangular traffic (C&E1155)."
+detailsOnTheDeclaration: "Enter the reference number of the INF2.  Where a sequentially\
+  \ numbered range of INF2s cover the goods enter the lowest to the highest reference\
+  \ numbers of the INF2s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INF2s are not sequentially numbered enter the reference number of each\
+  \ INF2 concerned. Faxed copy not acceptable"
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"

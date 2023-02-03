@@ -1,0 +1,21 @@
+code: "N822"
+tradeType: "EXPORT"
+description: "(T2) Internal Community transit declaration / Common transit"
+detailsOnTheDeclaration: "The Movement Reference Number (MRN) for the Common/Community\
+  \ transit movement.\nUse one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, AG, AS, AT, GE,\
+  \ GP, JA, JE, JP, JS."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JP"
+- "JS"

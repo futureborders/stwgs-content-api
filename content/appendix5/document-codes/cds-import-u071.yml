@@ -1,0 +1,30 @@
+code: "U071"
+tradeType: "IMPORT"
+description: "Proof of origin containing the following statement: “Product originating\
+  \ in accordance with Appendix 2A of Annex II (Concerning the Definition of the Concept\
+  \ of “Originating Products” and Methods of Administrative Cooperation)” (OJ L346,\
+  \ 15.12.2012)."
+detailsOnTheDeclaration: "Enter the reference number of the Proof document.  Where\
+  \ a sequentially numbered range of documents cover the goods enter the lowest to\
+  \ the highest reference numbers of the documents concerned i.e. document code +\
+  \ 0054037-0054047: status code.  Where documents are not sequentially numbered enter\
+  \ the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

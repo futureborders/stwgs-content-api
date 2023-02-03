@@ -1,0 +1,39 @@
+code: "X002"
+tradeType: "EXPORT"
+description: "Dual use export authorisation (Regulation 428/2009 and its amendments),\
+  \ setting up a Union regime for the control of exports, transfer, brokering and\
+  \ transit of dual-use items."
+detailsOnTheDeclaration: "Enter the nationality of the document (for UK use GB; for\
+  \ Union docs use EU) followed by: \n• For an Open General Export Licence enter OGE\
+  \ followed by the licence number \n• For a Union General Export authorisation enter\
+  \ GEA followed byt the reference number of the general authorisation document •\
+  \ For Open Individual Export Licence enter OIE followed by the licence number \n\
+  •For Standard Individual Export Licences enter SIE followed by the licence number\
+  \ \nIf using more than one licence then a separate X002 entry in DE 2/3 is required\
+  \ for each licence."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AP"
+  - "AT"
+  - "EA"
+  - "EE"
+  - "EP"
+  - "ES"
+  - "FP"
+  - "GE"
+  - "GP"
+  - "HP"
+  - "IA"
+  - "IP"
+  - "JA"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "SP"
+  - "TP"
+  - "UA"
+  - "XW"
+  - "XX"

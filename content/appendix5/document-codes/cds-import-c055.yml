@@ -1,0 +1,30 @@
+code: "C055"
+tradeType: "IMPORT"
+description: "Declaration of compliance (Annex IV of Regulation (EU) No. 10/2011).\
+  \  COMMISSION IMPLEMENTING REGULATION (EU) No 321/2011 amending Regulation (EU)\
+  \ No 10/2011 as regards the restriction of use of Bisphenol A in plastic infant\
+  \ feeding bottles"
+detailsOnTheDeclaration: "The written declaration of compliance and supporting documents\
+  \ as required by articles 15, 16 and in containing the information specified in\
+  \ Annex IV of Regulation (EU) No. 10/2011 must be held and produced to the Customs\
+  \ authorities on request. Enter the reference number of the declaration of compliance\
+  \ (Annex IV of Regulation (EU) No.10/2011)."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

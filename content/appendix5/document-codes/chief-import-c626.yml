@@ -1,0 +1,15 @@
+code: "C626"
+tradeType: "IMPORT"
+description: "Binding tariff information"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE.\n\
+  Enter the BTI reference(s)  held for the goods described in Box 31 e.g.\n‘BTIUK54321’\
+  ."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

@@ -1,0 +1,37 @@
+code: "L081"
+tradeType: "IMPORT"
+description: "Certificate of analysis (Commission Implementing Regulation (EU) 2020/1988)\
+  \ Article 9 repealing Regulation (EC) No 1064/2009) for malting barley from third\
+  \ countries. See also L082"
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XW"
+- "XX"

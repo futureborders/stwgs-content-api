@@ -1,0 +1,21 @@
+code: "N785"
+tradeType: "IMPORT"
+description: "Cargo manifest."
+detailsOnTheDeclaration: "Enter the reference number of the manifest.  Where a sequentially\
+  \ numbered range of manifest cover the goods enter the lowest to the highest reference\
+  \ numbers of the manifest concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where manifests are not sequentially numbered enter the reference number\
+  \ of each manifest concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

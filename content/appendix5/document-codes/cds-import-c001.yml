@@ -1,0 +1,19 @@
+code: "C001"
+tradeType: "IMPORT"
+description: "Attestation of equivalence as mentioned in Regulation (EC) No 1295/2008\
+  \ (OJ L 340) on the importation of Hops from third countries. Products of the hops\
+  \ sector may be imported from third countries only if their quality standards are\
+  \ at least equivalent to those adopted for like products harvested within the Union\
+  \ or made from such products. Products shall be considered to be of the standard\
+  \ referred to in paragraph 1 if they are accompanied by an attestation issued by\
+  \ the authorities of the country of origin and recognised as equivalent to the certificate\
+  \ referred to in Article 77 of Regulation (EU) No. 704/2014."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by:\n• Control - ATT and the reference number of the document.\
+  \ \n• Equivalence - ATT and the reference number of the document. \nIf using more\
+  \ than one Attestation document, then a separate C001 entry in DE 2/3 is required\
+  \ for each document."
+system: "CDS"
+statusCodes:
+- "AC"
+- "XX"

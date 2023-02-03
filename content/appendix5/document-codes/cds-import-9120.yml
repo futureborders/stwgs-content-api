@@ -1,0 +1,16 @@
+code: "9120"
+tradeType: "IMPORT"
+description: "Importation of animal pathogens Licence under the Importation of Animal\
+  \ pathogens Order 1980 (IAPO)."
+detailsOnTheDeclaration: "Enter GBAHC followed by the licence number. If using more\
+  \ than one licence then a separate 9120 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "XX"

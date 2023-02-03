@@ -1,0 +1,15 @@
+code: "9115"
+tradeType: "IMPORT"
+description: "Quarantine Release Certificate."
+detailsOnTheDeclaration: "Enter GBQRC followed by the certificate number.If using\
+  \ more than one licence then a separate 9115 entry in\_DE\_2/3 is required for each\
+  \ licence."
+system: "CDS"
+statusCodes:
+- "AG"
+- "AP"
+- "AS"
+- "JE"
+- "JP"
+- "JS"
+- "XAorXX"

@@ -1,0 +1,14 @@
+code: "C647"
+tradeType: "EXPORT"
+description: "Confirmation of receipt of certain substances to the illicit manufacture\
+  \ of narcotic drugs and psychotropic substances"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

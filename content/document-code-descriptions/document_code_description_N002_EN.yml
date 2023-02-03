@@ -1,0 +1,29 @@
+documentCode: N002
+importOverlay: |
+  If you import fresh fruit or vegetables, you need a [certificate of conformity](https://www.gov.uk/guidance/import-and-export-plants-and-fresh-produce#produce-which-must-have-a-certificate-of-conformity) for goods that are:
+  - apples
+  - citrus fruit
+  - kiwi fruit
+  - peaches and nectarines
+  - pears
+  - strawberries
+  - table grapes
+  - lettuces, curled-leaved and broad-leaved endives
+  - sweet peppers
+  - tomatoes
+
+exportOverlay: |
+  If you export fresh fruit or vegetables, you need a [certificate of conformity](https://www.gov.uk/guidance/import-and-export-plants-and-fresh-produce#produce-which-must-have-a-certificate-of-conformity) for goods that are:
+  
+  - apples
+  - citrus fruit
+  - kiwi fruit
+  - peaches and nectarines
+  - pears
+  - strawberries
+  - table grapes
+  - lettuces, curled-leaved and broad-leaved endives
+  - sweet peppers
+  - tomatoes
+
+locale: EN

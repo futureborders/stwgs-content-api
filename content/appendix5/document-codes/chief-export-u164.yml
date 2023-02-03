@@ -1,0 +1,35 @@
+code: "U164"
+tradeType: "EXPORT"
+description: "Statement of origin made out by a Registered Exporter in the framework\
+  \ of GSP for a total value of originating products consigned not exceeding €6000."
+detailsOnTheDeclaration: "Use one of the following status codes (see Appendix C10\
+  \ for definitions): AE, AF, AG, AP, AS, AT, GE, GP, JE, JP, LE, LP, UA, UE, UP,\
+  \ US, XA, XB \nThese codes are only applicable for countries of origin that are\
+  \ covered by the GSP and within the EU (for the purposes of bi-lateral cumulation\
+  \ and split consignments)\nTo facilitate any software changes that may result from\
+  \ these amendments the status codes currently listed (RE/XO as appropriate) will\
+  \ remain valid on CHIEF against these documents until 1 February 2020."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IE"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "RE"
+- "SP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"
+- "XO"

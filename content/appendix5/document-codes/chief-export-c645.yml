@@ -1,0 +1,12 @@
+code: "C645"
+tradeType: "EXPORT"
+description: "Certificate for military  equipment  Council Regulation (EC) No\n150/2003\
+  \  of 21 January 2003 suspending import duties on certain weapons and military equipment"
+detailsOnTheDeclaration: "Enter MoD certificate reference number\n- in the format\
+  \ “UK/ .....”, inserting the relevant certificate number after “UK/”\nFaxed copy\
+  \ not acceptable.\nUse either status code JP or UP as appropriate (see document\
+  \ status codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "JP"
+- "UP"

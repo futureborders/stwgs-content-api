@@ -1,0 +1,10 @@
+code: "Y031"
+tradeType: "IMPORT"
+description: "This certificate code may be used to indicate that shipments are coming\
+  \ from or going to an Authorised Economic Operator (AEO) in a third country with\
+  \ which the European Union (EU) has concluded a mutual recognition agreement regarding\
+  \ AEO programmes."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate followed by\
+  \ the country code for the Certificate holder."
+system: "CDS"
+statusCodes:

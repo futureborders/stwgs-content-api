@@ -1,0 +1,20 @@
+code: "9121"
+tradeType: "IMPORT"
+description: "DEFRA or Animal Health import licence/authorisation for products of\
+  \ animal origin"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, IA,\
+  \ IE, IP, IS and XX."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "XX"

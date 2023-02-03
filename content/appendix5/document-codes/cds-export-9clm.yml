@@ -1,0 +1,13 @@
+code: "9CLM"
+tradeType: "EXPORT"
+description: "RPA\_claim reference and claim type\nNote: this is not a separate document\
+  \ but must be included on all\_CAP\_export declarations."
+detailsOnTheDeclaration: "Enter the claim reference made up as follows –\n– Last 2\
+  \ digits of the year\n– 4 digit\_RPA\_serial number\nFollowed by the appropriate\
+  \ claim type –\n– 01 Standard Electronic Export Refund Claim and where you are submitting\
+  \ a refund claim for the sole purpose of releasing security on a\_CAP\_export licence.\n\
+  – 05 Advance Payment Electronic Export Refund Claim\n– 15 SER Beef export verification\n\
+  – 16 Simplified Victualling Procedures.\nAll items on the declaration must have\
+  \ the same claim number"
+system: "CDS"
+statusCodes:

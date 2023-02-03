@@ -1,0 +1,12 @@
+code: "C036"
+tradeType: "IMPORT"
+description: "Supplementary document as mentioned  in Reg. (EC) No 1159/\n2003 (OJ\
+  \ L 162) for the import of cane sugar under certain tariff quotas and preferential\
+  \ agreements"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

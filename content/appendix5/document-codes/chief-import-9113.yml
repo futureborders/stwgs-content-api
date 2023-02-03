@@ -1,0 +1,11 @@
+code: "9113"
+tradeType: "IMPORT"
+description: "Controlled Drugs Individual Licence"
+detailsOnTheDeclaration: "Use one of the following status codes\n(see document status\
+  \ codes for harmonised declarations for definitions):\nAE – Document attached –\
+  \ exhausted by this entry\nXX – Ex-heading  goods for which the document does not\
+  \ apply"
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "XX"

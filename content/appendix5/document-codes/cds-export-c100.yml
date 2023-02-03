@@ -1,0 +1,9 @@
+code: "C100"
+tradeType: "EXPORT"
+description: "Registered Exporter Number (REX).  EC Reg 2447/2015 of the UCC IA for\
+  \ \"Implementing Act\". This document code must be declared whenever a preference\
+  \ document code requiring a REX authorisation is declared"
+detailsOnTheDeclaration: "Enter the Registered Export Number. "
+system: "CDS"
+statusCodes:
+  - "RE"

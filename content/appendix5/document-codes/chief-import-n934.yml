@@ -1,0 +1,13 @@
+code: "N934"
+tradeType: "IMPORT"
+description: "Declaration of particulars relating to Valuation Method 1.\nIn the UK\
+  \ Forms C105A and C109A support Valuation Method 1. C109A forms are registered with\
+  \ HMRC and a GVS reference allocated.\nStatus Code Meaning\nEP C109A registered\
+  \ with Customs  (GVS\nreference)\nJE Valuation declaration may be required\n(currently\
+  \ for use by CFSP Traders) \nAE C105A attached\nXF C105A will be produced on removal\
+  \ from \nwarehouse.\nXU C105A to be produced (Bulk commodities\nprovisionally invoiced)"
+detailsOnTheDeclaration: "The format of a GVS reference is nnnannnnnn\na – ‘A’ for\
+  \ a C109A\nn – a digit\nThere is no formal reference for a C105A. Declarant has\
+  \ the option to enter a reference."
+system: "CHIEF"
+statusCodes:

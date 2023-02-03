@@ -1,0 +1,11 @@
+code: "A022"
+tradeType: "IMPORT"
+description: "Certificate of authenticity Basmati Rice for export to the\nEuropean\
+  \ Community"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

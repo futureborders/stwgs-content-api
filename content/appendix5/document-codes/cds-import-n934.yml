@@ -1,0 +1,13 @@
+code: "N934"
+tradeType: "IMPORT"
+description: "Declaration of particulars relating to customs value D.V.1. (to be completed\
+  \ on request)"
+detailsOnTheDeclaration: "Enter “D.V. 1 completed” in Document Identifier (Second\
+  \ Component). Document Reason (Fourth Component) must be left blank."
+system: "CDS"
+statusCodes:
+- "AE"
+- "EP"
+- "JE"
+- "XF"
+- "XU"

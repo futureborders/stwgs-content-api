@@ -1,0 +1,29 @@
+code: "U177"
+tradeType: "IMPORT"
+description: "Proof of origin containing the following statement in English: \"Derogation\
+  \ — Annex B (a) of Protocol Concerning the definition of the concept of ‘originating\
+  \ products’ and methods of administrative cooperation of the EU-Singapore FTA\"\
+  . Proof of origin for EU and The Republic of Singapore FTA (Offical Journal L294\
+  \ 14/11/2019"
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

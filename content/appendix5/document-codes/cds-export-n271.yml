@@ -1,0 +1,23 @@
+code: "N271"
+tradeType: "EXPORT"
+description: "Packing list/Goods manifest/Goods Manifest where not available on an\
+  \ electronic inventory. Note: Please refer to the instructions in Appendix 2A DE-11\
+  \ for completion requirements when N271 is a mandatory document."
+detailsOnTheDeclaration: "Enter the reference number of the packing list.  Where a\
+  \ sequentially numbered range of packing lists cover the goods enter the lowest\
+  \ to the highest reference numbers of the packing lists concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where packing lists are not sequentially\
+  \ numbered enter the reference number of each packing list concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

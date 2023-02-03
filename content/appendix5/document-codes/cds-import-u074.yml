@@ -1,0 +1,27 @@
+code: "U074"
+tradeType: "IMPORT"
+description: "Certificate of origin for imports of agricultural products into the\
+  \ European Union, used in the framework of tariff quotas according to Article 13\
+  \ (rice), Regulation (EU) 2020/1988. As per the model set out in Part B of Annex\
+  \ II issued by a competent authority of Bangladesh"
+detailsOnTheDeclaration: "Enter the reference number of the Origin declaration.  Where\
+  \ a sequentially numbered range of declarations cover the goods enter the lowest\
+  \ to the highest reference numbers of the declarations concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where declarations are not sequentially numbered\
+  \ enter the reference number of each declaration concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

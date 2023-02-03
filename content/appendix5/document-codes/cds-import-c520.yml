@@ -1,0 +1,10 @@
+code: "C520"
+tradeType: "IMPORT"
+description: "ACT - Authorisation for the status of authorised consignee for TIR procedure\
+  \ (Column 9a, Annex A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation number for the ACT status in the\
+  \ following format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB\n• 3 digit code indicating that an authorised consignee for TIR procedure\
+  \ authorisation is held, i.e., ACT\n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

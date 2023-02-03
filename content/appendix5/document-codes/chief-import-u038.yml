@@ -1,0 +1,33 @@
+code: "U038"
+tradeType: "IMPORT"
+description: "Proof of origin covering imports of sheep meat from ACP countries under\
+  \ a Community Tariff quota which contains in the box concerning the description\
+  \ of the products, the following statement: “sheep product/s  from the species domestic\
+  \ sheep”"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the serial number of\
+  \ the Certificate. Where a sequentially numbered range of certificates cover the\
+  \ goods insert the lowest to the highest serial numbers of the certificates concerned\
+  \ i.e. document code + 0054037-0054047: status code. Where certificates are not\
+  \ sequentially numbered insert the serial number of each certificate concerned."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

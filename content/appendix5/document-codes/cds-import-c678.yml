@@ -1,0 +1,18 @@
+code: "C678"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Feed and Food of Non-Animal Origin\
+  \ (CHED-D) (as referred to in point (d) of Article 47(1) of Regulation (EU) 2017/625)\
+  \ and as set out in Part 2, Section D of Annex II to Commission Implementing Regulation\
+  \ (EU) 2019/1715 (OJ L 261))"
+detailsOnTheDeclaration: "Enter GBCHDyyyy. followed by the reference number of the\
+  \ CHED-D. A separate C678 entry in DE 2/3 is required for each individual CHED-D.\n\
+  Note yyyy. represents the year in which the licence was issued, for example GBCHD2021.\n\
+  The ‘.’  after the year is part of the licence completion requirements"
+system: "CDS"
+statusCodes:
+- "AE"
+- "JA"
+- "JE"
+- "LE"
+- "LP"
+- "XX"

@@ -1,0 +1,30 @@
+code: "U091"
+tradeType: "EXPORT"
+description: "Invoice declaration issued under the provisions of the EC- Switzerland\
+  \ Free Trade Agreement, declaring that the products concerned have originated  in\
+  \ the European Community in accordance with preferential rules of origin (i.e. for\
+  \ EC originating products which were exported under preference to Switzerland and\
+  \ which are now being returned in the same state to the Community)"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB. Also insert the invoice number(s)"
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

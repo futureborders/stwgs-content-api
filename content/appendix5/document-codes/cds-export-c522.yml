@@ -1,0 +1,10 @@
+code: "C522"
+tradeType: "EXPORT"
+description: "ACE - Authorisation for the status of authorised consignee for Union\
+  \ transit (Column 9c, Annex A of Delegated Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the ACE status\
+  \ in the following format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB\n• 3 digit code indicating that an authorised consignee for Union transit\
+  \ authorisation is held, i.e., ACE\n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

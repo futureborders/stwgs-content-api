@@ -1,0 +1,26 @@
+code: "C070"
+tradeType: "EXPORT"
+description: "Prior authorisation - Restrictive measures against Libya - Council Regulation\
+  \ (EU) No 2016/44."
+detailsOnTheDeclaration: "Enter the reference number of the prior authorisation for\
+  \ restrictive measures against Libya. If using more than one authorisation then\
+  \ a separate C070 entry in DE 2/3 is required for each authorisation."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JE"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UA"
+  - "UE"
+  - "UP"
+  - "US"
+  - "XB"

@@ -1,0 +1,31 @@
+code: "Y910"
+tradeType: "IMPORT"
+description: "Bigeye tuna taken by seiners or baitboats and intended mainly for the\
+  \ canning industry in the areas of application of the Agreement for the establishment\
+  \ of the Indian Ocean Tuna Commission (IOTC Agreement) and the ICCAT Convention.\
+  \ COUNCIL REGULATION (EC) No 1984/2003 establishing a system of statistical registration\
+  \ in the Union concerning bluefin tuna and swordfish and bigeye tuna."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

@@ -1,0 +1,25 @@
+code: "U068"
+tradeType: "IMPORT"
+description: "Proof of origin containing the following statement in English: \"Product\
+  \ originating in accordance with Appendix 2A of Annex II\"."
+detailsOnTheDeclaration: "Enter the reference number of the Proof document.  Where\
+  \ a sequentially numbered range of documents cover the goods enter the lowest to\
+  \ the highest reference numbers of the documents concerned i.e. document code +\
+  \ 0054037-0054047: status code.  Where documents are not sequentially numbered enter\
+  \ the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

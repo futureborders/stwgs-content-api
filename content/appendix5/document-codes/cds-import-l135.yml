@@ -1,0 +1,13 @@
+code: "L135"
+tradeType: "IMPORT"
+description: "Import authorisation (precursors) issued by the competent authorities\
+  \ of the Member State where the importer is established."
+detailsOnTheDeclaration: "Enter the reference number of the authorisation document.\
+  \  Where a sequentially numbered range of documents cover the goods enter the lowest\
+  \ to the highest reference numbers of the documents concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where documents are not sequentially numbered\
+  \ enter the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AP"

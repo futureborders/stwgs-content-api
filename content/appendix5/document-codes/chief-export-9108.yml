@@ -1,0 +1,13 @@
+code: "9108"
+tradeType: "EXPORT"
+description: "EU Specific Open Licence\nEU General Open Licence"
+detailsOnTheDeclaration: "With the exception of EA, EE, EL, EP, ES, XB enter appropriate\
+  \ status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "XB"

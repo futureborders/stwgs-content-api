@@ -1,0 +1,28 @@
+code: "U114"
+tradeType: "EXPORT"
+description: "Statement on Origin made out by a Registered Exporter in the framework\
+  \ of OAD for a total value of originating products consigned exceeding 10000 Euros."
+detailsOnTheDeclaration: "This code must be declared with one of these status codes\
+  \ AE, AF, AG, AP, AS, AT, GE, GP, HP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB and\
+  \ the commercial document reference number."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "HP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

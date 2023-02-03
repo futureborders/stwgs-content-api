@@ -1,0 +1,11 @@
+code: "9119"
+tradeType: "IMPORT"
+description: "Letter headed licence for importation of hares."
+detailsOnTheDeclaration: "Enter GBAHC followed by the licence number. If using more\
+  \ than one licence then a separate 9119 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "XX"

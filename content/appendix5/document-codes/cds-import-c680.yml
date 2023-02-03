@@ -1,0 +1,31 @@
+code: "C680"
+tradeType: "IMPORT"
+description: "Written notification of import and document giving evidence where the\
+  \ products were acquired (seal product).  COMMISSION IMPLEMENTING REGULATION (EU)\
+  \ 2015/1850 laying down detailed rules for the implementation of Regulation (EC)\
+  \ No 1007/2009 of the European Parliament and of the Council on trade in seal products.\
+  \ See also codes C679, C683 and 9118"
+detailsOnTheDeclaration: "Enter the reference number of the Notification document.\
+  \  Where a sequentially numbered range of document cover the goods enter the lowest\
+  \ to the highest reference numbers of the documents concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where documents are not sequentially numbered\
+  \ enter the reference number of each documents concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

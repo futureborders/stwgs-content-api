@@ -1,0 +1,28 @@
+code: "U096"
+tradeType: "IMPORT"
+description: "Certificate EUR.1 bearing the endorsement \"Derogation - [Commission\
+  \ Implementing Decision (EU) 2015/164]\" or \"Dérogation - [Décision d'exécution\
+  \ (UE) 2015/164 de la Commission]\"."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned. Note: derogation from\
+  \ the rules of origin set out in Council Decision 2013/755/EU as regards raw cane\
+  \ sugar from Curaçao."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

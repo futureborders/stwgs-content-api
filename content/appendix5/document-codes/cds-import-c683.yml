@@ -1,0 +1,30 @@
+code: "C683"
+tradeType: "IMPORT"
+description: "European Union - Attesting document for seal products resulting from\
+  \ hunt by Inuit or other indigenous communities for placing on the Union's market\
+  \ in accordance with Article 3 (1) of Regulation (EC) No 1007/2009 on trade in seal\
+  \ products.  See also codes C679, C680 and 9118"
+detailsOnTheDeclaration: "Enter the reference number of the Attesting document.  Where\
+  \ a sequentially numbered range of document cover the goods enter the lowest to\
+  \ the highest reference numbers of the document concerned i.e. document code + 0054037-0054047:\
+  \ status code.  Where documents are not sequentially numbered enter the reference\
+  \ number of each document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

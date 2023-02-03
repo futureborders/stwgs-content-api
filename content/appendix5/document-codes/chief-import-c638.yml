@@ -1,0 +1,12 @@
+code: "C638"
+tradeType: "IMPORT"
+description: "CITES Import permit. Commission Regulation (EC) No 1808/2001 of 30 August\
+  \ 2001 laying down detailed rules concerning the implementation of Council Regulation\
+  \ (EC) No 338/97 on the protection of species of wild fauna and flora by regulating\
+  \ trade therein"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC or XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "XX"

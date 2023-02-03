@@ -1,0 +1,13 @@
+code: "C034"
+tradeType: "EXPORT"
+description: "\"Kimberley\" EU  certificate."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by EKM and the reference number of the Certificate.  If using\
+  \ more than one certificate then a separate C034 entry in DE 2/3 is required for\
+  \ each certificate."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "GE"
+  - "JE"
+  - "JS"

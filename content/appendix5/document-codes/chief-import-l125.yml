@@ -1,0 +1,12 @@
+code: "L125"
+tradeType: "IMPORT"
+description: "Import licence Commission Regulation (EC) No 35/97 of 10\nJanuary 1997\
+  \ laying down provisions on the certification of pelts and goods covered by Council\
+  \ Regulation (EEC) No 3254/91"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "XX"

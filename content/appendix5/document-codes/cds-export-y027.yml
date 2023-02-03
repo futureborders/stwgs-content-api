@@ -1,0 +1,6 @@
+code: "Y027"
+tradeType: "EXPORT"
+description: "Warehousekeeper (AEO certificate number)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate."
+system: "CDS"
+statusCodes:

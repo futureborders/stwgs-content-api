@@ -1,0 +1,11 @@
+code: "9DCR"
+tradeType: "IMPORT"
+description: "Declaration UCR and UCR part"
+detailsOnTheDeclaration: "As specified in Trade Tariff: imports and community transport\
+  \ inwards, section 5\nNotes:\n1. This Document code is only to be\nused for identifying\
+  \ the data on a paper SAD.\n2. CHIEF data is submitted in specific EDI\ndata element(s)\
+  \ or screen field(s). Note: No status code (as contained in document status codes\
+  \ for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:
+- "IE"

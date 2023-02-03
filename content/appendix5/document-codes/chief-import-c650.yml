@@ -1,0 +1,12 @@
+code: "C650"
+tradeType: "IMPORT"
+description: "Movement Document Regulation (EC) No 1013/2006  of 14 June\n2006 on\
+  \ shipments of waste.\nNote: Any HMRC requirement in relation to this document will\
+  \ be notified."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AF, AT."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AF"
+- "AT"

@@ -1,0 +1,13 @@
+code: "X003"
+tradeType: "EXPORT"
+description: "Ozone Depleting Substances Export Authorisation Number: Regulation (EC)\
+  \ No 2037/2000  of the European Parliament and of the Council of 29 June 2000 on\
+  \ substances that deplete the ozone layer."
+detailsOnTheDeclaration: "Enter the following 3 digit licence identifers as shown\
+  \ below:\nEOD\nFollowed by the Export Authorisation\nNumber.\nUse either status\
+  \ code AG or IE as appropriate (see document status codes for harmonised declarations\
+  \ for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "IE"

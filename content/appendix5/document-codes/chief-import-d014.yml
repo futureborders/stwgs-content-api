@@ -1,0 +1,32 @@
+code: "D014"
+tradeType: "IMPORT"
+description: "DRAM containing products of KR origin other than from\nSamsung > = |30%\
+  \ < |40% of the value.\nThe declarant shall submit a statement in conformity with\
+  \ the requirements of Article 1(4) and the Annex of Regulation (EC) No\n1480/2003\
+  \  (OJ L 212, page 1), as amended by Regulation (EC) No 2116/2005  (OJ L 340, page\
+  \ 7)."
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the name of the manufacturer\
+  \ shown on the Statement conforming to requirements of Art 1(4) of and to the annex\
+  \ of Regulation 1430/2003."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

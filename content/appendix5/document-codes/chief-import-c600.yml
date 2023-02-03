@@ -1,0 +1,10 @@
+code: "C600"
+tradeType: "IMPORT"
+description: "Authorisation to operate a customs warehouse or to use the arrangements\
+  \ in a type E warehouse / operate a free zone"
+detailsOnTheDeclaration: "Reference: Enter either :\n- details of guarantee (if applicable);\
+  \ or\n- if goods are being transferred from one warehouse/free zone to another,\
+  \ enter the code for the dispatching warehouse/free zone.\nNote: No status code\
+  \ (as contained in document status codes for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:

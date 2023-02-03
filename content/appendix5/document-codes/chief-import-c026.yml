@@ -1,0 +1,12 @@
+code: "C026"
+tradeType: "IMPORT"
+description: "Certificate or certificate of registration in a herdbook for the administration\
+  \ of tariff quotas for imports of bulls, cows and heifers other than for slaughter\
+  \ of certain Alpine and mountain breeds"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XA, enter\
+  \ appropriate status code listed in document status codes for harmonised declarations."
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XA"

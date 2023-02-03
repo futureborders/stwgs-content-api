@@ -1,0 +1,22 @@
+code: "L119"
+tradeType: "IMPORT"
+description: "Import Licence. 2002/1001/EC: Council Decision of 19 December\n2002\
+  \ on trade in certain steel products between the European\nCommunity and Ukraine\n\
+  Import authorisation (893/2003/EC - OJ L 333) on trade in certain steel products\
+  \ between the European Community and Ukraine"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, EA, EE, EL, EP, ES,\
+  \ UE, XW \nGBAOG followed by licence number. If there is sequential range of reference\
+  \ numbers then enter the first and last numbered documents within the range. If\
+  \ there are several random reference numbers then ‘various’ is permitted."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "UE"
+- "XW"

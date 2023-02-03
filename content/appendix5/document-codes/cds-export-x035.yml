@@ -1,0 +1,31 @@
+code: "X035"
+tradeType: "EXPORT"
+description: "Export authorisation (precursors) issued by the competent authorities\
+  \ of the Member State where the exporter is established.  COUNCIL REGULATION (EC)\
+  \ No 111/2005 laying down rules for the monitoring of trade between the Union and\
+  \ third countries in drug precursors."
+detailsOnTheDeclaration: "Enter the reference number of the authorisation document.\
+  \  If using more than one document then a separate X035 entry in DE 2/3 is required\
+  \ for each document."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AP"
+  - "AT"
+  - "FP"
+  - "GE"
+  - "GP"
+  - "HP"
+  - "IA"
+  - "IP"
+  - "JA"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "SP"
+  - "TP"
+  - "UA"
+  - "XW"
+  - "XX"

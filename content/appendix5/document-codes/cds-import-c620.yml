@@ -1,0 +1,21 @@
+code: "C620"
+tradeType: "IMPORT"
+description: "T2LF document."
+detailsOnTheDeclaration: "Enter the reference number of the T2LF.  Where a sequentially\
+  \ numbered range of T2LF cover the goods enter the lowest to the highest reference\
+  \ numbers of the T2LFs concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where T2LFs are not sequentially numbered enter the reference number of each\
+  \ T2LFs concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

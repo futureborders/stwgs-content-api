@@ -1,0 +1,27 @@
+code: "Y087"
+tradeType: "IMPORT"
+description: "Request for preferential treatment for Bosnia and Herzegovina."
+detailsOnTheDeclaration: "Enter the reference number of the preference document. \
+  \ Where a sequentially numbered range of documents cover the goods enter the lowest\
+  \ to the highest reference numbers of the documents concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where documents are not sequentially numbered\
+  \ enter the reference number of each document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

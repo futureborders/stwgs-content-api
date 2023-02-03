@@ -1,0 +1,12 @@
+code: "C405"
+tradeType: "IMPORT"
+description: "CITES Sample collection certificate.  Commission Reg 2017/160 amending\
+  \ Council Reg (EC) No 338/97 on the protection of species of wild fauna and flora\
+  \ by regulating trade therein."
+detailsOnTheDeclaration: "Enter the reference number of the CITES sample collection\
+  \ certificate.  If using more than one certificate then a separate C405 entry in\
+  \ DE 2/3 is required for each certificate."
+system: "CDS"
+statusCodes:
+- "AC"
+- "XX"

@@ -1,0 +1,14 @@
+code: "C710"
+tradeType: "IMPORT"
+description: "Information sheet INF"
+detailsOnTheDeclaration: "Enter the reference number of the INF.  Where a sequentially\
+  \ numbered range of INFs cover the goods enter the lowest to the highest reference\
+  \ numbers of the INFs concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where INFs are not sequentially numbered enter the reference number of each INF\
+  \ concerned. For Paper INF form: Use status code AC if certification is required\
+  \ otherwise use status code AE. If an electronic INF submitted on the EU central\
+  \ trader portal, use status code AC. "
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"

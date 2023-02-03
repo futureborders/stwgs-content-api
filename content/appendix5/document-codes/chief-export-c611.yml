@@ -1,0 +1,10 @@
+code: "C611"
+tradeType: "EXPORT"
+description: "Information document"
+detailsOnTheDeclaration: "Use status code AC if certification is required otherwise\
+  \ use status code AE (see document status codes for harmonised declarations for\
+  \ definitions)."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"

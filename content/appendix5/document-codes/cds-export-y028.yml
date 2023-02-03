@@ -1,0 +1,6 @@
+code: "Y028"
+tradeType: "EXPORT"
+description: "Carrier (AEO certificate number)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate."
+system: "CDS"
+statusCodes:

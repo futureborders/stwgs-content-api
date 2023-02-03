@@ -1,0 +1,24 @@
+code: "L100"
+tradeType: "IMPORT"
+description: "Ozone Depleting Substances Import licence: Regulation (EC) No.\n2037/2000\
+  \  of the European Parliament and of the Council of 29\nJune 2000 on substances\
+  \ that deplete the ozone layer"
+detailsOnTheDeclaration: "Enter one of the following 3 digit licence identifers as\
+  \ shown below:\nLIC, LIP, LPD, LPR, ESU, EIP, EHS, EPS, EPD. Followed by the unique\
+  \ licence number.\nUse one of the following status codes (see document status codes\
+  \ for harmonised declarations for definitions): AC, AF, AG, AT, IE, IP, IS, LE,\
+  \ LP, XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AF"
+- "AG"
+- "AT"
+- "EP"
+- "ES"
+- "IE"
+- "IP"
+- "IS"
+- "LE"
+- "LP"
+- "XX"

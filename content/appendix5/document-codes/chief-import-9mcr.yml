@@ -1,0 +1,10 @@
+code: "9MCR"
+tradeType: "IMPORT"
+description: "Master Unique Consignment Reference\nNotes:\n1. This Document code is\
+  \ only to be used for identifying the data on a paper SAD.\n2. CHIEF data is submitted\
+  \ in specific EDI data element(s) or screen field(s)."
+detailsOnTheDeclaration: "As specified in Trade Tariff: imports and community transport\
+  \ inwards, section 5\nNote: No status code (as contained in document status codes\
+  \ for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:

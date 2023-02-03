@@ -1,0 +1,12 @@
+code: "9SDC"
+tradeType: "EXPORT"
+description: "RPA\_Supplementary Declaration (SD) codes and (where appropriate) associated\
+  \ percentages.\nNote: This is not a separate document but may be included on\_CAP\_\
+  Export declarations for certain commodities."
+detailsOnTheDeclaration: "Each\_SD\_is entered as a 9SDC document with the 4 digit\_\
+  RPA.\nSD\_code as the document reference and optional percentage qualifier entered\
+  \ as the quantity to 2 decimal places.\nWhere an\_SD\_code relates to an ingredient,\
+  \ it must follow the document declaration for the ingredient. If the code does not\
+  \ relate to an ingredient it must be declared before any ingredients."
+system: "CDS"
+statusCodes:

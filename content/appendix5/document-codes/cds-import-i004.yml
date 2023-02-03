@@ -1,0 +1,21 @@
+code: "I004"
+tradeType: "IMPORT"
+description: "Surveillance document issued by the competent authorities of a Member\
+  \ State valid throughout the EU.  Regulation (EC) 670/2016 Introducing prior Union\
+  \ surveillance of imports of certain iron and steel products."
+detailsOnTheDeclaration: "Enter the reference number of the document.  Where a sequentially\
+  \ numbered range of documents cover the goods enter the lowest to the highest reference\
+  \ numbers of the documents concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where documents are not sequentially numbered enter the reference number\
+  \ of each document concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"
+- "XB"
+- "XF"
+- "XW"

@@ -1,0 +1,20 @@
+code: "L100"
+tradeType: "IMPORT"
+description: "Import licence \"controlled substances\" (ozone), issued by the Commission.\
+  \  REGULATION (EC) No 1005/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on\
+  \ substances that deplete the ozone layer. See also document code L136 and Y902"
+detailsOnTheDeclaration: "Enter the following 3 digit licence identifier: IOD Followed\
+  \ by the unique licence number If using more than one licence then an additional\
+  \ L100 entry in DE 2/3 will be required for each additional licence"
+system: "CDS"
+statusCodes:
+- "AC"
+- "AF"
+- "AG"
+- "AT"
+- "IE"
+- "IP"
+- "IS"
+- "LE"
+- "LP"
+- "XX"

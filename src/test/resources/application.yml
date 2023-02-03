@@ -1,0 +1,80 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /
+  compression:
+    enabled: true
+    mime-types: text/html,text/xml,text/plain,text/css,text/javascript,application/javascript,application/json
+    min-response-size: 1024
+  http2:
+    enabled: true
+  error:
+    whitelabel:
+      enabled: false
+springdoc:
+  use-root-path: true
+  swagger-ui:
+    use-root-path: true
+  version: 3.0.1
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  mvc:
+    throw-exception-if-no-handler-found: true
+  resources.add-mappings: false
+  codec:
+    max-in-memory-size: 20MB
+  cache:
+    cache-names: statusCodesCache, documentCodesCache
+    caffeine:
+      spec: expireAfterWrite=6000000000s
+stwgs:
+  cms.collections.path:
+    5-document-codes: file:./content/appendix5/document-codes
+    5b-status-codes: file:./content/appendix5/status-codes
+    document-code-descriptions: file:./content/document-code-descriptions
+    measure-type-descriptions: file:./content/measure-type-descriptions
+
+management:
+  server:
+    port: 9000
+    address: 127.0.0.1
+  endpoints:
+    web:
+      exposure.include: metrics,prometheus,health,info
+      path-mapping:
+        health: probes
+        prometheus: private/metrics
+    base-path: /
+  endpoint:
+    metrics.enabled: true
+    prometheus.enabled: true
+    info.enabled: true
+    health:
+      livenessstate:
+        enabled: true
+      readinessstate:
+        enabled: true
+      show-details: ALWAYS
+      probes:
+        enabled: true
+      group:
+        ping:
+          include: ping
+        readiness:
+          include: diskSpace
+        liveness:
+          include: diskSpace
+      enabled: true
+  metrics:
+    export:
+      prometheus:
+        enabled: true
+    tags:
+      application: stwgs-content-api
+    distribution:
+      percentiles-histogram:
+        http:
+          server:
+            requests: true
+      use-global-registry: false

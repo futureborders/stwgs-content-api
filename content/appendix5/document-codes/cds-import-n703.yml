@@ -1,0 +1,21 @@
+code: "N703"
+tradeType: "IMPORT"
+description: "House waybill."
+detailsOnTheDeclaration: "Enter the reference number of the house waybill.  Where\
+  \ a sequentially numbered range of house waybill cover the goods enter the lowest\
+  \ to the highest reference numbers of the house waybill concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where house waybills are not sequentially\
+  \ numbered enter the reference number of each house waybill concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

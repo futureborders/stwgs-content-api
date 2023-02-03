@@ -1,0 +1,27 @@
+code: "C507"
+tradeType: "IMPORT"
+description: "REP - Decision for the repayment of the amounts of import or export\
+  \ duty, including C&E 1179 claims (Column 4c, Annex A of Delegated Regulation (EU)\
+  \ 2015/2446)."
+detailsOnTheDeclaration: "Enter the reference number of the repayment decision.OrEnter\
+  \ the reference number assigned by the exporter to the application for the rejected\
+  \ import claim."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

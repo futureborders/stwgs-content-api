@@ -1,0 +1,10 @@
+code: "9117"
+tradeType: "IMPORT"
+description: "Fera Letter of Authority"
+detailsOnTheDeclaration: "AG, AP, JE, JP"
+system: "CHIEF"
+statusCodes:
+- "AG"
+- "AP"
+- "JE"
+- "JP"

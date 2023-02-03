@@ -1,0 +1,13 @@
+code: "C641"
+tradeType: "IMPORT"
+description: "Dissostichus - catch document import.  COUNCIL REGULATION (EC) No 1368/2006\
+  \ establishing a catch documentation scheme for Dissostichus spp."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by TFC and the catch document number.  If using more than one\
+  \ catch document then a separate C641 entry in DE 2/3 is required for each catch\
+  \ document."
+system: "CDS"
+statusCodes:
+- "AG"
+- "IE"
+- "IP"

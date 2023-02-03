@@ -1,0 +1,16 @@
+code: "C690"
+tradeType: "IMPORT"
+description: "Forest Law Enforcement Governance and Trade Certificate (FLEGT) certificate:\
+  \ Council Regulation (EC) No 2173/2005 on the establishment of a FLEGT licensing\
+  \ scheme for imports of timber into the European Community. Article 4 of Council\
+  \ Regulation (EC) No 2173/2005 prohibits the import of FLEGT timber products from\
+  \ countries which have entered in to a Voluntary Partnership Agreement (VPA) with\
+  \ the EU unless they are covered by a valid FLEGT licence."
+detailsOnTheDeclaration: "Use one of the following status codes (see Appendix C10\
+  \ for definitions) AE, AG, LE, XW and XX."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AG"
+- "LE"
+- "XWXX"

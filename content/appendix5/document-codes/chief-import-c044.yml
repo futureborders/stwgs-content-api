@@ -1,0 +1,13 @@
+code: "C044"
+tradeType: "IMPORT"
+description: "Certificate Mineral waters – NO (Norway)"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AP, GE, LE, LP, UE."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AP"
+- "GE"
+- "LE"
+- "LP"
+- "UE"

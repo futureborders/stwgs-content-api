@@ -1,0 +1,37 @@
+code: "U040"
+tradeType: "IMPORT"
+description: "Proof (certificate)  of origin established in accordance with Article\
+  \ 47 of Regulation (EEC) No 2454/93, for imports of sheep meat under Tariff Quotas\
+  \ from Argentina, Australia, Greenland, New Zealand and Uruguay (or from other countries\
+  \ for which a Form EUR1 cannot be issued) which includes the following additional\
+  \ information:\n— the CN code,\n— the order number or order numbers of the tariff\
+  \ quota concerned in accordance with the Article 6(2) third subparagraph of Regulation\
+  \ (EC) No 2233/03,\n— the total net weight per coefficient category as specified\
+  \ in\nArticle 3 (2) of Regulation (EC) No 2233/03"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the serial number of\
+  \ the Certificate. Where a sequentially numbered range of certificates cover the\
+  \ goods insert the lowest to the highest serial numbers of the certificates concerned\
+  \ i.e. document code + 0054037-0054047: status code. Where certificates are not\
+  \ sequentially numbered insert the serial number of each certificate concerned."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

@@ -1,0 +1,27 @@
+code: "Y038"
+tradeType: "IMPORT"
+description: "Derogation from import prohibition by virtue of Article 14 of Council\
+  \ Regulation (EU) 2017/1509 concerning restrictive measures against the Democratic\
+  \ People's Republic of Korea and repealing Regulation (EC) No 329/2007."
+detailsOnTheDeclaration: "Enter the reference number of the document issued by the\
+  \ Member State, approving derogation under Article 14 of Council Regulation (EU)\
+  \ 2017/1509 in the Document Reason (Fourth Component) Document Identifier (Second\
+  \ Component) must be left blank."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

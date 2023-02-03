@@ -1,0 +1,16 @@
+code: "Y915"
+tradeType: "EXPORT"
+description: "Reference Identification Number issued by the European Commission confirming\
+  \ that the necessary permission has been given for the export of chemical substances\
+  \ and preparations in accordance with Regulation (EC) No 689/2008  on the export\
+  \ and import of dangerous chemicals."
+detailsOnTheDeclaration: "Use of one of the following status codes\n(see document\
+  \ status codes for harmonised declarations for definitions) IP, UP, XA, XB, XX.\n\
+  Enter the Reference Identification Number issued by the European Commission."
+system: "CHIEF"
+statusCodes:
+- "IP"
+- "UP"
+- "XA"
+- "XB"
+- "XX"

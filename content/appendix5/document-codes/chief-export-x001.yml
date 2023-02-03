@@ -1,0 +1,17 @@
+code: "X001"
+tradeType: "EXPORT"
+description: "All Export licences other than those specifically identified by another\
+  \ code."
+detailsOnTheDeclaration: "With the exception of FP, HP and the U series, enter appropriate\
+  \ status code listed in document status codes for harmonised declarations.\nFor\
+  \ supplementary declarations use EA, IA, JA, UA and XA as appropriate (see document\
+  \ status codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "EA"
+- "FP"
+- "HP"
+- "IA"
+- "JA"
+- "UA"
+- "XA"

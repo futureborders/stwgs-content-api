@@ -1,0 +1,25 @@
+code: "C505"
+tradeType: "EXPORT"
+description: "Where Comprehensive Guarantee is Required CGU - Authorisation for the\
+  \ provision of a comprehensive guarantee, including possible reduction or waiver\
+  \ (Column 4a, Annex A of Delegated Regulation (EU) 2015/2446).  (See following code\
+  \ for when a guarantee is not required)\nFor cases where a comprehensive guarantee\
+  \ is not required (including deferment accounts, OGDs, Public Bodies, fixed energy\
+  \ installations and goods below the statistical threshold): CGU - Authorisation\
+  \ for the provision of a comprehensive guarantee, including possible reduction or\
+  \ waiver (Column 4a, Annex A of Delegated Regulation (EU) 2015/2446).  (see previous\
+  \ code for when a guarantee is required)"
+detailsOnTheDeclaration: "Enter:\n• GBCGUguaranteenotrequired\nFor deferment accounts:\
+  \ \n• Enter status code CC \nFor OGDs and Public Bodies: \n• Enter status code XW\n\
+  \ \nFor fixed energy installations: \n• Enter status code XW \nFor goods exempted\
+  \ under TA (article 81, Reg No. (EU) 2015/2446: \n• Enter status code XW \nFor goods\
+  \ below the statistical threshold: \n• Enter status code XB \n Provide the authorisation\
+  \ decision number for the comprehensive guarantee authorisation in the format: \n\
+  . 2 digit code identifying the member state of authorisation, e.g., GB \n. 3 digit\
+  \ code indicating that an authorisation for a comprehensive guarantee is held, i.e.,\
+  \ CGU \n. followed by the authorisation reference number."
+system: "CDS"
+statusCodes:
+  - "CC"
+  - "XB"
+  - "XW"

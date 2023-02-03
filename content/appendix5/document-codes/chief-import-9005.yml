@@ -1,0 +1,11 @@
+code: "9005"
+tradeType: "IMPORT"
+description: "All import documents (including Department of Health) licences, permits\
+  \ or certificates other than those specifically identified by other document codes"
+detailsOnTheDeclaration: "With the exception of FP, HP, the U series and XF, enter\
+  \ the appropriate status code listed in document status codes for harmonised declarations"
+system: "CHIEF"
+statusCodes:
+- "FP"
+- "HP"
+- "XF"

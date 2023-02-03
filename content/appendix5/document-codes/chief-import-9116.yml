@@ -1,0 +1,11 @@
+code: "9116"
+tradeType: "IMPORT"
+description: "Rabies Import Licence"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, XX."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "XX"

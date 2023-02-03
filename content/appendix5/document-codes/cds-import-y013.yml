@@ -1,0 +1,33 @@
+code: "Y013"
+tradeType: "IMPORT"
+description: "Insertion of one of the following endorsements in the \"Remarks\" column\
+  \ of a goods movement certificate.  Regulation (EEC) No 1518/76 (OJ L 169/37): \
+  \ Taxe spéciale à l'exportation appliquée Særlig udførselsafgift opkrævet Sonderausfuhrabgabe\
+  \ erhoben Special export charge collected Applicata tassa speciale all'esportazione\
+  \ Bijzondere uitvoerheffing voldaan. Note: Regulation (EEC) no. 1518/76 covers interim\
+  \ Agreement between the European Union and the People's Democratic Republic of Algeria\
+  \ and concerning the import into the Union of bran and sharps originating in Algeria."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

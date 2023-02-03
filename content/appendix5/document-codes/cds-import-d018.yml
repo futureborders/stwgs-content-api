@@ -1,0 +1,12 @@
+code: "D018"
+tradeType: "IMPORT"
+description: "Invoice for transactions which are not exempted from countervailing/anti-dumping\
+  \ duties (Annex VI of Regulation 2017/367; identical to Annex 5 of Regulation 2017/366)."
+detailsOnTheDeclaration: "Enter the reference number of the invoice.  Where a sequentially\
+  \ numbered range of invoices cover the goods enter the lowest to the highest reference\
+  \ numbers of the invoices concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where invoices are not sequentially numbered enter the reference number\
+  \ of each invoice concerned."
+system: "CDS"
+statusCodes:
+- "AC"

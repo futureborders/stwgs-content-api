@@ -1,0 +1,48 @@
+code: "9005"
+tradeType: "IMPORT"
+description: "All other import documents (including Department of Health) licences,\
+  \ permits or certificates other than those specifically identified by other document\
+  \ codes.\nSee also document codes C669, C670, C672, Y915 and Y923."
+detailsOnTheDeclaration: "Enter the following:\n— For Department of Health document\
+  \ enter GBDOH followed by the license number\n— For Other Licence, Permit or Certificate\
+  \ enter GBOTH followed by the license number\n— For Licence of conformity of hemp\
+  \ in accordance with Article 5 of Regulation No. 1676/2000 enter GBCPI followed\
+  \ by the license number\n— For Refund Certificate for Non-Annex 1 goods enter GBNAI\
+  \ followed by the license number\n— For UK cultural goods licence (Form C) enter\
+  \ GBCEX followed by the license number\n— For EU cultural goods (DCMS or EU issued)\
+  \ enter GBCEX followed by the license number\n— For Licence (Form C or EU licence)\
+  \ enter GBCEX followed by the license number\n— For Export waste permit enter GBEWP\
+  \ followed by the license number\nIf using more than one licence then a separate\
+  \ 9005 entry in\_DE\_2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "EA"
+- "EE"
+- "EL"
+- "EP"
+- "ES"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XU"
+- "XW"
+- "XX"

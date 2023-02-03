@@ -1,0 +1,6 @@
+code: "Y024"
+tradeType: "EXPORT"
+description: "Declarant (AEO certificate number)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate."
+system: "CDS"
+statusCodes:

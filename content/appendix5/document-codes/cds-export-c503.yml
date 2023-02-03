@@ -1,0 +1,13 @@
+code: "C503"
+tradeType: "EXPORT"
+description: "AEOF - Authorisation for the status of Authorised Economic Operator\
+  \ – Customs simplifications/Security and safety (Column 2, Annex A of Delegated\
+  \ Regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the Authorised\
+  \ Economic Operator - Customs Simplification/Security and Safety - authorisation\
+  \ in the format: \n• 2 digit code identifying the member state of authorisation,\
+  \ e.g., GB \n• 4 digit code indicating that an Authorised Economic Operator - Customs\
+  \ Simplification/Security and Safety - is held, i.e., AEOF \n• followed by the authorisation\
+  \ reference number."
+system: "CDS"
+statusCodes:

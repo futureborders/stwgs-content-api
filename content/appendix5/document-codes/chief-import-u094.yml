@@ -1,0 +1,29 @@
+code: "U094"
+tradeType: "IMPORT"
+description: "Certificate of Origin Form A bearing the endorsement “Derogation-Implementing\
+  \ Decision 2013/243/EU” as regards derogations for Switzerland from the rules of\
+  \ origin for peaches, pears and pineapples"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, LE, LP, UA, UE, UP, US, XA.\nAlso insert the serial number of the Certificate.\
+  \ Where more than one certificate covers the goods insert the highest and lowest\
+  \ serial numbers of the certificates (if they fall within a sequentially numbered\
+  \ range). Where certificates are not sequentially numbered insert the serial number\
+  \ of each certificate concerned."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"

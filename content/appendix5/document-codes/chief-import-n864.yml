@@ -1,0 +1,29 @@
+code: "N864"
+tradeType: "IMPORT"
+description: "Invoice declaration or origin declaration made out by any exporter on\
+  \ the invoice or any other commercial document (excluding the Bill of Lading) for\
+  \ originating goods where the total value exceeds €6000"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the serial number of\
+  \ the document"
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

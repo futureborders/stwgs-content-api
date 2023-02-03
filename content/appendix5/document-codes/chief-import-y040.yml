@@ -1,0 +1,10 @@
+code: "Y040"
+tradeType: "IMPORT"
+description: "UK established and VAT registered importer."
+detailsOnTheDeclaration: "VAT identification number issued in the Member State of\
+  \ importation  for the importer designated or recognised under Article 201(1) of\
+  \ the VAT Directive as liable for payment of VAT. Used for an importer that is established\
+  \ and VAT registered in the UK, it cannot\nbe used by a non VAT registered person."
+system: "CHIEF"
+statusCodes:
+- "AT"

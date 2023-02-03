@@ -1,0 +1,13 @@
+documentCode: Y969
+importOverlay: |
+    You are allowed to import mercury products if they are:
+    
+      - essential for civil protection and military uses
+      - for research, calibration of instrumentation or use as a reference standard
+exportOverlay: |
+    You are allowed to export mercury products if they are:
+    
+      - essential for civil protection and military uses
+      - for research, calibration of instrumentation or use as a reference standard
+
+locale: EN

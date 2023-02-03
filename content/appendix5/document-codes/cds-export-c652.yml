@@ -1,0 +1,30 @@
+code: "C652"
+tradeType: "EXPORT"
+description: "Accompanying documents for the carriage of wine products.  COMMISSION\
+  \ REGULATION (EC) No 394/2005, amending Regulation (EC) No 795/2004, laying down\
+  \ detailed rules for the implementation of the single payment scheme provided for\
+  \ in Council Regulation (EC) No 1782/2003.  Establishing common rules for direct\
+  \ support schemes under the common agricultural policy and establishing certain\
+  \ support schemes for farmers, and derogating from Regulation (EC) No 1782/2003."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by the Measure type (VID) and the reference number of the document.\
+  \  Where a sequentially numbered range of Documents cover the goods enter the lowest\
+  \ to the highest reference numbers of the Documents concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where Documents are not sequentially numbered\
+  \ enter the reference number of each Document concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AG"
+  - "AP"
+  - "GE"
+  - "GP"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "UE"
+  - "XB"
+  - "XF"
+  - "XW"
+  - "XX"

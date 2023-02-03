@@ -1,0 +1,28 @@
+code: "C685"
+tradeType: "IMPORT"
+description: "Report containing the results of sampling and analysis performed in\
+  \ accordance with the provisions of Commission Regulation (EC) No 401/2006 of 23\
+  \ February 2006, or with equivalent requirements, by a laboratory approved for that\
+  \ purpose by the Canadian Grain Commission. See also document codes C671 and C684"
+detailsOnTheDeclaration: "Enter the reference number of the Report as required by\
+  \ Regulation (EC) No 401/2006. If using more than one report then a separate C685\
+  \ entry in DE 2/3 is required for each report."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

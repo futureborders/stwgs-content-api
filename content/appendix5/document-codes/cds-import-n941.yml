@@ -1,0 +1,21 @@
+code: "N941"
+tradeType: "IMPORT"
+description: "Embargo permit."
+detailsOnTheDeclaration: "Enter the reference number of the permit.  Where a sequentially\
+  \ numbered range of permits cover the goods enter the lowest to the highest reference\
+  \ numbers of the permits concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where permits are not sequentially numbered enter the reference number\
+  \ of each permit concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

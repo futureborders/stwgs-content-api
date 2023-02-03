@@ -1,0 +1,13 @@
+code: "Y054"
+tradeType: "IMPORT"
+description: "Goods labelled according to the provisions of Article 12, paragraph\
+  \ 1 of Regulation (EU) No 517/2014 on fluorinated greenhouse gases. See also document\
+  \ codes C057, C079, C082, Y053, Y950 and Y951"
+detailsOnTheDeclaration: "Complete statement: ‘Labelled, Art 12 Reg 517/2014.’ in\
+  \ the Document Identifier (Second Component). Document Reason (Fourth Component)\
+  \ must be left blank. Use of this code constitutes a legal declaration that the\
+  \ goods are labelled as per Article 12, paragraph 1 of Regulation (EU) No 517/2014.\
+  \ Sufficient evidence must be held in records to demonstrate eligibility for this\
+  \ exemption which must be produced on demand."
+system: "CDS"
+statusCodes:

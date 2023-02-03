@@ -1,0 +1,22 @@
+code: "N822"
+tradeType: "IMPORT"
+description: "Internal Union transit declaration T2."
+detailsOnTheDeclaration: "The Movement Reference Number (MRN) for the Union transit\
+  \ movement. Enter the reference number of the T2.  Where a sequentially numbered\
+  \ range of T2s cover the goods enter the lowest to the highest reference numbers\
+  \ of the T2s concerned i.e. document code + 0054037-0054047: status code.  Where\
+  \ T2s are not sequentially numbered enter the reference number of each T2 concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JP"
+- "JS"

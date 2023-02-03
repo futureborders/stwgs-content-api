@@ -1,0 +1,10 @@
+code: "C601"
+tradeType: "IMPORT"
+description: "IPO - Authorisation for the use of inward processing procedure (Column\
+  \ 8a, Annex A of Delegated regulation (EU) 2015/2446)."
+detailsOnTheDeclaration: "Provide the authorisation decision number for the Inward\
+  \ processing authorisation in the format: \n• 2 digit code identifying the member\
+  \ state of authorisation, e.g., GB \n• 3 digit code indicating that an inward processing\
+  \ authorisation is held, i.e., IPO \n• followed by the authorisation reference number."
+system: "CDS"
+statusCodes:

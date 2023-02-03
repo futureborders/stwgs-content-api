@@ -1,0 +1,15 @@
+documentCode: Y924
+importOverlay: |
+  You are allowed to import products containing mercury if your goods are:
+  - not listed in Annex II of  the mercury regulation (for example, special cases of cosmetics or eye products which contain mixtures of mercurial compounds)
+  
+  [Contact the relevant environmental regulator for further guidance.](https://www.gov.uk/guidance/moving-mercury-and-products-containing-mercury)
+exportOverlay: |
+  You are allowed to export products containing mercury if your goods are not listed in Annex II of the mercury regulation, for example special cases of cosmetics or eye products which contain mixtures of mercury compounds.
+  
+  Before you can export metallic mercury or mixtures of mercury, you must get written consent from the country you are exporting to.
+
+  Further guidance:
+    - [Contact the environmental regulator for advice on how to get consent](https://www.gov.uk/guidance/moving-mercury-and-products-containing-mercury).
+    - [Find out the rules that apply to the export of mercury, mixtures of mercury, mercury compounds and products containing mercury](https://www.gov.uk/guidance/controls-on-mercury).
+locale: EN

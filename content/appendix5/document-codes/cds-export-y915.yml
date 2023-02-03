@@ -1,0 +1,14 @@
+code: "Y915"
+tradeType: "EXPORT"
+description: "Reference Identification Number.  REGULATION (EU) No 649/2012 OF THE\
+  \ EUROPEAN PARLIAMENT AND OF THE COUNCIL concerning the export and import of hazardous\
+  \ chemicals. See also document codes C669, C670, C672, Y923 and 9005"
+detailsOnTheDeclaration: "Enter GBECM followed by the reference identification number\
+  \ for dangerous chemicals. If using more than one reference identification number,\
+  \ then a separate Y915 entry in DE 2/3 is required for each number. "
+system: "CDS"
+statusCodes:
+  - "IP"
+  - "UP"
+  - "XB"
+  - "XX"

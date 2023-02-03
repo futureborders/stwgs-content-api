@@ -1,0 +1,24 @@
+code: "C690"
+tradeType: "IMPORT"
+description: "FLEGT import licence for timber.  Council Regulation (EC) No 2173/2005\
+  \ on the establishment of a FLEGT licensing scheme for imports of timber into the\
+  \ European Union.  Article 4 of Council Regulation (EC) No 2173/2005 prohibits the\
+  \ import of FLEGT timber products from countries which have entered in to a Voluntary\
+  \ Partnership Agreement (VPA) with the EU unless they are covered by a valid FLEGT\
+  \ licence (UK Tariff)."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by FGT and the licence number.  If using more than one licence\
+  \ then a separate C690 entry in DE 2/3 is required for each licence."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AG"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "UA"
+- "UE"
+- "US"
+- "XW"

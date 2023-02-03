@@ -1,0 +1,21 @@
+code: "C617"
+tradeType: "EXPORT"
+description: "TR transfer note (T2F)."
+detailsOnTheDeclaration: "Enter the reference number of the TR transfer note.  Where\
+  \ a sequentially numbered range of TR transfer notes cover the goods enter the lowest\
+  \ to the highest reference numbers of the TR transfer notes concerned i.e. document\
+  \ code + 0054037-0054047: status code.  Where TR transfer notes are not sequentially\
+  \ numbered enter the reference number of each TR transfer note concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

@@ -1,0 +1,21 @@
+code: "N821"
+tradeType: "EXPORT"
+description: "External Union transit declaration/ common transit, T1."
+detailsOnTheDeclaration: "Enter the reference number of the T1.  Where a sequentially\
+  \ numbered range of T1s cover the goods enter the lowest to the highest reference\
+  \ numbers of the T1s concerned i.e. document code + 0054037-0054047: status code.\
+  \  Where T1s are not sequentially numbered enter the reference number of each T1\
+  \ concerned."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AS"
+  - "AT"
+  - "GE"
+  - "GP"
+  - "JA"
+  - "JE"
+  - "JS"

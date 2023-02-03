@@ -1,0 +1,16 @@
+code: "9118"
+tradeType: "IMPORT"
+description: "Import permit for harp and hooded seal skins.\nSee also codes C679,\
+  \ C680, C683 and Y032"
+detailsOnTheDeclaration: "Enter GBAHC followed by the permit number. If using more\
+  \ than one permit then a separate 9118 entry in\_DE\_2/3 is required for each permit."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "XX"

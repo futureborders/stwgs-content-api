@@ -1,0 +1,32 @@
+code: "U048"
+tradeType: "IMPORT"
+description: "Invoice for EUR-MED. EUR-MED declaration of preferential origin on an\
+  \ invoice or other commercial document bearing as appropriate an original signature\
+  \ or approval number of the exporter in a Pan-Euro- Mediterranean Country See also:\
+  \  Y019 where the declaration shows that the goods originate in\nIceland; Y020 where\
+  \ the declaration shows that the goods originate in\nNorway; and\nY021 where the\
+  \ document shows that goods originate in the EEA."
+detailsOnTheDeclaration: "Enter the reference number of the invoice.  Where a sequentially\
+  \ numbered range of invoices cover the goods enter the lowest to the highest reference\
+  \ numbers of the invoices concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where invoices are not sequentially numbered enter the reference number\
+  \ of each invoice concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

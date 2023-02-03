@@ -1,0 +1,43 @@
+code: "X001"
+tradeType: "EXPORT"
+description: "Export licence AGREX.  COMMISSION DELEGATED REGULATION (EU) 2016/1237\
+  \ supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the\
+  \ Council with regard to the rules for applying the system of import and export\
+  \ licences. See also document code Y036"
+detailsOnTheDeclaration: "Enter the nationality of the document (for UK use GB; for\
+  \ Union docs use EU) followed by: \n• For CAP licences enter CAP followed by the\
+  \ licence number \n• For animal health certificates enter EHC followed by the certificate\
+  \ number. \n• For Standard Individual Export Licence enter CLA followed by the certificate\
+  \ number. \nA separate X001 document code must be declared for each licence and/or\
+  \ certificate."
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AG"
+  - "AP"
+  - "AS"
+  - "AT"
+  - "EA"
+  - "EE"
+  - "EL"
+  - "EP"
+  - "ES"
+  - "GE"
+  - "GP"
+  - "IA"
+  - "IE"
+  - "IP"
+  - "IS"
+  - "JA"
+  - "JE"
+  - "JP"
+  - "JS"
+  - "LE"
+  - "LP"
+  - "SP"
+  - "TP"
+  - "UA"
+  - "XB"
+  - "XF"

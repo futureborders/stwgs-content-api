@@ -1,0 +1,29 @@
+code: "C060"
+tradeType: "IMPORT"
+description: "Declaration to be provided for every consignment of kitchenware falling\
+  \ under the provisions of (EU) Regulation 284/2011, originating in or consigned\
+  \ from the People’s Republic of China and Hong Kong Special Administrative Region,\
+  \ China. See also document code: Y046"
+detailsOnTheDeclaration: "Enter the reference number of the declaration for kitchenware\
+  \ falling under the provisions of (EU) Regulation 284/2011, originating in or consigned\
+  \ from the People’s Republic of China and Hong Kong Special Administrative Region,\
+  \ China. "
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

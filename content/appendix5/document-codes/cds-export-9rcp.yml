@@ -1,0 +1,8 @@
+code: "9RCP"
+tradeType: "EXPORT"
+description: "RPA\_recipe code\nNote:This is not a separate document but must be included\
+  \ as appropriate on\_CAP\_Export declarations for processed goods without a registered\
+  \ recipe."
+detailsOnTheDeclaration: "Enter the\_RPA\_recipe number."
+system: "CDS"
+statusCodes:

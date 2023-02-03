@@ -1,0 +1,12 @@
+code: "9CPD"
+tradeType: "IMPORT"
+description: "CPD Carnet: Only required where the Carnet requires endorsement by the\
+  \ Customs authority –"
+detailsOnTheDeclaration: "Enter the reference number of the CPD carnet. Where a sequentially\
+  \ numbered range of carnets cover the goods enter the lowest to the highest reference\
+  \ numbers of the carnets concerned i.e. document code + 0054037—0054047: status\
+  \ code. Where carnets are not sequentially numbered enter the reference number of\
+  \ each carnet concerned."
+system: "CDS"
+statusCodes:
+- "AC"

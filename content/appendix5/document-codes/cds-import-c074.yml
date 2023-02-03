@@ -1,0 +1,22 @@
+code: "C074"
+tradeType: "IMPORT"
+description: "Zootechnical certificate (Regulation (EU) 2016/1012, Article 37) Purebred\
+  \ animals imported for breeding prposes shall be accompanied by: \n• the zootechnical\
+  \ certificate referred to in Article 30 (5) or Article 32 of Regulation (EU) 2016/1012;\
+  \ \n•  a document indicating that they are to be entered in a breeding book maintained\
+  \ by a breed society or registered in a breeding register maintained by a breeding\
+  \ operation. \nWhen declaring document code C074, document code C075 must also be\
+  \ declared"
+detailsOnTheDeclaration: "Enter the reference number of the Certificate.  Where a\
+  \ sequentially numbered range of certificates cover the goods enter the lowest to\
+  \ the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AG"
+- "AP"
+- "AS"
+- "IE"
+- "IS"
+- "JEorJS"

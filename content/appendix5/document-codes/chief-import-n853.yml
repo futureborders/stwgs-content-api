@@ -1,0 +1,16 @@
+code: "N853"
+tradeType: "IMPORT"
+description: "Common Health Entry Document for Products (CHED-P) Part 2, Section B\
+  \ of Annex II to Commission Implementing Regulation (EU) 2019/1715 (OJ L 261)) laying\
+  \ down procedures for vet checks at Community BIPs on products imported from third\
+  \ countries "
+detailsOnTheDeclaration: "Use either status code AE, JA, JE, LE, LP or XX as appropriate\
+  \ (see document status codes for harmonised declarations for definitions)."
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "JA"
+- "JE"
+- "LE"
+- "LP"
+- "XX"

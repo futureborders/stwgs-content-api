@@ -1,0 +1,10 @@
+code: "9112"
+tradeType: "IMPORT"
+description: "Drugs Precursor Chemicals Individual Licence"
+detailsOnTheDeclaration: "Use one of the following status codes\n(see document status\
+  \ codes for harmonised declarations for definitions): AT\nXX – Ex-heading  goods\
+  \ for which the document does not apply"
+system: "CHIEF"
+statusCodes:
+- "AT"
+- "XX"

@@ -1,0 +1,26 @@
+code: "U062"
+tradeType: "IMPORT"
+description: "Origin quota and alternatives to the product specific rules of origin\
+  \ in Annex 5-A of CETA of Council Decision (EU) 2017/37 (OJ L11)."
+detailsOnTheDeclaration: "Reference must be made to Annex 5-A of the CETA agreement.\
+  \ Also insert the serial number of the Certificate.  Where a sequentially numbered\
+  \ range of \ncertificates cover the goods insert the lowest to highest serial numbers\
+  \ of the certificates concerned, i.e. document code \n+0054037-0062047: status code.\
+  \ Where certificates are not sequentially numbered insert the serial number of each\
+  \ certificate\nconcerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"

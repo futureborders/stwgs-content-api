@@ -1,0 +1,9 @@
+code: "Y800"
+tradeType: "IMPORT"
+description: "Goods not consigned from Bangladesh.  Decision 0088/14."
+detailsOnTheDeclaration: "Complete statement \"Not consigned from Bangladesh\". Use\
+  \ of this code constitutes a legal declaration that the goods are not consigned\
+  \ from Bangladesh. Sufficient evidence must be held in records to demonstrate eligibility\
+  \ for this waiver which must be produced on demand."
+system: "CDS"
+statusCodes:

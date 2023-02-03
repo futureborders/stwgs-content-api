@@ -1,0 +1,38 @@
+code: "C080"
+tradeType: "IMPORT"
+description: "Simplified V I 1 document.  EC REG 555/2008 laying down detailed rules\
+  \ for the application of Regulation (EC) 479/2008 of the relative Council, to the\
+  \ common organization of the wine market, with regard to support programs to trade\
+  \ with third countries production potential and controls in the wine sector."
+detailsOnTheDeclaration: "Enter the reference number of the V I 1 document. Where\
+  \ a sequentially numbered range of certificates cover the goods enter the lowest\
+  \ to the highest reference numbers of the certificates concerned i.e. document code\
+  \ + 0054037-0054047: status code.  Where certificates are not sequentially numbered\
+  \ enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "IA"
+- "IE"
+- "IP"
+- "IS"
+- "JA"
+- "JE"
+- "JP"
+- "JS"
+- "LE"
+- "LP"
+- "SP"
+- "TP"
+- "XB"
+- "XF"
+- "XW"
+- "XX"

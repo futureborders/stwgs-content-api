@@ -1,0 +1,15 @@
+code: "C656"
+tradeType: "EXPORT"
+description: "Dissostichus - Catch document export.  COUNCIL REGULATION (EC) No 1368/2006\
+  \ amending Regulation (EC) No 1035/2001 establishing a catch documentation scheme\
+  \ for Dissostichus spp"
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by ETF and the reference number of the catch document. If using\
+  \ more than one catch document, then a separate C656 entry in DE 2/3 is required\
+  \ for each catch document."
+system: "CDS"
+statusCodes:
+  - "AE"
+  - "AG"
+  - "IE"
+  - "IP"

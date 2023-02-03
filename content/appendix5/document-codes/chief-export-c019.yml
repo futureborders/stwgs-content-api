@@ -1,0 +1,12 @@
+code: "C019"
+tradeType: "EXPORT"
+description: "Authorisation to use outward processing (i.e. Customs procedure\n‘OP’\
+  ).\nSee also:\nN990 for declaring AS, EU, PC or TA\nY009 for declaring OT\nC601\
+  \ for declaring IP"
+detailsOnTheDeclaration: "Reference: OP authorisation reference as defined under Box\
+  \ 44 CUSTOMS SCHEMES.\nFaxed copy not acceptable.\nNote: No status code (as contained\
+  \ in document status codes for harmonised declarations) is required."
+system: "CHIEF"
+statusCodes:
+- "ES"
+- "US"

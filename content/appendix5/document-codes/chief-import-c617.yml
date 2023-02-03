@@ -1,0 +1,20 @@
+code: "C617"
+tradeType: "IMPORT"
+description: "(T2F) TR transfer note\nInter-container Simplified procedure – goods\
+  \ moved by rail"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AC, AE, AF, AG, AS, AT, GE,\
+  \ GP, JA, JE, JS."
+system: "CHIEF"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

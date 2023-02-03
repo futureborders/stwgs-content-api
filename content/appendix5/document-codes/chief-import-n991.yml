@@ -1,0 +1,30 @@
+code: "N991"
+tradeType: "IMPORT"
+description: "Declaration of preferential origin, issued under the provisions of the\
+  \ EU-South Korea Free Trade Agreement, on an invoice, packing list, consignment\
+  \ note or other commercial document, bearing as appropriate an original signature\
+  \ or approval number of the exporter"
+detailsOnTheDeclaration: "Use one of the following status codes (see document status\
+  \ codes for harmonised declarations for definitions): AE, AF, AG, AP, AS, AT, GE,\
+  \ GP, JE, JP, LE, LP, UA, UE, UP, US, XA, XB.\nAlso insert the invoice, packing\
+  \ list, consignment note or other commercial document number(s)"
+system: "CHIEF"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XA"
+- "XB"

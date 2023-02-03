@@ -1,0 +1,22 @@
+code: "N820"
+tradeType: "IMPORT"
+description: "Transit declaration \"T\"."
+detailsOnTheDeclaration: "Enter the reference number of the Transit declaration. \
+  \ Where a sequentially numbered range of Transit declarations cover the goods enter\
+  \ the lowest to the highest reference numbers of the Transit declarations concerned\
+  \ i.e. document code + 0054037-0054047: status code.  Where Transit declarations\
+  \ are not sequentially numbered enter the reference number of each Transit declaration\
+  \ concerned."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AE"
+- "AF"
+- "AG"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JA"
+- "JE"
+- "JS"

@@ -1,0 +1,30 @@
+code: "C058"
+tradeType: "IMPORT"
+description: "The statement of conformity with the end-of-waste criteria referred\
+  \ to in Article 5(1) of Council Regulation (EU) No 333/2011 is to be issued for\
+  \ each consignment of scrap metal ceased to be waste."
+detailsOnTheDeclaration: "Enter the reference number of the statement of conformity\
+  \ with the end-of-waste criteria for each consignment of scrap metal ceased to be\
+  \ waste. Where a sequentially numbered range of certificates cover the goods enter\
+  \ the lowest to the highest reference numbers of the certificates concerned i.e.\
+  \ document code + 0054037-0054047: status code.  Where certificates are not sequentially\
+  \ numbered enter the reference number of each certificate concerned."
+system: "CDS"
+statusCodes:
+- "AE"
+- "AF"
+- "AG"
+- "AP"
+- "AS"
+- "AT"
+- "GE"
+- "GP"
+- "JE"
+- "JP"
+- "LE"
+- "LP"
+- "UA"
+- "UE"
+- "UP"
+- "US"
+- "XB"

@@ -1,0 +1,13 @@
+code: "C635"
+tradeType: "IMPORT"
+description: "CITES Label for Scientific Material.  Commission Reg 160/2017 on the\
+  \ protection of species of wild fauna and flora by regulating trade therein. Please\
+  \ note that this code is not currently mandated for CITES measures. See documents\
+  \ codes C400 and Y900."
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by: Imports:  ICP and the label number. Exports: ECP and the\
+  \ label number. If using more than one label, then a separate C635 entry in DE 2/3\
+  \ is required for each label."
+system: "CDS"
+statusCodes:
+- "AC"

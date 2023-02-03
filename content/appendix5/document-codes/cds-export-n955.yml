@@ -1,0 +1,11 @@
+code: "N955"
+tradeType: "EXPORT"
+description: "ATA carnet."
+detailsOnTheDeclaration: "Enter the reference number of the ATA carnet.  Where a sequentially\
+  \ numbered range of carnets cover the goods enter the lowest to the highest reference\
+  \ numbers of the carnets concerned i.e. document code + 0054037-0054047: status\
+  \ code.  Where carnets are not sequentially numbered enter the reference number\
+  \ of each carnet concerned."
+system: "CDS"
+statusCodes:
+  - "AC"

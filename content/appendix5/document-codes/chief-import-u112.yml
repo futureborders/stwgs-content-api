@@ -1,0 +1,7 @@
+code: "U112"
+tradeType: "IMPORT"
+description: "Preference based on importers knowledge "
+detailsOnTheDeclaration: "This code must be declared with status code JP"
+system: "CHIEF"
+statusCodes:
+- "JP"

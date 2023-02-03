@@ -1,0 +1,14 @@
+code: "C670"
+tradeType: "IMPORT"
+description: "Movement document as mentioned in Regulation (EC) No 1013/2006 (OJ L\
+  \ 190) – Article 4 and Annex IB on shipments of waste. See also document codes C669,\
+  \ 9005 and Y915"
+detailsOnTheDeclaration: "Enter the country code for the country of issue (GB for\
+  \ the UK) followed by IWP and the reference number of the movement document. If\
+  \ using more than one movement document, then a separate C670 entry in DE 2/3 is\
+  \ required for each document."
+system: "CDS"
+statusCodes:
+- "AC"
+- "AF"
+- "AT"

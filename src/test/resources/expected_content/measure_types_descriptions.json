@@ -1,0 +1,424 @@
+{
+  "measureTypeDescriptions": [
+    {
+      "measureType": "354",
+      "descriptionOverlay": "## Home Office controlled drugs (export)\nYou need a licence to export controlled drugs. Read the guidance for [controlled drugs import and export licencing](https://www.gov.uk/guidance/controlled-drugs-import-and-export-licences).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "475",
+      "descriptionOverlay": "## Restriction on entry into free circulation\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "475",
+      "descriptionOverlay": "## Restriction on entry into free circulation\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "360",
+      "descriptionOverlay": "## Phytosanitary Certificate\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "360",
+      "descriptionOverlay": "## Phytosanitary Certificate\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "410",
+      "descriptionOverlay": "## Veterinary controls\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "410",
+      "descriptionOverlay": "## Veterinary controls\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "355",
+      "descriptionOverlay": "## HMI Conformity Certificate (fruit and veg) issued in UK\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "355",
+      "descriptionOverlay": "## HMI Conformity Certificate (fruit and veg) issued in UK\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "747",
+      "descriptionOverlay": "## Import control of timber and timber products subject to the FLEGT licensing scheme\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "747",
+      "descriptionOverlay": "## Import control of timber and timber products subject to the FLEGT licensing scheme\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "350",
+      "descriptionOverlay": "## Animal Health Certificate\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "350",
+      "descriptionOverlay": "## Animal Health Certificate\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "746",
+      "descriptionOverlay": "## Import control on seal products\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "746",
+      "descriptionOverlay": "## Import control on seal products\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "724",
+      "descriptionOverlay": "## Import control of fluorinated greenhouse gases\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "724",
+      "descriptionOverlay": "## Import control of fluorinated greenhouse gases\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "719",
+      "descriptionOverlay": "## Control on illegal, unreported and unregulated fishing\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "719",
+      "descriptionOverlay": "## Control on illegal, unreported and unregulated fishing\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "750",
+      "descriptionOverlay": "## Organic goods: import control\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "750",
+      "descriptionOverlay": "## Organic goods: import control\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "351",
+      "descriptionOverlay": "## Health and Safety Executive Import Licensing Firearms and Ammunition\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "351",
+      "descriptionOverlay": "## Health and Safety Executive Import Licensing Firearms and Ammunition\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "745",
+      "descriptionOverlay": "## Import control on cat and dog fur\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "745",
+      "descriptionOverlay": "## Import control on cat and dog fur\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "722",
+      "descriptionOverlay": "## Steps to take if your goods are affected by measures relating to feed and food of non-animal origin from Japan\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "722",
+      "descriptionOverlay": "## Steps to take if your goods are affected by measures relating to feed and food of non-animal origin from Japan\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "352",
+      "descriptionOverlay": "## Attestation Document (horticulture and potatoes)\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "352",
+      "descriptionOverlay": "## Attestation Document (horticulture and potatoes)\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "728",
+      "descriptionOverlay": "## Your goods may be affected by luxury goods measures in North Korea\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "728",
+      "descriptionOverlay": "## Your goods may be affected by luxury goods measures in North Korea\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "706",
+      "descriptionOverlay": "## Goods for torture and repression, export prohibition\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "706",
+      "descriptionOverlay": "## Goods for torture and repression, export prohibition\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "710",
+      "descriptionOverlay": "## CITES: import control\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "710",
+      "descriptionOverlay": "## CITES: import control\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "420",
+      "descriptionOverlay": "## Entry into free circulation\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "420",
+      "descriptionOverlay": "## Entry into free circulation\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "705",
+      "descriptionOverlay": "## Import prohibition on goods for torture and repression\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "705",
+      "descriptionOverlay": "## Import prohibition on goods for torture and repression\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "748",
+      "descriptionOverlay": "## Import control of mercury\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "748",
+      "descriptionOverlay": "## Import control of mercury\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "465",
+      "descriptionOverlay": "## Restriction on entry into free circulation\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "465",
+      "descriptionOverlay": "## Restriction on entry into free circulation\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "361",
+      "descriptionOverlay": "## Home Office pre-cursor chemical export authorisation\nYou need authorisation from the Home Office to export precursor chemicals. Read the guidance for [precursor chemical licencing](https://www.gov.uk/guidance/precursor-chemical-licensing).\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "CVD",
+      "descriptionOverlay": "## Steps to take if your goods are affected by measures relating to feed and food of non-animal origin\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "CVD",
+      "descriptionOverlay": "## Steps to take if your goods are affected by measures relating to feed and food of non-animal origin\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "714",
+      "descriptionOverlay": "## Import control\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "714",
+      "descriptionOverlay": "## Import control\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "713",
+      "descriptionOverlay": "## Import control on genetically modified organisms (GMO) and products containing GMOs\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "713",
+      "descriptionOverlay": "## Import control on genetically modified organisms (GMO) and products containing GMOs\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "357",
+      "descriptionOverlay": "## Certificate of Conformity\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "357",
+      "descriptionOverlay": "## Certificate of Conformity\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "708",
+      "descriptionOverlay": "## Goods for torture and repression, export restriction\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "708",
+      "descriptionOverlay": "## Goods for torture and repression, export restriction\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "761",
+      "descriptionOverlay": "## Import control on REACH\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "761",
+      "descriptionOverlay": "## Import control on REACH\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "358",
+      "descriptionOverlay": "## Home Office pre-cursor chemical import authorisation\nYou need authorisation from the Home Office to import precursor chemicals. Read the guidance for [precursor chemical licencing](https://www.gov.uk/guidance/precursor-chemical-licensing).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "362",
+      "descriptionOverlay": "## Home Office controlled drugs (import)\nYou need a licence to import controlled drugs. Read the guidance for [controlled drugs import and export licencing](https://www.gov.uk/guidance/controlled-drugs-import-and-export-licences).\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "712",
+      "descriptionOverlay": "## Import control - Invasive Alien Species\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "712",
+      "descriptionOverlay": "## Import control - Invasive Alien Species\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "760",
+      "descriptionOverlay": "## Import control\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "760",
+      "descriptionOverlay": "## Import control\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "707",
+      "descriptionOverlay": "## Import control\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "707",
+      "descriptionOverlay": "## Import control\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "711",
+      "descriptionOverlay": "## Import control on restricted goods and technologies\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "711",
+      "descriptionOverlay": "## Import control on restricted goods and technologies\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "755",
+      "descriptionOverlay": "## Waste products - Import control\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "755",
+      "descriptionOverlay": "## Waste products - Import control\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    },
+    {
+      "measureType": "363",
+      "descriptionOverlay": "## Quarantine Release Certificate\n",
+      "locale": "EN",
+      "tradeType": "IMPORT"
+    },
+    {
+      "measureType": "363",
+      "descriptionOverlay": "## Quarantine Release Certificate\n",
+      "locale": "EN",
+      "tradeType": "EXPORT"
+    }
+  ]
+}

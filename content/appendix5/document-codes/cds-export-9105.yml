@@ -1,0 +1,38 @@
+code: "9105"
+tradeType: "EXPORT"
+description: "Standard Individual Export Licence: radioactive sources.\nOpen Individual\
+  \ Export Licence: radioactive sources.\nOpen General Export Licence: radioactive\
+  \ sources.\nOpen General Transhipment Licence: radioactive sources."
+detailsOnTheDeclaration: "Enter the following -\n— For an Open General Export Licence\
+  \ enter GBOGE followed by the licence number\n— For Open Individual Export Licence\
+  \ enter GBOIE followed by the licence number\n— For Standard Individual Export Licences\
+  \ enter GBSIE followed by the licence number\n— For Open General Transhipment Licences\
+  \ enter GBOGT followed by the licence number\nIf using more than one licence then\
+  \ a separate 9105 entry in\_DE\_2/3 is required for each licence.\nFor supplementary\
+  \ declarations use EA, IA, JA, or UA as appropriate"
+system: "CDS"
+statusCodes:
+  - "AC"
+  - "AE"
+  - "AF"
+  - "AP"
+  - "AT"
+  - "EA"
+  - "EE"
+  - "EP"
+  - "ES"
+  - "FP"
+  - "GE"
+  - "GP"
+  - "HP"
+  - "IA"
+  - "IP"
+  - "JA"
+  - "JP"
+  - "LE"
+  - "LP"
+  - "SP"
+  - "TP"
+  - "UA"
+  - "XW"
+  - "XX"

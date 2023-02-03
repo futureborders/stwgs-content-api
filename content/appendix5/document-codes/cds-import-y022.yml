@@ -1,0 +1,6 @@
+code: "Y022"
+tradeType: "IMPORT"
+description: "Consignor / exporter (AEO certificate number)."
+detailsOnTheDeclaration: "Enter the reference number of the Certificate."
+system: "CDS"
+statusCodes:

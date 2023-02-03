@@ -1,0 +1,22 @@
+documentCode: 9105
+overlay: |
+  The exporting of radioactive sources is controlled and needs an export licence.
+
+  Use the [Goods Checker](https://www.ecochecker.trade.gov.uk/spirefox5live/fox/spire)
+  to check if you need a licence from the Export Control Joint Unit.
+
+  The types of licences needed for radioactive sources are:
+  - Open General Export Licence
+  - Standard Individual Export Licence
+  - Open Individual Export Licence
+
+  You may be able to use the Open General Export Licence (OGEL): radioactive sources which allows the export of some
+  goods from radioactive sources to specific destinations. This also removes the need to apply for an individual licence.
+
+  A Standard Individual Export Licence (SIEL) or Open Individual Export Licence (OIEL) will be needed if:
+    - the goods are to a destination not covered by OGEL
+    - the terms and conditions of the OGEL cannot be met
+
+  Register for the OGEL or [apply for an export licence on SPIRE](https://www.spire.trade.gov.uk/spire/fox/espire/LOGIN/login),
+  the online export licensing system.
+locale: EN
