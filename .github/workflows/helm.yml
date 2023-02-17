@@ -1,0 +1,23 @@
+name: Lint Charts
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Fetch history
+        run: git fetch --prune --unshallow
+
+      - name: Set up chart-testing
+        uses: helm/chart-testing-action@v2.0.1
+        with:
+          version: v3.3.0
+
+      - name: Run linting
+        run: ct lint --config .github/ct.yaml
