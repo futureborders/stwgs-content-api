@@ -1,7 +1,6 @@
 documentCode: Y950
-overlay: |
-  You must provide evidence that the goods do not contain hydrofluorocarbons.
+importOverlay: |
+  You must provide evidence that the goods do not contain hydrofluorocarbons or are within safe limits.
   
-  For further information, 
-  [see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).
+  For further information, [see Fluorinated gas guidance](https://www.gov.uk/government/collections/fluorinated-gas-f-gas-guidance-for-users-producers-and-traders).
 locale: EN

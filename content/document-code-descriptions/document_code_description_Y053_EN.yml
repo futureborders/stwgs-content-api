@@ -1,6 +1,4 @@
 documentCode: Y053
-overlay: |
-  You must be registered on the GB HFC Registry.
-  
-  You must have sufficient quota or quota authorisation to cover the amount of HFC you’re importing.
+importOverlay: |
+  Goods may be exempt from labelling requirements if listed in EU regulation 517/2014, Article 12, and declared as one of the following: aerosol dispensers that contain fluorinated greenhouse gases; fluorinated greenhouse gas containers or gas-based solvents; refrigeration, air-conditioning, or fire protection equipment; heat pumps; electrical switchgear; or organic Rankine cycle.
 locale: EN
