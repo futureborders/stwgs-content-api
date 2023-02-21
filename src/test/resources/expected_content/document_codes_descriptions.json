@@ -1070,7 +1070,7 @@
     },
     {
       "documentCode": "9019",
-      "descriptionOverlay": "If you are importing civil explosives you must complete a [HSE LP50 GB Transfer Approval form](https://www.hse.gov.uk/forms/explosive/lp50.docx) and send it with your consignment. Completed forms should also be sent to [cad.explosives@hse.gov.uk](mailto:cad.explosives@hse.gov.uk).\n\nIf you have any questions you can email [explosive.enquiries@hse.gov.uk](mailto:explosive.enquiries@hse.gov.uk).\n\nFor further information see transfer of civil explosives.\n\nPlease note: This control only applies to civil explosives not military explosives.\n",
+      "descriptionOverlay": "If you are importing civil explosives you must complete a [HSE LP50 GB Transfer Approval form](https://www.hse.gov.uk/forms/explosive/lp50.docx) and send it with your consignment. Completed forms should also be sent to [cad.explosives@hse.gov.uk](mailto:cad.explosives@hse.gov.uk).\n\nIf you have any questions you can email [explosive.enquiries@hse.gov.uk](mailto:explosive.enquiries@hse.gov.uk).\n\nFor further information [see transfer of civil explosives](https://www.hse.gov.uk/explosives/transfer-of-explosives.htm).\n\nPlease note: This control only applies to civil explosives not military explosives.\n",
       "locale": "EN",
       "tradeType": "IMPORT"
     },
