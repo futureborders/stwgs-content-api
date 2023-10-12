@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.6.6</version>
+    <version>2.7.15</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>uk.gov.cabinetoffice.bpdg.stwgs</groupId>
@@ -20,11 +20,11 @@
     <snippetsDirectory>${project.build.directory}/generated-snippets</snippetsDirectory>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
-    <spring-context.version>5.3.13</spring-context.version>
+    <spring-context.version>5.3.19</spring-context.version>
     <spring-boot-autoconfigure.version>2.6.6</spring-boot-autoconfigure.version>
     <logstash-logback-encoder.version>6.4</logstash-logback-encoder.version>
     <logback.version>1.2.9</logback.version>
-    <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version>
+    <jacoco-maven-plugin.version>0.8.7</jacoco-maven-plugin.version> <!--0.8.10-->
     <maven-resources-plugin.version>2.7</maven-resources-plugin.version>
     <spring-boot-maven-plugin.version>2.3.3.RELEASE</spring-boot-maven-plugin.version>
     <commons-lang3.version>3.12.0</commons-lang3.version>
@@ -32,13 +32,13 @@
     <caffeine.version>3.0.5</caffeine.version>
     <reactor-extra.version>3.3.3.RELEASE</reactor-extra.version>
     <guava-testlib.version>31.0.1-jre</guava-testlib.version>
-    <springdoc-openapi-ui.version>1.6.8</springdoc-openapi-ui.version>
+    <springdoc-openapi-ui.version>1.7.0</springdoc-openapi-ui.version>
     <junit.jupiter.version>5.8.2</junit.jupiter.version>
     <junit.platform.version>1.8.2</junit.platform.version>
     <testng.version>7.5</testng.version>
     <lombok.version>1.18.22</lombok.version>
-    <cucumber.version>7.3.4</cucumber.version>
-    <maven-cucumber-reporting.version>5.7.0</maven-cucumber-reporting.version>
+    <cucumber.version>7.13.0</cucumber.version>
+    <maven-cucumber-reporting.version>5.7.0</maven-cucumber-reporting.version> <!-- 5.7.6 -->
     <baseurl>http://localhost:8080</baseurl>
     <skip.surefire.tests>false</skip.surefire.tests>
   </properties>
@@ -47,6 +47,11 @@
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-actuator</artifactId>
     </dependency>
+    <!-- <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>2.2</version>
+    </dependency> -->
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-tomcat</artifactId>
@@ -351,7 +356,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-surefire-plugin</artifactId>
-        <version>3.0.0-M6</version>
+        <version>3.0.0-M7</version>
         <configuration>
           <excludes>
             <exclude>**/CucumberIntegrationTest*.java</exclude>
@@ -362,7 +367,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-failsafe-plugin</artifactId>
-        <version>3.0.0-M6</version>
+        <version>3.0.0</version>
         <configuration>
           <includes>
             <include>**/CucumberIntegrationTest*.java</include>
